@@ -1,17 +1,16 @@
-## Eu sou Gabriel Guedes 👋⭐
-
+## <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" width="20px"> Ooi! Eu sou Gabriel Guedes 👋⭐ <img align="right" src="https://media1.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e475df1gcxu0shv0jjbele72kiorlv6z76sevf2ce51&rid=giphy.gif" width="50px"> 
 
 - 🖥️ Cursando Engenharia de Computação na instituição de ensino Centro Universitário Eniac.
-- 🖥️ Cursando Análise e Desenvolvimento de Sistemas na instituição de ensino Fatec Guarulhos
+- 🖥️ Cursando Análise e Desenvolvimento de Sistemas na instituição de ensino Fatec Guarulhos.
 - 💻 Sou formado em Técnico de Informática.
-- 🙃 Cursando Inglês na instituição de ensino Wizard
-- 🏠 Sou brasileiro, moro em Guarulhos-SP.
+- 🤟 Cursando Inglês na instituição de ensino Wizard.
+- 🏡 Sou Brasileiro, moro em Guarulhos-SP.
 <br>
 
 <div>
   <a href="https://github.com/GabrielGuedess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGuedess&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuedess&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGuedess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuedess&layout=compact&langs_count=7&theme=tokyonight" />
   </a>
 </div>
   
@@ -29,13 +28,15 @@
   <img align="center" alt="Gabriel-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Gabriel-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right"  alt="Gabriel" height="120" width="120" src="">
+  <img align="center" alt="Gabriel-yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+  <img align="center" alt="Gabriel-npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  <img align="right"  alt="Gabriel" height="180" width="180" src="https://github.com/GabrielGuedess/GabrielGuedess/blob/main/animation_500_ks5nk032.gif">
 </div>
   
 ##
 
 <div> 
- <a href = "mailto:gabrielrguedess@gmail.com" target="_blank">
+ <a href="mailto:gabrielrguedess@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
  <a href="https://www.facebook.com/gabriel.guedes.7921" target="_blank">
