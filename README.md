@@ -8,7 +8,7 @@
 - 🏠 Sou brasileiro, moro em Guarulhos-SP.
 <br>
 
-<div align="center">
+<div>
   <a href="https://github.com/GabrielGuedess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGuedess&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuedess&layout=compact&langs_count=7&theme=dark" />
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
  <a href="https://www.facebook.com/gabriel.guedes.7921" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
  </a>
  <a href="https://www.instagram.com/gabriel_rguedes" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
