@@ -53,22 +53,27 @@
 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Ph" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Gabriel-Ai" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="Gabriel-Ai" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Gabriel-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabriel-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Gabriel-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Gabriel-Ph" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg">
+  <img align="center" alt="Gabriel-Ai" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg">
+  <img align="center" alt="Gabriel-Xd" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg">
+  <img align="center" alt="Gabriel-Figma" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg">
+  <img align="center" alt="Gabriel-Git" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
+  <img align="center" alt="Gabriel-GitHub" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+  <img align="center" alt="Gabriel-Sass" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg">
+  <img align="center" alt="Gabriel-Bootstrap" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg">
+  <img align="center" alt="Gabriel-Js" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+  <img align="center" alt="Gabriel-Ts" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg">
+  <img align="center" alt="Gabriel-NodeJs" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
+  <img align="center" alt="Gabriel-Express" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg">
+  <img align="center" alt="Gabriel-React" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
+  <img align="center" alt="Gabriel-Nextjs" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg">
+  <img align="center" alt="Gabriel-Jest" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg">
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gabriel-yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
-  <img align="center" alt="Gabriel-npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-  <img align="right"  alt="Gabriel" height="180" width="180" src="https://github.com/GabrielGuedess/GabrielGuedess/blob/main/animation_500_ks5nk032.gif">
+  <img align="center" alt="Gabriel-Dotnet" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg">
+  <img align="center" alt="Gabriel-Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+  <img align="center" alt="Gabriel-Npm" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg">
 </div>
   
 ##
@@ -88,7 +93,10 @@
  </a>
  <a href="https://www.linkedin.com/in/gabriel-guedes-847424204" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a> 
+ </a>
+  
+ <img align="right" alt="Gabriel" height="180" width="180" src="https://github.com/GabrielGuedess/GabrielGuedess/blob/main/animation_500_ks5nk032.gif">
+</div>
  
  <br/>
  <br/>
@@ -96,23 +104,27 @@
  <br/>
  <br/>
  <br/>
-  
- <div align="center">
-   <img align="center" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="100px" />
- </div>
-  
+ <br/>
+ <br/>
  <br/>
  
  <div align="center">
+   <div align="center">
+     <img align="center" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="100px" />
+   </div>
+
+   <br/>
+  
+  <div align="center">
    <img align="left" src="https://media2.giphy.com/media/1bG7bbKHn8Rtm5FOdO/giphy.gif" width="100px" />
-   <a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img src="https://spotify-recently-played-readme.vercel.app/api?user=l9hb9qtvjvuk3gxt5xq93enxf" />  
-   </a>
    <img align="right" src="https://media2.giphy.com/media/1bG7bbKHn8Rtm5FOdO/giphy.gif" width="100px" />
+  
+   <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf"><img src="https://spotify-recently-played-readme.vercel.app/api?user=l9hb9qtvjvuk3gxt5xq93enxf" /></a>
+  </div>
+
  </div>
   
  <br/>
  
   ![Snake animation](https://github.com/GabrielGuedess/GabrielGuedess/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
   
