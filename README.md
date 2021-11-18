@@ -1,4 +1,6 @@
-## <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" width="20px"> Ooi! Eu sou Gabriel Guedes 👋⭐ <img align="right" src="https://media1.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e475df1gcxu0shv0jjbele72kiorlv6z76sevf2ce51&rid=giphy.gif" width="50px"> 
+## <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" width="20px"> Ooi! Eu sou Gabriel Guedes 👋⭐ <img align="right" src="https://media1.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e475df1gcxu0shv0jjbele72kiorlv6z76sevf2ce51&rid=giphy.gif" width="50px">
+
+### <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id=GabrielGuedess.GabrielGuedess" alt="Visitas">
 
 - 🖥️ Cursando Engenharia de Computação na instituição de ensino Centro Universitário Eniac.
 - 🖥️ Cursando Análise e Desenvolvimento de Sistemas na instituição de ensino Fatec Guarulhos.
