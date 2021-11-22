@@ -20,8 +20,8 @@
 
 <div align="center">
   <a href="https://github.com/GabrielGuedess">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGuedess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuedess&layout=compact&langs_count=7&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGuedess&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuedess&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
   </a>
 </div>
 
@@ -42,6 +42,7 @@
 </div>
   
 <div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=GabrielGuedess&hide_border=true&theme=dracula" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielGuedess&theme=dracula" />
 </div>
 
