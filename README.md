@@ -1,4 +1,13 @@
-## <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" width="20px"> Ooi! Eu sou Gabriel Guedes 👋⭐ <img align="right" src="https://media1.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e475df1gcxu0shv0jjbele72kiorlv6z76sevf2ce51&rid=giphy.gif" width="50px">
+
+<p align="center">
+  <a href="#">
+    <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" height="50px">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2327D3F7&size=24&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;Hi!+I'm+Gabriel+Guedes" />
+    <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" height="50px">
+  </a>
+</div>  
+
+<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id=GabrielGuedess.GabrielGuedess" alt="Visitas">
 <img title="Github Yearly commits" alt="Github Yearly commits" align="left" src="https://badges.pufler.dev/commits/yearly/GabrielGuedess" />
@@ -20,30 +29,35 @@
 
 <div align="center">
   <a href="https://github.com/GabrielGuedess">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGuedess&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuedess&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielGuedess&theme=dracula" />
   </a>
 </div>
 
 <br/>
 
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=GabrielGuedess&theme=dracula&row=1&margin-w=30&no-frame=true&no-bg=true" />  
+</div>
+
+
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
 ## 📈 Análise de Desenvolvimento Semanal
-<!--START_SECTION:waka-->
 <img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/main/images/stat.svg" alt="Gabriel Guedes WakaTime Activity" />
-<!--END_SECTION:waka-->
+
 <br/>
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/pablo-24.gif" width="15%" />
+  <img src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/pablo-24.gif" width="15%" />
 </div>
   
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=GabrielGuedess&hide_border=true&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielGuedess&theme=dracula" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GabrielGuedess&show_icons=true&theme=dracula&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGuedess&theme=dracula&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=GabrielGuedess&theme=dracula&hide_border=true&bg_color=282A36" />
 </div>
 
 <img align="right" src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/up.gif" width="40px" />
@@ -135,4 +149,5 @@
  <br/>
  
   ![Snake animation](https://github.com/GabrielGuedess/GabrielGuedess/blob/output/github-contribution-grid-snake.svg)
+  
   
