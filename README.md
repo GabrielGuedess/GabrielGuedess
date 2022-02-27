@@ -40,6 +40,7 @@
  <img src="https://github-profile-trophy.vercel.app/?username=GabrielGuedess&theme=dracula&row=1&margin-w=30&no-frame=true&no-bg=true" />  
 </div>
 
+<br/>
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
