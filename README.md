@@ -111,7 +111,9 @@
  
  <div align="center">
    <div align="center">
-     <img align="center" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="100px" />
+     <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf">
+      <img align="center" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="100px" />
+     </a>
    </div>
 
    <br/>
@@ -121,7 +123,12 @@
    <img align="right" src="https://media2.giphy.com/media/1bG7bbKHn8Rtm5FOdO/giphy.gif" width="100px" />
   
    <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf"><img src="https://spotify-recently-played-readme.vercel.app/api?user=l9hb9qtvjvuk3gxt5xq93enxf" /></a>
+    <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf"><img src="https://andyruwruw.vercel.app/api/now-playing"></a>
   </div>
+  
+  <p align="center">
+    <img src="https://andyruwruw.vercel.app/api/top-played">
+  </p>
 
  </div>
   
