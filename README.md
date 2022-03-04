@@ -7,7 +7,7 @@
   </a>
 </div>  
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+##
 
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id=GabrielGuedess.GabrielGuedess" alt="Visitas">
 <img title="Github Yearly commits" alt="Github Yearly commits" align="left" src="https://badges.pufler.dev/commits/yearly/GabrielGuedess" />
