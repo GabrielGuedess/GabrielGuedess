@@ -68,29 +68,7 @@
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Ph" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg">
-  <img align="center" alt="Gabriel-Ai" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg">
-  <img align="center" alt="Gabriel-Xd" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg">
-  <img align="center" alt="Gabriel-Figma" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg">
-  <img align="center" alt="Gabriel-Git" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
-  <img align="center" alt="Gabriel-GitHub" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
-  <img align="center" alt="Gabriel-Sass" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg">
-  <img align="center" alt="Gabriel-Bootstrap" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg">
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
-  <img align="center" alt="Gabriel-Ts" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg">
-  <img align="center" alt="Gabriel-NodeJs" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
-  <img align="center" alt="Gabriel-Express" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg">
-  <img align="center" alt="Gabriel-React" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
-  <img align="center" alt="Gabriel-Nextjs" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg">
-  <img align="center" alt="Gabriel-Jest" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg">
-  <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gabriel-Dotnet" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg">
-  <img align="center" alt="Gabriel-Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
-  <img align="center" alt="Gabriel-Npm" height="30" width="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma,vscode,git,html,css,sass,bootstrap,javascript,typescript,jquery,nodejs,expressjs,react,nextjs,styledcomponents,tailwind,graphql,cs,dotnet,docker,linux,md,prisma,mysql,postgres&theme=dark)](https://skillicons.dev)
   
 ##
 
