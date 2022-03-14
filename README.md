@@ -30,8 +30,8 @@
 
 <div align="center">
   <a href="https://github.com/GabrielGuedess">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuedess&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
-    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielGuedess&theme=dracula" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuedess&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielGuedess&theme=dracula" />
   </a>
 </div>
 
