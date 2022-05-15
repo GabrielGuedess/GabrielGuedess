@@ -29,7 +29,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/GabrielGuedess">
+  <a href="#">
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuedess&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
     <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielGuedess&theme=dracula" />
   </a>
@@ -38,7 +38,9 @@
 <br/>
 
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=GabrielGuedess&theme=dracula&row=1&margin-w=30&no-frame=true&no-bg=true" />  
+  <a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=GabrielGuedess&theme=dracula&row=1&margin-w=30&no-frame=true&no-bg=true" />  
+  </a>
 </div>
 
 <br/>
@@ -46,8 +48,11 @@
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
 ## 📈 Análise de Desenvolvimento Semanal
-<img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/main/images/stat.svg" alt="Gabriel Guedes WakaTime Activity" />
+<a href="#">
+  <img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/main/images/stat.svg" alt="Gabriel Guedes WakaTime Activity" />
+</a>
 
+<br/>
 <br/>
 
 <details>
@@ -72,19 +77,31 @@
 
 </details>
 
+<details>
+<summary><h3>:baby_chick: I'm an early</h3></summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/pablo-24.gif" width="15%" />
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/pablo-24.gif" width="15%" />
+  </a>
 </div>
   
 <div align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GabrielGuedess&show_icons=true&theme=dracula&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGuedess&theme=dracula&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=GabrielGuedess&theme=dracula&hide_border=true&bg_color=282A36" />
+  <a href="#">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GabrielGuedess&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGuedess&theme=dracula&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=GabrielGuedess&theme=dracula&hide_border=true&bg_color=282A36" />
+  </a>
 </div>
 
-<img align="right" src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/up.gif" width="40px" />
+<a href="#">
+  <img align="right" src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/up.gif" width="40px" />
+</a>
 
 <br/>
 
