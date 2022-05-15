@@ -54,8 +54,16 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [GabrielGuedess/nlw-return-server](https://github.com/GabrielGuedess/nlw-return-server)
+2. ⭐ Starred [PButcher/flipdown](https://github.com/PButcher/flipdown)
+3. ⭐ Starred [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component)
+4. 📔 Created new repository [GabrielGuedess/nlw-return-web](https://github.com/GabrielGuedess/nlw-return-web)
+5. 📔 Created new repository [GabrielGuedess/nlw-return-web](https://github.com/GabrielGuedess/nlw-return-web)
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Sunday, May 15th, 2022, 9:39:58 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
 
