@@ -1,5 +1,0 @@
-settings:
-  max_lines: 10 
-  date:
-    timezone: "America/Sao_Paulo"
-    text: '<p align="center">Last refresh: <b>{DATE} BRT</b>'
