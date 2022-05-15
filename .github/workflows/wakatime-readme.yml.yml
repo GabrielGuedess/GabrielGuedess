@@ -1,0 +1,17 @@
+name: WakaTime Readme
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Update every 30 minutes
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+          SHOW_PROJECTS: "False"
+          SHOW_LANGUAGE: "False"
