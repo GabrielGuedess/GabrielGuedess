@@ -50,6 +50,15 @@
 
 <br/>
 
+<details>
+<summary><h3>:zap: Recent GitHub Activity</h3></summary>
+  
+<!--START_SECTION:activity-->
+  
+<!--END_SECTION:activity-->
+
+</details>
+
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
 <div align="center">
