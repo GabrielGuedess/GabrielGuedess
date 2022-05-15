@@ -59,20 +59,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 📔 Created new repository [GabrielGuedess/nlw-return-server](https://github.com/GabrielGuedess/nlw-return-server)
-3. ⭐ Starred [PButcher/flipdown](https://github.com/PButcher/flipdown)
-4. ⭐ Starred [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component)
-5. 📔 Created new repository [GabrielGuedess/nlw-return-web](https://github.com/GabrielGuedess/nlw-return-web)
+1. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+2. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. 📔 Created new repository [GabrielGuedess/nlw-return-server](https://github.com/GabrielGuedess/nlw-return-server)
+4. ⭐ Starred [PButcher/flipdown](https://github.com/PButcher/flipdown)
+5. ⭐ Starred [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component)
 6. 📔 Created new repository [GabrielGuedess/nlw-return-web](https://github.com/GabrielGuedess/nlw-return-web)
-7. ⭐ Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-8. ⭐ Starred [GriffinJohnston/uiball-loaders](https://github.com/GriffinJohnston/uiball-loaders)
-9. 🔱 Forked [GabrielGuedess/ThatOneCalculator](https://github.com/GabrielGuedess/ThatOneCalculator) from [ThatOneCalculator/ThatOneCalculator](https://github.com/ThatOneCalculator/ThatOneCalculator)
-10. ⭐ Starred [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)
+7. 📔 Created new repository [GabrielGuedess/nlw-return-web](https://github.com/GabrielGuedess/nlw-return-web)
+8. ⭐ Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+9. ⭐ Starred [GriffinJohnston/uiball-loaders](https://github.com/GriffinJohnston/uiball-loaders)
+10. 🔱 Forked [GabrielGuedess/ThatOneCalculator](https://github.com/GabrielGuedess/ThatOneCalculator) from [ThatOneCalculator/ThatOneCalculator](https://github.com/ThatOneCalculator/ThatOneCalculator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, May 15th, 2022, 7:37:15 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, May 15th, 2022, 8:07:50 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
