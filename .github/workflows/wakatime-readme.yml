@@ -19,4 +19,4 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LOC_CHART: "False"
-          
+          LOCALE: "pt_BR"
