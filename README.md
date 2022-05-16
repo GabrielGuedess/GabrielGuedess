@@ -38,9 +38,9 @@
 <br/>
 
 <div align="center">
-  <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=GabrielGuedess&theme=dracula&row=1&margin-w=30&no-frame=true&no-bg=true" />  
-  </a>
+  
+  [![Profile Trophy](https://github-profile-trophy.vercel.app/?username=GabrielGuedess&theme=dracula&row=1&margin-w=30&no-frame=true&no-bg=true)](#)
+
 </div>
 
 <br/>
@@ -48,9 +48,8 @@
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
 ## 📈 Análise de Desenvolvimento Semanal
-<a href="#">
-  <img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/main/images/stat.svg" alt="Gabriel Guedes WakaTime Activity" />
-</a>
+
+[![Gabriel Guedes WakaTime Activity](https://github.com/GabrielGuedess/GabrielGuedess/blob/main/images/stat.svg)](#)
 
 <br/>
 <br/>
@@ -79,6 +78,7 @@
 
 <details>
 <summary><h3>:clock230: WakaTime Stats</h3></summary>
+
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%208%20mins-blue)
 
@@ -229,10 +229,8 @@ HTML                     3 repos             ███░░░░░░░░�
    <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf"><img src="https://spotify-recently-played-readme.vercel.app/api?user=l9hb9qtvjvuk3gxt5xq93enxf" /></a>
     <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf"><img src="https://andyruwruw.vercel.app/api/now-playing"></a>
   </div>
-  
-  <p align="center">
-    <img src="https://andyruwruw.vercel.app/api/top-played">
-  </p>
+       
+  [![Gabriel Spotify](https://andyruwruw.vercel.app/api/top-played)](#)
 
  </div>
   
