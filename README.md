@@ -227,9 +227,15 @@ HTML                     3 repos             ███░░░░░░░░�
   [![Gabriel Spotify](https://andyruwruw.vercel.app/api/top-played)](#)
 
  </div>
+ 
+  <br/>
+  <br/>
+  <br/>
+ 
+ [![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)](#)
   
  <br/>
  
-  ![Snake animation](https://github.com/GabrielGuedess/GabrielGuedess/blob/output/github-contribution-grid-snake.svg)
-  
-  
+ <a href="#">
+  <img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/output/github-contribution-grid-snake.svg" width="100%">
+ </a>
