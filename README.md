@@ -66,12 +66,10 @@
 6. ⭐ Starred [PButcher/flipdown](https://github.com/PButcher/flipdown)
 7. ⭐ Starred [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component)
 8. 📔 Created new repository [GabrielGuedess/nlw-return-web](https://github.com/GabrielGuedess/nlw-return-web)
-9. 📔 Created new repository [GabrielGuedess/nlw-return-web](https://github.com/GabrielGuedess/nlw-return-web)
-10. ⭐ Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, May 16th, 2022, 6:07:26 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, May 16th, 2022, 6:36:09 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
