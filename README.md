@@ -58,20 +58,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
-2. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
-3. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. 📔 Created new repository [GabrielGuedess/nlw-return-server](https://github.com/GabrielGuedess/nlw-return-server)
-5. ⭐ Starred [PButcher/flipdown](https://github.com/PButcher/flipdown)
-6. ⭐ Starred [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component)
-7. 📔 Created new repository [GabrielGuedess/nlw-return-web](https://github.com/GabrielGuedess/nlw-return-web)
+1. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
+2. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
+3. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+4. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. 📔 Created new repository [GabrielGuedess/nlw-return-server](https://github.com/GabrielGuedess/nlw-return-server)
+6. ⭐ Starred [PButcher/flipdown](https://github.com/PButcher/flipdown)
+7. ⭐ Starred [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component)
 8. 📔 Created new repository [GabrielGuedess/nlw-return-web](https://github.com/GabrielGuedess/nlw-return-web)
-9. ⭐ Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-10. ⭐ Starred [GriffinJohnston/uiball-loaders](https://github.com/GriffinJohnston/uiball-loaders)
+9. 📔 Created new repository [GabrielGuedess/nlw-return-web](https://github.com/GabrielGuedess/nlw-return-web)
+10. ⭐ Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, May 15th, 2022, 11:28:01 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, May 16th, 2022, 12:22:25 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
