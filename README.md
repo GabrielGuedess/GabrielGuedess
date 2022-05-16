@@ -58,20 +58,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
-2. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 📔 Created new repository [GabrielGuedess/nlw-return-server](https://github.com/GabrielGuedess/nlw-return-server)
-4. ⭐ Starred [PButcher/flipdown](https://github.com/PButcher/flipdown)
-5. ⭐ Starred [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component)
-6. 📔 Created new repository [GabrielGuedess/nlw-return-web](https://github.com/GabrielGuedess/nlw-return-web)
+1. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
+2. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+3. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. 📔 Created new repository [GabrielGuedess/nlw-return-server](https://github.com/GabrielGuedess/nlw-return-server)
+5. ⭐ Starred [PButcher/flipdown](https://github.com/PButcher/flipdown)
+6. ⭐ Starred [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component)
 7. 📔 Created new repository [GabrielGuedess/nlw-return-web](https://github.com/GabrielGuedess/nlw-return-web)
-8. ⭐ Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-9. ⭐ Starred [GriffinJohnston/uiball-loaders](https://github.com/GriffinJohnston/uiball-loaders)
-10. 🔱 Forked [GabrielGuedess/ThatOneCalculator](https://github.com/GabrielGuedess/ThatOneCalculator) from [ThatOneCalculator/ThatOneCalculator](https://github.com/ThatOneCalculator/ThatOneCalculator)
+8. 📔 Created new repository [GabrielGuedess/nlw-return-web](https://github.com/GabrielGuedess/nlw-return-web)
+9. ⭐ Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+10. ⭐ Starred [GriffinJohnston/uiball-loaders](https://github.com/GriffinJohnston/uiball-loaders)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, May 15th, 2022, 9:40:39 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, May 15th, 2022, 11:28:01 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
