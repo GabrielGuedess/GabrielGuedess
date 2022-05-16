@@ -80,7 +80,7 @@
 <summary><h3>:clock230: WakaTime Stats</h3></summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-201%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -92,7 +92,7 @@
  > 
 > 🚫 Não aberto para contratação
  > 
-> 📜 20 Repositórios Públicos 
+> 📜 21 Repositórios Públicos 
  > 
 > 🔑 2 Repositórios Privados  
  > 
@@ -144,7 +144,7 @@ HTML                     3 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 16/05/2022 02:53:18 UTC
+ Last Updated on 16/05/2022 03:38:44 UTC
 <!--END_SECTION:waka-->
 </details>
 
