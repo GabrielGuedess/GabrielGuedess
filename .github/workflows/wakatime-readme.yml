@@ -2,7 +2,7 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Update every 30 minutes
+    - cron: '1 0 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
