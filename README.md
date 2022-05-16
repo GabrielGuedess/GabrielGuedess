@@ -78,7 +78,7 @@
 </details>
 
 <details>
-<summary><h3>:baby_chick: I'm an early</h3></summary>
+<summary><h3>:clock230: WakaTime Stats</h3></summary>
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%208%20mins-blue)
 
