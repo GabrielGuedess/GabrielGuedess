@@ -65,11 +65,10 @@
 5. 📔 Created new repository [GabrielGuedess/nlw-return-server](https://github.com/GabrielGuedess/nlw-return-server)
 6. ⭐ Starred [PButcher/flipdown](https://github.com/PButcher/flipdown)
 7. ⭐ Starred [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component)
-8. 📔 Created new repository [GabrielGuedess/nlw-return-web](https://github.com/GabrielGuedess/nlw-return-web)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, May 17th, 2022, 9:34:47 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, May 17th, 2022, 11:46:59 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
