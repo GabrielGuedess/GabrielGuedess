@@ -64,11 +64,10 @@
 4. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 5. 📔 Created new repository [GabrielGuedess/nlw-return-server](https://github.com/GabrielGuedess/nlw-return-server)
 6. ⭐ Starred [PButcher/flipdown](https://github.com/PButcher/flipdown)
-7. ⭐ Starred [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, May 19th, 2022, 9:40:33 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, May 19th, 2022, 11:46:37 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
