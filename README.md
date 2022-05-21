@@ -58,16 +58,17 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
-2. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
-3. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
-4. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 📔 Created new repository [GabrielGuedess/nlw-return-server](https://github.com/GabrielGuedess/nlw-return-server)
-6. ⭐ Starred [PButcher/flipdown](https://github.com/PButcher/flipdown)
+1. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
+2. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
+3. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
+4. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+5. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. 📔 Created new repository [GabrielGuedess/nlw-return-server](https://github.com/GabrielGuedess/nlw-return-server)
+7. ⭐ Starred [PButcher/flipdown](https://github.com/PButcher/flipdown)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, May 20th, 2022, 8:38:05 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, May 20th, 2022, 9:37:28 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
