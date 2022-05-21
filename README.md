@@ -64,11 +64,10 @@
 4. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
 5. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 6. 📔 Created new repository [GabrielGuedess/nlw-return-server](https://github.com/GabrielGuedess/nlw-return-server)
-7. ⭐ Starred [PButcher/flipdown](https://github.com/PButcher/flipdown)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, May 20th, 2022, 9:37:28 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, May 20th, 2022, 11:13:21 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
