@@ -63,11 +63,10 @@
 3. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
 4. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
 5. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. 📔 Created new repository [GabrielGuedess/nlw-return-server](https://github.com/GabrielGuedess/nlw-return-server)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, May 21st, 2022, 9:40:05 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, May 21st, 2022, 11:40:35 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
