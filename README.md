@@ -1,9 +1,9 @@
 
-<p align="center">
+<div align="center">
   <a href="#">
-    <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" height="50px">
+    <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" height="50">  
     <img src="https://readme-typing-svg.herokuapp.com?color=%2327D3F7&size=24&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;Hi!+I'm+Gabriel+Guedes" />
-    <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" height="50px">
+    <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" height="50">
   </a>
 </div>  
 
@@ -12,11 +12,11 @@
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id=GabrielGuedess.GabrielGuedess&left_text=Visitors" alt="Visitas">
 <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.pufler.dev/commits/yearly/GabrielGuedess?style=flat&logoColor=27D3F7&color=27D3F7&logo=github" />
 <img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.pufler.dev/commits/monthly/GabrielGuedess?style=flat&color=27D3F7" />
-<img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.pufler.dev/years/GabrielGuedess?style=flat&color=27D3F7&logo=github" />
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id=GabrielGuedess.GabrielGuedess&left_text=Visitors" alt="Visitas">
 <img title="Repos" alt="Repos" align="left" src="https://badges.pufler.dev/repos/GabrielGuedess?style=flat&color=27D3F7" />
 
-<br/>
-<br/>
+<br />
+<br />
 
 - 🖥️ Cursando Engenharia de Computação na instituição de ensino Centro Universitário Eniac.
 - 🖥️ Cursando Análise e Desenvolvimento de Sistemas na instituição de ensino Fatec Guarulhos.
@@ -24,9 +24,9 @@
 - 🤟 Cursando Inglês na instituição de ensino Wizard.
 - 🏡 Sou Brasileiro, moro em Guarulhos-SP.
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="1012" height="1" src="bar.gif" /></a>
 
-<br/>
+<br />
 
 <div align="center">
   <a href="#">
@@ -35,7 +35,7 @@
   </a>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
   
@@ -43,16 +43,16 @@
 
 </div>
 
-<br/>
+<br />
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="1012" height="1" src="bar.gif" /></a>
 
 ## 📈 Análise de Desenvolvimento Semanal
 
 [![Gabriel Guedes WakaTime Activity](https://github.com/GabrielGuedess/GabrielGuedess/blob/main/images/stat.svg)](#)
 
-<br/>
-<br/>
+<br />
+<br />
 
 <details>
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
@@ -67,7 +67,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, May 23rd, 2022, 12:48:11 AM BRT</b>
+<p align="center">Last refresh: <b>Sunday, May 22nd, 2022, 11:49:38 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
@@ -143,11 +143,11 @@ HTML                     3 repos             ███░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="1012" height="1" src="bar.gif" /></a>
 
 <div align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/pablo-24.gif" width="15%" />
+    <img src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/pablo-24.gif" width="200" />
   </a>
 </div>
   
@@ -159,78 +159,90 @@ HTML                     3 repos             ███░░░░░░░░�
   </a>
 </div>
 
-<a href="#">
-  <img align="right" src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/up.gif" width="40px" />
-</a>
+<div align="right">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/up.gif" width="40" />
+  </a>
+</div>
 
 <br/>
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="1012" height="1" src="bar.gif" /></a>
 
   
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma,vscode,git,github,html,css,sass,bootstrap,tailwind,javascript,typescript,jquery,nodejs,expressjs,react,nextjs,styledcomponents,tailwind,apollo,graphql,cs,dotnet,docker,linux,md,prisma,mysql,postgres,heroku,netlify&theme=dark)](#)
   
 ##
 
-<div> 
+<div align="left"> 
  <a href="mailto:gabrielrguedess@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
+
  <a href="https://www.facebook.com/gabriel.guedes.7921" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
  </a>
+
  <a href="https://www.instagram.com/gabriel_rguedes" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  </a>
+
  <a href="https://twitter.com/Gabriel33571363" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  </a>
+
  <a href="https://www.linkedin.com/in/gabriel-guedes-847424204" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
-  
- <img align="right" alt="Gabriel" height="180" width="180" src="https://github.com/GabrielGuedess/GabrielGuedess/blob/main/animation_500_ks5nk032.gif">
+</div>
+
+<div align="right">
+ <img alt="Gabriel Gif" height="180" width="180" src="https://github.com/GabrielGuedess/GabrielGuedess/blob/main/animation_500_ks5nk032.gif">
 </div>
  
  <br/>
  <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
  
  <div align="center">
-   <div align="center">
-     <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf">
-      <img align="center" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="100px" />
-     </a>
-   </div>
-
-   <br/>
-  
-  <div align="center">
-   <img align="left" src="https://media2.giphy.com/media/1bG7bbKHn8Rtm5FOdO/giphy.gif" width="100px" />
-   <img align="right" src="https://media2.giphy.com/media/1bG7bbKHn8Rtm5FOdO/giphy.gif" width="100px" />
-  
-   <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf"><img src="https://spotify-recently-played-readme.vercel.app/api?user=l9hb9qtvjvuk3gxt5xq93enxf" /></a>
-    <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf"><img src="https://andyruwruw.vercel.app/api/now-playing"></a>
-  </div>
-       
-  [![Gabriel Spotify](https://andyruwruw.vercel.app/api/top-played)](#)
-
+  <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf">
+    <img align="center" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="100" />
+  </a>
  </div>
  
-  <br/>
-  <br/>
-  <br/>
- 
- [![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)](#)
-  
  <br/>
  
- <a href="#">
-  <img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/output/github-contribution-grid-snake.svg" width="100%">
- </a>
+<div align="center">
+  <a href="#">
+    <img src="https://media2.giphy.com/media/1bG7bbKHn8Rtm5FOdO/giphy.gif" width="150" />
+  </a>
+  
+  <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=l9hb9qtvjvuk3gxt5xq93enxf" />
+  </a>
+  
+  <a href="#">
+    <img src="https://media2.giphy.com/media/1bG7bbKHn8Rtm5FOdO/giphy.gif" width="150" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  
+  [![Gabriel Spotify Now Playing](https://andyruwruw.vercel.app/api/now-playing)](https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf)
+       
+  [![Gabriel Spotify Top](https://andyruwruw.vercel.app/api/top-played)](https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf)
+  
+</div>
+
+<br />
+<br />
+<br />
+ 
+[![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)](#)
+  
+<br />
+ 
+<a href="#">
+  <img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/output/github-contribution-grid-snake.svg" width="1012">
+</a>
