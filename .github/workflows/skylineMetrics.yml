@@ -1,6 +1,8 @@
 name: GitHub Skyline
 on:
-  schedule: [{cron: "* */12 * * *"}]
+  schedule:
+  # Runs at 12 am  '0 0 * * *'  UTC
+  - cron: '1 0 * * *'
   workflow_dispatch:
 jobs:
   metrics:
