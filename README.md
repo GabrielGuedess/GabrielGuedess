@@ -178,7 +178,7 @@ HTML                     3 repos             ███░░░░░░░░�
 <a align="left" href="#"><img width="1012" height="1" src="bar.gif" /></a>
 
   
-[![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma,vscode,git,github,html,css,sass,bootstrap,tailwind,javascript,typescript,jquery,nodejs,expressjs,react,nextjs,styledcomponents,tailwind,apollo,graphql,cs,dotnet,docker,linux,md,prisma,mysql,postgres,heroku,netlify&theme=dark)](#)
+[![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma,vscode,git,github,html,css,sass,bootstrap,tailwind,javascript,typescript,jquery,nodejs,expressjs,react,nextjs,vite,styledcomponents,tailwind,jest,webpack,apollo,graphql,cs,dotnet,docker,linux,md,prisma,sqlite,mysql,postgres,heroku,netlify&theme=dark)](#)
   
 ##
 
