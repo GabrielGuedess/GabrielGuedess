@@ -1,0 +1,16 @@
+name: GitHub Skyline
+on:
+  schedule: [{cron: "* */12 * * *"}]
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Genrate Skyline
+        uses: lowlighter/metrics@master
+        with:
+          filename: images/skyline.svg
+          # GitHub Skyline
+          plugin_skyline: yes
+          plugin_skyline_frames: 120
+          plugin_skyline_quality: 1
