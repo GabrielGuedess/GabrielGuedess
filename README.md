@@ -17,7 +17,7 @@
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id=GabrielGuedess.GabrielGuedess&left_text=Visitors" alt="Visitas">
 <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.pufler.dev/commits/yearly/GabrielGuedess?style=flat&logoColor=27D3F7&color=27D3F7&logo=github" />
 <img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.pufler.dev/commits/monthly/GabrielGuedess?style=flat&color=27D3F7" />
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id=GabrielGuedess.GabrielGuedess&left_text=Visitors" alt="Visitas">
+<img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.pufler.dev/years/GabrielGuedess?style=flat&color=27D3F7&logo=github" />
 <img title="Repos" alt="Repos" align="left" src="https://badges.pufler.dev/repos/GabrielGuedess?style=flat&color=27D3F7" />
 
 <br />
