@@ -71,11 +71,10 @@
 3. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
 4. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
 5. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
-6. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, May 23rd, 2022, 1:57:02 AM BRT</b>
+<p align="center">Last refresh: <b>Monday, May 23rd, 2022, 2:18:50 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
