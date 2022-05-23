@@ -1,0 +1,20 @@
+name: DevCard
+permissions:
+  contents: write
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+  # Runs at 12 am  '0 0 * * *'  UTC
+  - cron: '1 0 * * *'
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.2
+        with:
+          filename: images/devcard.svg
+          devcard_id: ${{ secrets.DEVCARD_ID }}
