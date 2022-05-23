@@ -1,8 +1,13 @@
-
 <div align="center">
   <a href="#">
     <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" height="50">  
+  </a>
+  
+  <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2327D3F7&size=24&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;Hi!+I'm+Gabriel+Guedes" />
+  </a>
+  
+  <a href="#">
     <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" height="50">
   </a>
 </div>  
@@ -31,6 +36,9 @@
 <div align="center">
   <a href="#">
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuedess&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
+  </a>
+
+  <a href="#">
     <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielGuedess&theme=dracula" />
   </a>
 </div>
