@@ -58,15 +58,16 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
-2. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
-3. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
-4. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
-5. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
+3. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
+4. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
+5. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+6. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, May 22nd, 2022, 9:40:18 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, May 22nd, 2022, 11:49:38 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
