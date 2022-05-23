@@ -74,7 +74,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, May 23rd, 2022, 3:12:09 AM BRT</b>
+<p align="center">Last refresh: <b>Monday, May 23rd, 2022, 2:40:22 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
@@ -150,11 +150,20 @@ HTML                     3 repos             ███░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
+<details>
+  <summary><h3>:bookmark: DevCard</h3></summary>
+  
+  <a href="#">
+    <img src="./devcard.svg" width="450" />
+  </a>
+  
+</details>
+
 <a align="left" href="#"><img width="1012" height="1" src="bar.gif" /></a>
 
 <div align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/pablo-24.gif" width="200" />
+    <img src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/pablo-24.gif" width="170" />
   </a>
 </div>
   
@@ -247,7 +256,11 @@ HTML                     3 repos             ███░░░░░░░░�
 <br />
  
 [![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)](#)
-  
+
+<a href="#">
+  <img src="./images/skyline.svg" width="100%">
+</a>
+
 <br />
  
 <a href="#">
