@@ -1,18 +1,7 @@
-<p>
-  <a href="#">
-    <img src="https://media3.giphy.com/media/S6Z6vk4Ex19kb5OjO8/giphy.gif?cid=ecf05e477u58c2fyk5g1keujjern79t977866vi9ie21cp4n&rid=giphy.gif&ct=s" height="100">  
-  </a>
-  
-  <a href="#">
-    <img src="./images/github-header.png" width="90%" />
-  </a>
-  
-   <a href="#">
-    <img src="https://media3.giphy.com/media/S6Z6vk4Ex19kb5OjO8/giphy.gif?cid=ecf05e477u58c2fyk5g1keujjern79t977866vi9ie21cp4n&rid=giphy.gif&ct=s" height="100">   
-  </a>
-</p>
+<a href="#">
+  <img src="./images/github-header.png" width="100%" />
+</a>
 
-<br />
 <br />
 <br />
 
