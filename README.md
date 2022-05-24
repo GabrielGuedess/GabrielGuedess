@@ -66,15 +66,16 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
-2. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
-3. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
-4. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
-5. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+1. ⭐ Starred [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+2. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
+3. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
+4. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
+5. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
+6. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, May 23rd, 2022, 11:55:26 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, May 24th, 2022, 12:47:36 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
