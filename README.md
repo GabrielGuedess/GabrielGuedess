@@ -1,3 +1,21 @@
+<p>
+  <a href="#">
+    <img src="https://media3.giphy.com/media/S6Z6vk4Ex19kb5OjO8/giphy.gif?cid=ecf05e477u58c2fyk5g1keujjern79t977866vi9ie21cp4n&rid=giphy.gif&ct=s" height="100">  
+  </a>
+  
+  <a href="#">
+    <img src="./images/github-header.png" width="90%" />
+  </a>
+  
+   <a href="#">
+    <img src="https://media3.giphy.com/media/S6Z6vk4Ex19kb5OjO8/giphy.gif?cid=ecf05e477u58c2fyk5g1keujjern79t977866vi9ie21cp4n&rid=giphy.gif&ct=s" height="100">   
+  </a>
+</p>
+
+<br />
+<br />
+<br />
+
 <div align="center">
   <a href="#">
     <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" height="50">  
@@ -71,10 +89,11 @@
 3. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
 4. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
 5. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
+6. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, May 24th, 2022, 8:36:50 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, May 24th, 2022, 8:08:37 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
