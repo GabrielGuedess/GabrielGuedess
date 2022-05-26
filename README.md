@@ -73,15 +73,16 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-2. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
-3. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
-4. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
-5. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
+1. ⭐ Starred [formkit/auto-animate](https://github.com/formkit/auto-animate)
+2. ⭐ Starred [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+3. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
+4. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
+5. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
+6. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, May 25th, 2022, 8:37:42 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, May 25th, 2022, 9:42:00 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
