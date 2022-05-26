@@ -73,16 +73,18 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [formkit/auto-animate](https://github.com/formkit/auto-animate)
-2. ⭐ Starred [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-3. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
-4. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
-5. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
-6. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
+1. ⭐ Starred [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. ⭐ Starred [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio)
+3. ⭐ Starred [formkit/auto-animate](https://github.com/formkit/auto-animate)
+4. ⭐ Starred [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+5. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
+6. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
+7. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
+8. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, May 26th, 2022, 6:08:19 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, May 26th, 2022, 6:36:55 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
