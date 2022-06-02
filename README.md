@@ -73,19 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PedroHy/Calculadora-JS](https://github.com/PedroHy/Calculadora-JS)
-2. ⭐ Starred [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. ⭐ Starred [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio)
-4. ⭐ Starred [formkit/auto-animate](https://github.com/formkit/auto-animate)
-5. ⭐ Starred [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-6. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
-7. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
-8. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
-9. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
+1. ⭐ Starred [timc1/kbar](https://github.com/timc1/kbar)
+2. ⭐ Starred [PedroHy/Calculadora-JS](https://github.com/PedroHy/Calculadora-JS)
+3. ⭐ Starred [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+4. ⭐ Starred [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio)
+5. ⭐ Starred [formkit/auto-animate](https://github.com/formkit/auto-animate)
+6. ⭐ Starred [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+7. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
+8. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
+9. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
+10. ⭐ Starred [Naereen/badges](https://github.com/Naereen/badges)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, June 1st, 2022, 9:47:41 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, June 2nd, 2022, 12:05:55 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
