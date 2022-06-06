@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)
-2. ⭐ Starred [timc1/kbar](https://github.com/timc1/kbar)
-3. ⭐ Starred [PedroHy/Calculadora-JS](https://github.com/PedroHy/Calculadora-JS)
-4. ⭐ Starred [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. ⭐ Starred [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio)
-6. ⭐ Starred [formkit/auto-animate](https://github.com/formkit/auto-animate)
-7. ⭐ Starred [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-8. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
-9. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
-10. 📔 Created new repository [GabrielGuedess/nlw-return-mobile](https://github.com/GabrielGuedess/nlw-return-mobile)
+1. ⭐ Starred [phosphor-icons/phosphor-home](https://github.com/phosphor-icons/phosphor-home)
+2. 📔 Created new repository [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)
+3. ⭐ Starred [timc1/kbar](https://github.com/timc1/kbar)
+4. ⭐ Starred [PedroHy/Calculadora-JS](https://github.com/PedroHy/Calculadora-JS)
+5. ⭐ Starred [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+6. ⭐ Starred [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio)
+7. ⭐ Starred [formkit/auto-animate](https://github.com/formkit/auto-animate)
+8. ⭐ Starred [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+9. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
+10. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, June 6th, 2022, 6:34:09 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, June 6th, 2022, 7:08:19 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
