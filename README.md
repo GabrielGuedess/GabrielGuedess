@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [phosphor-icons/phosphor-home](https://github.com/phosphor-icons/phosphor-home)
-2. 📔 Created new repository [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)
-3. ⭐ Starred [timc1/kbar](https://github.com/timc1/kbar)
-4. ⭐ Starred [PedroHy/Calculadora-JS](https://github.com/PedroHy/Calculadora-JS)
-5. ⭐ Starred [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-6. ⭐ Starred [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio)
-7. ⭐ Starred [formkit/auto-animate](https://github.com/formkit/auto-animate)
-8. ⭐ Starred [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-9. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
-10. ⭐ Starred [Rocketseat/eslint-config-rocketseat](https://github.com/Rocketseat/eslint-config-rocketseat)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ⭐ Starred [phosphor-icons/phosphor-home](https://github.com/phosphor-icons/phosphor-home)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)
+9. 📔 Created new repository [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, June 7th, 2022, 12:07:43 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, June 7th, 2022, 12:40:23 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
