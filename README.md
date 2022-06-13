@@ -103,7 +103,7 @@
 
 > 🏆 128 Contribuições no ano de 2022
  > 
-> 📦 176.2 kB Usado no armazenamento do GitHub 
+> 📦 181.8 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -138,11 +138,10 @@ domingo      54 commits     █████░░░░░░░░░░░░�
 
 ```text
 🔥 Editores: 
-VS Code                  22 mins             ███████████████░░░░░░░░░░   61.54% 
-Zsh                      14 mins             █████████░░░░░░░░░░░░░░░░   38.46%
+Nenhuma atividade rastreada esta semana
 
 💻 Sistema operacional: 
-Windows                  36 mins             █████████████████████████   100.0%
+Nenhuma atividade rastreada esta semana
 
 ```
 
@@ -159,7 +158,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 01:58:42 UTC
+ Last Updated on 13/06/2022 01:58:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
