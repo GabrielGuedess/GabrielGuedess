@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [GabrielGuedess/vite-boilerplate](https://github.com/GabrielGuedess/vite-boilerplate)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. 📔 Created new repository [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/vite-boilerplate](https://github.com/GabrielGuedess/vite-boilerplate)
+4. 📔 Created new repository [GabrielGuedess/vite-boilerplate](https://github.com/GabrielGuedess/vite-boilerplate)
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-7. ⭐ Starred [styled-components/polished](https://github.com/styled-components/polished)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+10. ⭐ Starred [styled-components/polished](https://github.com/styled-components/polished)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, June 21st, 2022, 10:09:28 AM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, June 21st, 2022, 10:55:45 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
