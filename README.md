@@ -80,13 +80,13 @@
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. 📔 Created new repository [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/vite-boilerplate](https://github.com/GabrielGuedess/vite-boilerplate)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. 📔 Created new repository [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, June 28th, 2022, 9:40:24 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, June 29th, 2022, 12:10:45 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
