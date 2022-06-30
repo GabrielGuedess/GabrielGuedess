@@ -81,12 +81,12 @@
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. 📔 Created new repository [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+10. 📔 Created new repository [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, June 29th, 2022, 9:40:06 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, June 30th, 2022, 12:06:08 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
