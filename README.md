@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chetanraj/awesome-github-badges](https://github.com/chetanraj/awesome-github-badges)
-2. ⭐ Starred [defringe/verminal](https://github.com/defringe/verminal)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ⭐ Starred [chetanraj/awesome-github-badges](https://github.com/chetanraj/awesome-github-badges)
+3. ⭐ Starred [defringe/verminal](https://github.com/defringe/verminal)
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⭐ Starred [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, July 8th, 2022, 9:38:03 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, July 8th, 2022, 11:49:37 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
