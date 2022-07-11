@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ⭐ Starred [vime-js/vime](https://github.com/vime-js/vime)
-4. ⭐ Starred [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-6. ⭐ Starred [chetanraj/awesome-github-badges](https://github.com/chetanraj/awesome-github-badges)
-7. ⭐ Starred [defringe/verminal](https://github.com/defringe/verminal)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+4. ⭐ Starred [vime-js/vime](https://github.com/vime-js/vime)
+5. ⭐ Starred [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+7. ⭐ Starred [chetanraj/awesome-github-badges](https://github.com/chetanraj/awesome-github-badges)
+8. ⭐ Starred [defringe/verminal](https://github.com/defringe/verminal)
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, July 11th, 2022, 2:00:09 AM BRT</b>
+<p align="center">Last refresh: <b>Monday, July 11th, 2022, 2:26:08 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
