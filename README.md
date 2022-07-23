@@ -60,7 +60,7 @@
 
 <br />
 
-<a align="left" href="#"><img width="1012" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
 ## 📈 Análise de Desenvolvimento Semanal
 
@@ -173,7 +173,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
   
 </details>
 
-<a align="left" href="#"><img width="1012" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
 <div align="center">
   <a href="#">
@@ -197,7 +197,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 <br/>
 
-<a align="left" href="#"><img width="1012" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
   
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma,vscode,git,github,html,css,sass,bootstrap,tailwind,javascript,typescript,jquery,nodejs,expressjs,react,nextjs,vite,styledcomponents,tailwind,jest,webpack,apollo,graphql,cs,dotnet,docker,linux,md,prisma,sqlite,mysql,postgres,heroku,netlify&theme=dark)](#)
