@@ -36,7 +36,7 @@
 - 🤟 Cursando Inglês na instituição de ensino Wizard.
 - 🏡 Sou Brasileiro, moro em Guarulhos-SP.
 
-<a align="left" href="#"><img width="1012" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
 <br />
 
