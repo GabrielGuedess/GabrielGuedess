@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [necolas/normalize.css](https://github.com/necolas/normalize.css)
-2. ⭐ Starred [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-6. ⭐ Starred [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⭐ Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)
+2. ⭐ Starred [necolas/normalize.css](https://github.com/necolas/normalize.css)
+3. ⭐ Starred [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+7. ⭐ Starred [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu)
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/rockethelp](https://github.com/GabrielGuedess/rockethelp)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/rockethelp](https://github.com/GabrielGuedess/rockethelp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, August 1st, 2022, 7:38:53 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, August 1st, 2022, 8:10:12 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
