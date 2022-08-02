@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)
-2. ⭐ Starred [necolas/normalize.css](https://github.com/necolas/normalize.css)
-3. ⭐ Starred [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-7. ⭐ Starred [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⭐ Starred [ecklf/tailwindcss-radix](https://github.com/ecklf/tailwindcss-radix)
+2. ⭐ Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)
+3. ⭐ Starred [necolas/normalize.css](https://github.com/necolas/normalize.css)
+4. ⭐ Starred [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+8. ⭐ Starred [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu)
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/rockethelp](https://github.com/GabrielGuedess/rockethelp)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, August 2nd, 2022, 11:37:02 AM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, August 2nd, 2022, 12:07:58 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
