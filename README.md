@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ecklf/tailwindcss-radix](https://github.com/ecklf/tailwindcss-radix)
-2. ⭐ Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)
-3. ⭐ Starred [necolas/normalize.css](https://github.com/necolas/normalize.css)
-4. ⭐ Starred [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⭐ Starred [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
+2. ⭐ Starred [ecklf/tailwindcss-radix](https://github.com/ecklf/tailwindcss-radix)
+3. ⭐ Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)
+4. ⭐ Starred [necolas/normalize.css](https://github.com/necolas/normalize.css)
+5. ⭐ Starred [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. ⭐ Starred [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu)
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, August 2nd, 2022, 7:39:12 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, August 2nd, 2022, 8:07:40 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
