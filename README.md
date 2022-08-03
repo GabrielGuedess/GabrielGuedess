@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
-3. ⭐ Starred [ecklf/tailwindcss-radix](https://github.com/ecklf/tailwindcss-radix)
-4. ⭐ Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)
-5. ⭐ Starred [necolas/normalize.css](https://github.com/necolas/normalize.css)
-6. ⭐ Starred [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⭐ Starred [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu)
+1. ⭐ Starred [nearform/lyra](https://github.com/nearform/lyra)
+2. ⭐ Starred [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
+6. ⭐ Starred [ecklf/tailwindcss-radix](https://github.com/ecklf/tailwindcss-radix)
+7. ⭐ Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)
+8. ⭐ Starred [necolas/normalize.css](https://github.com/necolas/normalize.css)
+9. ⭐ Starred [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, August 3rd, 2022, 5:37:42 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, August 3rd, 2022, 6:07:17 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
