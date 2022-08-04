@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ⭐ Starred [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
-5. ⭐ Starred [DanielleOliveiraC/DanielleOliveiraC](https://github.com/DanielleOliveiraC/DanielleOliveiraC)
-6. ⭐ Starred [nearform/lyra](https://github.com/nearform/lyra)
-7. ⭐ Starred [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
+8. ⭐ Starred [DanielleOliveiraC/DanielleOliveiraC](https://github.com/DanielleOliveiraC/DanielleOliveiraC)
+9. ⭐ Starred [nearform/lyra](https://github.com/nearform/lyra)
+10. ⭐ Starred [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, August 4th, 2022, 6:06:55 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, August 4th, 2022, 7:07:41 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
