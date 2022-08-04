@@ -21,11 +21,11 @@
 
 ##
 
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id=GabrielGuedess.GabrielGuedess&left_text=Visitors" alt="Visitas">
-<img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.pufler.dev/commits/yearly/GabrielGuedess?style=flat&logoColor=27D3F7&color=27D3F7&logo=github" />
-<img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.pufler.dev/commits/monthly/GabrielGuedess?style=flat&color=27D3F7" />
-<img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.pufler.dev/years/GabrielGuedess?style=flat&color=27D3F7&logo=github" />
-<img title="Repos" alt="Repos" align="left" src="https://badges.pufler.dev/repos/GabrielGuedess?style=flat&color=27D3F7" />
+<img align="right" alt="Visitas" src="https://visitor-badge.glitch.me/badge?page_id=page.id=GabrielGuedess.GabrielGuedess&left_text=Visitors">
+<img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/GabrielGuedess?style=flat&logoColor=27D3F7&color=27D3F7&logo=github" />
+<img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/GabrielGuedess?style=flat&color=27D3F7" />
+<img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/GabrielGuedess?color=27D3F7" />
+<img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/GabrielGuedess?style=flat&color=27D3F7" />
 
 <br />
 <br />
@@ -86,7 +86,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, August 4th, 2022, 6:36:14 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, August 4th, 2022, 6:06:55 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
