@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ⭐ Starred [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+4. ⭐ Starred [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
-9. ⭐ Starred [DanielleOliveiraC/DanielleOliveiraC](https://github.com/DanielleOliveiraC/DanielleOliveiraC)
-10. ⭐ Starred [nearform/lyra](https://github.com/nearform/lyra)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
+10. ⭐ Starred [DanielleOliveiraC/DanielleOliveiraC](https://github.com/DanielleOliveiraC/DanielleOliveiraC)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, August 5th, 2022, 12:08:21 AM BRT</b>
+<p align="center">Last refresh: <b>Friday, August 5th, 2022, 1:24:38 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
