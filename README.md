@@ -74,19 +74,19 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⭐ Starred [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. ⭐ Starred [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
-8. ⭐ Starred [DanielleOliveiraC/DanielleOliveiraC](https://github.com/DanielleOliveiraC/DanielleOliveiraC)
-9. ⭐ Starred [nearform/lyra](https://github.com/nearform/lyra)
-10. ⭐ Starred [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)
+9. ⭐ Starred [DanielleOliveiraC/DanielleOliveiraC](https://github.com/DanielleOliveiraC/DanielleOliveiraC)
+10. ⭐ Starred [nearform/lyra](https://github.com/nearform/lyra)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, August 4th, 2022, 9:53:51 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, August 5th, 2022, 12:08:21 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
