@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
-2. ⭐ Starred [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing)
-3. ⭐ Starred [storyofams/next-api-decorators](https://github.com/storyofams/next-api-decorators)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⭐ Starred [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
+3. ⭐ Starred [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing)
+4. ⭐ Starred [storyofams/next-api-decorators](https://github.com/storyofams/next-api-decorators)
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-6. ⭐ Starred [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+7. ⭐ Starred [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⭐ Starred [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, August 8th, 2022, 6:07:24 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, August 8th, 2022, 6:35:26 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
