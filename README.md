@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing)
-2. ⭐ Starred [storyofams/next-api-decorators](https://github.com/storyofams/next-api-decorators)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
+2. ⭐ Starred [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing)
+3. ⭐ Starred [storyofams/next-api-decorators](https://github.com/storyofams/next-api-decorators)
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-5. ⭐ Starred [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+6. ⭐ Starred [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. ⭐ Starred [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+10. ⭐ Starred [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, August 8th, 2022, 1:10:48 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, August 8th, 2022, 1:54:42 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
