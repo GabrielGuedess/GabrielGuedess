@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
-3. ⭐ Starred [natasha-m-oliveira/natasha-m-oliveira](https://github.com/natasha-m-oliveira/natasha-m-oliveira)
-4. ⭐ Starred [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-5. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
-6. ⭐ Starred [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing)
-7. ⭐ Starred [storyofams/next-api-decorators](https://github.com/storyofams/next-api-decorators)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⭐ Starred [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
+4. ⭐ Starred [natasha-m-oliveira/natasha-m-oliveira](https://github.com/natasha-m-oliveira/natasha-m-oliveira)
+5. ⭐ Starred [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+6. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
+7. ⭐ Starred [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing)
+8. ⭐ Starred [storyofams/next-api-decorators](https://github.com/storyofams/next-api-decorators)
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⭐ Starred [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, August 12th, 2022, 8:36:12 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, August 12th, 2022, 9:39:26 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
