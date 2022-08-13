@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⭐ Starred [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
-5. ⭐ Starred [natasha-m-oliveira/natasha-m-oliveira](https://github.com/natasha-m-oliveira/natasha-m-oliveira)
-6. ⭐ Starred [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-7. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
-8. ⭐ Starred [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing)
-9. ⭐ Starred [storyofams/next-api-decorators](https://github.com/storyofams/next-api-decorators)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. ⭐ Starred [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
+6. ⭐ Starred [natasha-m-oliveira/natasha-m-oliveira](https://github.com/natasha-m-oliveira/natasha-m-oliveira)
+7. ⭐ Starred [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+8. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
+9. ⭐ Starred [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing)
+10. ⭐ Starred [storyofams/next-api-decorators](https://github.com/storyofams/next-api-decorators)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, August 13th, 2022, 6:35:46 AM BRT</b>
+<p align="center">Last refresh: <b>Saturday, August 13th, 2022, 7:08:44 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
