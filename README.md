@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jasineri/gitartwork](https://github.com/jasineri/gitartwork)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⭐ Starred [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
-7. ⭐ Starred [natasha-m-oliveira/natasha-m-oliveira](https://github.com/natasha-m-oliveira/natasha-m-oliveira)
-8. ⭐ Starred [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
-10. ⭐ Starred [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing)
+1. ⭐ Starred [siddharthroy12/recoded](https://github.com/siddharthroy12/recoded)
+2. ⭐ Starred [jasineri/gitartwork](https://github.com/jasineri/gitartwork)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⭐ Starred [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)
+8. ⭐ Starred [natasha-m-oliveira/natasha-m-oliveira](https://github.com/natasha-m-oliveira/natasha-m-oliveira)
+9. ⭐ Starred [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+10. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, August 14th, 2022, 5:36:23 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, August 14th, 2022, 6:07:24 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
