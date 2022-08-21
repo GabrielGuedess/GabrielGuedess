@@ -95,7 +95,7 @@
 <summary><h3>:clock230: WakaTime Stats</h3></summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-295%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -103,7 +103,7 @@
 
 > 🏆 167 Contribuições no ano de 2022
  > 
-> 📦 545.8 kB Usado no armazenamento do GitHub 
+> 📦 551.4 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -138,13 +138,13 @@ domingo      55 commits     █████░░░░░░░░░░░░�
 
 ```text
 🔥 Editores: 
-Visual Studio            44 hrs 57 mins      ███████████████████████░░   95.25% 
-Zsh                      1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
-VS Code                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
+Visual Studio            29 hrs 28 mins      ████████████████████████░   95.86% 
+Zsh                      58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19% 
+VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
 
 💻 Sistema operacional: 
-Windows                  44 hrs 57 mins      ███████████████████████░░   95.25% 
-WSL                      2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.75%
+Windows                  29 hrs 28 mins      ████████████████████████░   95.86% 
+WSL                      1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.14%
 
 ```
 
@@ -161,7 +161,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2022 02:03:12 UTC
+ Last Updated on 21/08/2022 01:59:39 UTC
 <!--END_SECTION:waka-->
 </details>
 
