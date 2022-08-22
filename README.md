@@ -164,7 +164,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
   
-[![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma,xd,vscode,git,github,html,css,sass,bootstrap,tailwind,javascript,typescript,jquery,nodejs,expressjs,react,nextjs,vite,styledcomponents,tailwind,jest,webpack,apollo,graphql,cs,dotnet,docker,linux,md,prisma,sqlite,mysql,postgres,githubactions,heroku,netlify&theme=dark)](#)
+[![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,xd,figma,vscode,git,github,html,css,sass,bootstrap,tailwind,javascript,typescript,jquery,nodejs,expressjs,react,nextjs,vite,styledcomponents,tailwind,jest,webpack,apollo,graphql,cs,dotnet,docker,linux,md,prisma,sqlite,mysql,postgres,githubactions,heroku,netlify&theme=dark)](#)
   
 ##
 
