@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [codeedu/imersao9](https://github.com/codeedu/imersao9)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ⭐ Starred [google/zx](https://github.com/google/zx)
+3. ⭐ Starred [codeedu/imersao9](https://github.com/codeedu/imersao9)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-6. ⭐ Starred [heyman333/react-animated-numbers](https://github.com/heyman333/react-animated-numbers)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⭐ Starred [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+8. ⭐ Starred [heyman333/react-animated-numbers](https://github.com/heyman333/react-animated-numbers)
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⭐ Starred [radix-ui/primitives](https://github.com/radix-ui/primitives)
+10. ⭐ Starred [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, August 21st, 2022, 9:46:23 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, August 22nd, 2022, 12:17:38 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
