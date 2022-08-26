@@ -95,7 +95,7 @@
 <summary><h3>:clock230: WakaTime Stats</h3></summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-254%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -103,7 +103,7 @@
 
 > 🏆 179 Contribuições no ano de 2022
  > 
-> 📦 572.3 kB Usado no armazenamento do GitHub 
+> 📦 577.9 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -161,7 +161,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2022 02:12:06 UTC
+ Last Updated on 26/08/2022 02:17:38 UTC
 <!--END_SECTION:waka-->
 </details>
 
