@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ⭐ Starred [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
-4. ⭐ Starred [Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng](https://github.com/Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⭐ Starred [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
+2. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+4. ⭐ Starred [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
+5. ⭐ Starred [Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng](https://github.com/Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-7. ⭐ Starred [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. ⭐ Starred [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme)
-10. ⭐ Starred [trpc/examples-next-prisma-starter](https://github.com/trpc/examples-next-prisma-starter)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+8. ⭐ Starred [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+10. ⭐ Starred [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, August 29th, 2022, 12:30:33 AM BRT</b>
+<p align="center">Last refresh: <b>Monday, August 29th, 2022, 2:21:17 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
