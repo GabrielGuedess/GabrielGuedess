@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
-2. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⭐ Starred [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
-5. ⭐ Starred [Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng](https://github.com/Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)
+2. ⭐ Starred [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
+3. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⭐ Starred [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
+6. ⭐ Starred [Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng](https://github.com/Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⭐ Starred [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⭐ Starred [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. ⭐ Starred [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, August 29th, 2022, 2:21:17 AM BRT</b>
+<p align="center">Last refresh: <b>Monday, August 29th, 2022, 3:30:10 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
