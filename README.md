@@ -74,19 +74,19 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/vite-boilerplate](https://github.com/GabrielGuedess/vite-boilerplate)
-3. ⭐ Starred [rayepps/radash](https://github.com/rayepps/radash)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)
-8. ⭐ Starred [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
-9. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/vite-boilerplate](https://github.com/GabrielGuedess/vite-boilerplate)
+4. ⭐ Starred [rayepps/radash](https://github.com/rayepps/radash)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)
+9. ⭐ Starred [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
+10. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, September 1st, 2022, 9:46:44 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, September 2nd, 2022, 12:32:38 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
