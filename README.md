@@ -95,7 +95,7 @@
 <summary><h3>:clock230: WakaTime Stats</h3></summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-255%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -103,7 +103,7 @@
 
 > 🏆 183 Contribuições no ano de 2022
  > 
-> 📦 621.4 kB Usado no armazenamento do GitHub 
+> 📦 626.4 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -111,43 +111,6 @@
  > 
 > 🔑 2 Repositórios Privados  
  > 
-**Eu sou noturno 🦉** 
-
-```text
-🌞 Manhã      20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.99% 
-🌆 Tarde      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
-🌃 Noite      145 commits    ████████████░░░░░░░░░░░░░   50.7% 
-🌙 Madrugada  79 commits     ███████░░░░░░░░░░░░░░░░░░   27.62%
-
-```
-📅 **Sou mais produtivo em domingo** 
-
-```text
-Segunda-Feira32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
-Terça-Feira  54 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.88% 
-Quarta-Feira 52 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Quinta-Feira 51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.83% 
-Sexta-Feira  35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-sábado       7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45% 
-domingo      55 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.23%
-
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-🔥 Editores: 
-Visual Studio            6 hrs 31 mins       ██████████████░░░░░░░░░░░   58.23% 
-VS Code                  3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   27.14% 
-Zsh                      1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
-
-💻 Sistema operacional: 
-Windows                  6 hrs 31 mins       ██████████████░░░░░░░░░░░   58.23% 
-WSL                      4 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   41.77%
-
-```
-
 **Eu geralmente programo em TypeScript** 
 
 ```text
@@ -161,7 +124,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2022 02:16:35 UTC
+ Last Updated on 04/09/2022 02:11:19 UTC
 <!--END_SECTION:waka-->
 </details>
 
