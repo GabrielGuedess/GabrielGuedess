@@ -95,15 +95,15 @@
 <summary><h3>:clock230: WakaTime Stats</h3></summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-516%20hrs%2011%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-255%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-257%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 183 Contribuições no ano de 2022
+> 🏆 186 Contribuições no ano de 2022
  > 
-> 📦 626.4 kB Usado no armazenamento do GitHub 
+> 📦 632.2 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -111,6 +111,43 @@
  > 
 > 🔑 2 Repositórios Privados  
  > 
+**Eu sou noturno 🦉** 
+
+```text
+🌞 Manhã      20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.92% 
+🌆 Tarde      45 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
+🌃 Noite      145 commits    ████████████░░░░░░░░░░░░░   50.17% 
+🌙 Madrugada  79 commits     ██████░░░░░░░░░░░░░░░░░░░   27.34%
+
+```
+📅 **Sou mais produtivo em domingo** 
+
+```text
+Segunda-Feira32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
+Terça-Feira  54 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
+Quarta-Feira 52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
+Quinta-Feira 51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Sexta-Feira  35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
+sábado       7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42% 
+domingo      58 commits     █████░░░░░░░░░░░░░░░░░░░░   20.07%
+
+```
+
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+🔥 Editores: 
+Visual Studio            21 hrs 58 mins      ████████████████████░░░░░   82.4% 
+VS Code                  3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
+Zsh                      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.21%
+
+💻 Sistema operacional: 
+Windows                  21 hrs 58 mins      ████████████████████░░░░░   82.4% 
+WSL                      4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.6%
+
+```
+
 **Eu geralmente programo em TypeScript** 
 
 ```text
@@ -124,7 +161,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 02:11:19 UTC
+ Last Updated on 05/09/2022 02:21:16 UTC
 <!--END_SECTION:waka-->
 </details>
 
