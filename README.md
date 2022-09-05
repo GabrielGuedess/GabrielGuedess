@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-2. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+3. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/vite-boilerplate](https://github.com/GabrielGuedess/vite-boilerplate)
-8. ⭐ Starred [rayepps/radash](https://github.com/rayepps/radash)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/vite-boilerplate](https://github.com/GabrielGuedess/vite-boilerplate)
+9. ⭐ Starred [rayepps/radash](https://github.com/rayepps/radash)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, September 4th, 2022, 9:54:35 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, September 5th, 2022, 12:35:37 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
