@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. 🤝 Became collaborator on [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-3. 📔 Created new repository [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ❗️ Opened issue [#6](https://github.com/GabrielGuedess/Evolution-Games/issues/6) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+2. ❗️ Opened issue [#5](https://github.com/GabrielGuedess/Evolution-Games/issues/5) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+3. ❗️ Opened issue [#4](https://github.com/GabrielGuedess/Evolution-Games/issues/4) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+4. ❗️ Opened issue [#3](https://github.com/GabrielGuedess/Evolution-Games/issues/3) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+5. ❗️ Opened issue [#2](https://github.com/GabrielGuedess/Evolution-Games/issues/2) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+6. ❗️ Opened issue [#1](https://github.com/GabrielGuedess/Evolution-Games/issues/1) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⭐ Starred [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+8. 🤝 Became collaborator on [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+9. 📔 Created new repository [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, September 11th, 2022, 12:28:48 AM BRT</b>
+<p align="center">Last refresh: <b>Sunday, September 11th, 2022, 1:46:23 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
