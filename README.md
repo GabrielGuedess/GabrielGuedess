@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)
-3. ❗️ Opened issue [#10](https://github.com/GabrielGuedess/Evolution-Games/issues/10) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-4. ❗️ Opened issue [#9](https://github.com/GabrielGuedess/Evolution-Games/issues/9) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-5. ❗️ Opened issue [#8](https://github.com/GabrielGuedess/Evolution-Games/issues/8) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-6. ❗️ Opened issue [#7](https://github.com/GabrielGuedess/Evolution-Games/issues/7) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-7. ❗️ Opened issue [#6](https://github.com/GabrielGuedess/Evolution-Games/issues/6) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-8. ❗️ Opened issue [#5](https://github.com/GabrielGuedess/Evolution-Games/issues/5) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-9. ❗️ Opened issue [#4](https://github.com/GabrielGuedess/Evolution-Games/issues/4) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-10. ❗️ Opened issue [#3](https://github.com/GabrielGuedess/Evolution-Games/issues/3) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+1. ⬆️ Pushed 13 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)
+4. ❗️ Opened issue [#10](https://github.com/GabrielGuedess/Evolution-Games/issues/10) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+5. ❗️ Opened issue [#9](https://github.com/GabrielGuedess/Evolution-Games/issues/9) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+6. ❗️ Opened issue [#8](https://github.com/GabrielGuedess/Evolution-Games/issues/8) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+7. ❗️ Opened issue [#7](https://github.com/GabrielGuedess/Evolution-Games/issues/7) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+8. ❗️ Opened issue [#6](https://github.com/GabrielGuedess/Evolution-Games/issues/6) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+9. ❗️ Opened issue [#5](https://github.com/GabrielGuedess/Evolution-Games/issues/5) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+10. ❗️ Opened issue [#4](https://github.com/GabrielGuedess/Evolution-Games/issues/4) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, September 12th, 2022, 5:51:52 AM BRT</b>
+<p align="center">Last refresh: <b>Monday, September 12th, 2022, 6:14:28 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
