@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⭐ Starred [GeisyViana/Aprendendo-Java](https://github.com/GeisyViana/Aprendendo-Java)
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. 📔 Created new repository [GabrielGuedess/nlw-esports-server](https://github.com/GabrielGuedess/nlw-esports-server)
-5. 📖 Created new wiki page [Home](https://github.com/GabrielGuedess/Evolution-Games/wiki/Home) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-6. ⬆️ Pushed 13 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)
-9. ❗️ Opened issue [#10](https://github.com/GabrielGuedess/Evolution-Games/issues/10) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-10. ❗️ Opened issue [#9](https://github.com/GabrielGuedess/Evolution-Games/issues/9) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. 📔 Created new repository [GabrielGuedess/nlw-esports-server](https://github.com/GabrielGuedess/nlw-esports-server)
+6. 📖 Created new wiki page [Home](https://github.com/GabrielGuedess/Evolution-Games/wiki/Home) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+7. ⬆️ Pushed 13 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)
+10. ❗️ Opened issue [#10](https://github.com/GabrielGuedess/Evolution-Games/issues/10) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, September 15th, 2022, 12:41:25 AM BRT</b>
+<p align="center">Last refresh: <b>Thursday, September 15th, 2022, 2:16:42 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
