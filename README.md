@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⭐ Starred [michalzalobny/creative-bay](https://github.com/michalzalobny/creative-bay)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⭐ Starred [GeisyViana/Aprendendo-Java](https://github.com/GeisyViana/Aprendendo-Java)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. 💪 Opened PR [#11](https://github.com/GabrielGuedess/Evolution-Games/pull/11) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. ⭐ Starred [michalzalobny/creative-bay](https://github.com/michalzalobny/creative-bay)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⭐ Starred [GeisyViana/Aprendendo-Java](https://github.com/GeisyViana/Aprendendo-Java)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. 📔 Created new repository [GabrielGuedess/nlw-esports-server](https://github.com/GabrielGuedess/nlw-esports-server)
-9. 📖 Created new wiki page [Home](https://github.com/GabrielGuedess/Evolution-Games/wiki/Home) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-10. ⬆️ Pushed 13 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. 📔 Created new repository [GabrielGuedess/nlw-esports-server](https://github.com/GabrielGuedess/nlw-esports-server)
+10. 📖 Created new wiki page [Home](https://github.com/GabrielGuedess/Evolution-Games/wiki/Home) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, September 17th, 2022, 12:22:00 AM BRT</b>
+<p align="center">Last refresh: <b>Saturday, September 17th, 2022, 1:41:40 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
