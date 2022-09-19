@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. 💪 Opened PR [#11](https://github.com/GabrielGuedess/Evolution-Games/pull/11) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+1. ⭐ Starred [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)
+2. ⭐ Starred [adolfintel/warpspeed](https://github.com/adolfintel/warpspeed)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-5. ⭐ Starred [michalzalobny/creative-bay](https://github.com/michalzalobny/creative-bay)
+5. 💪 Opened PR [#11](https://github.com/GabrielGuedess/Evolution-Games/pull/11) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-7. ⭐ Starred [GeisyViana/Aprendendo-Java](https://github.com/GeisyViana/Aprendendo-Java)
+7. ⭐ Starred [michalzalobny/creative-bay](https://github.com/michalzalobny/creative-bay)
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. ⭐ Starred [GeisyViana/Aprendendo-Java](https://github.com/GeisyViana/Aprendendo-Java)
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, September 19th, 2022, 12:43:52 AM BRT</b>
+<p align="center">Last refresh: <b>Monday, September 19th, 2022, 2:22:33 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
