@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)
-2. ⭐ Starred [adolfintel/warpspeed](https://github.com/adolfintel/warpspeed)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-5. 💪 Opened PR [#11](https://github.com/GabrielGuedess/Evolution-Games/pull/11) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+1. ⭐ Starred [codrops/LiquidDistortion](https://github.com/codrops/LiquidDistortion)
+2. ⭐ Starred [hmongouachon/rgbKineticSlider](https://github.com/hmongouachon/rgbKineticSlider)
+3. ⭐ Starred [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)
+4. ⭐ Starred [adolfintel/warpspeed](https://github.com/adolfintel/warpspeed)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-7. ⭐ Starred [michalzalobny/creative-bay](https://github.com/michalzalobny/creative-bay)
+7. 💪 Opened PR [#11](https://github.com/GabrielGuedess/Evolution-Games/pull/11) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. ⭐ Starred [GeisyViana/Aprendendo-Java](https://github.com/GeisyViana/Aprendendo-Java)
+9. ⭐ Starred [michalzalobny/creative-bay](https://github.com/michalzalobny/creative-bay)
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, September 19th, 2022, 3:39:26 AM BRT</b>
+<p align="center">Last refresh: <b>Monday, September 19th, 2022, 4:32:02 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
