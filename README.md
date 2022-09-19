@@ -74,19 +74,19 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. 💪 Opened PR [#11](https://github.com/GabrielGuedess/Evolution-Games/pull/11) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⭐ Starred [michalzalobny/creative-bay](https://github.com/michalzalobny/creative-bay)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-6. ⭐ Starred [GeisyViana/Aprendendo-Java](https://github.com/GeisyViana/Aprendendo-Java)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. 💪 Opened PR [#11](https://github.com/GabrielGuedess/Evolution-Games/pull/11) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⭐ Starred [michalzalobny/creative-bay](https://github.com/michalzalobny/creative-bay)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+7. ⭐ Starred [GeisyViana/Aprendendo-Java](https://github.com/GeisyViana/Aprendendo-Java)
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. 📔 Created new repository [GabrielGuedess/nlw-esports-server](https://github.com/GabrielGuedess/nlw-esports-server)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, September 18th, 2022, 9:51:29 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, September 19th, 2022, 12:43:52 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
