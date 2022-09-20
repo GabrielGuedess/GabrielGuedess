@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#12](https://github.com/GabrielGuedess/Evolution-Games/pull/12) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ⭐ Starred [codrops/LiquidDistortion](https://github.com/codrops/LiquidDistortion)
-4. ⭐ Starred [hmongouachon/rgbKineticSlider](https://github.com/hmongouachon/rgbKineticSlider)
-5. ⭐ Starred [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)
-6. ⭐ Starred [adolfintel/warpspeed](https://github.com/adolfintel/warpspeed)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. 💪 Opened PR [#11](https://github.com/GabrielGuedess/Evolution-Games/pull/11) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+1. ⭐ Starred [extrawurst/gitui](https://github.com/extrawurst/gitui)
+2. ⭐ Starred [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+3. 💪 Opened PR [#12](https://github.com/GabrielGuedess/Evolution-Games/pull/12) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⭐ Starred [codrops/LiquidDistortion](https://github.com/codrops/LiquidDistortion)
+6. ⭐ Starred [hmongouachon/rgbKineticSlider](https://github.com/hmongouachon/rgbKineticSlider)
+7. ⭐ Starred [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)
+8. ⭐ Starred [adolfintel/warpspeed](https://github.com/adolfintel/warpspeed)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, September 20th, 2022, 8:09:38 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, September 20th, 2022, 8:43:20 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
