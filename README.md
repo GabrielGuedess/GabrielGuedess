@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lipis/flag-icons](https://github.com/lipis/flag-icons)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ⭐ Starred [extrawurst/gitui](https://github.com/extrawurst/gitui)
-4. ⭐ Starred [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-5. 💪 Opened PR [#12](https://github.com/GabrielGuedess/Evolution-Games/pull/12) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-7. ⭐ Starred [codrops/LiquidDistortion](https://github.com/codrops/LiquidDistortion)
-8. ⭐ Starred [hmongouachon/rgbKineticSlider](https://github.com/hmongouachon/rgbKineticSlider)
-9. ⭐ Starred [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)
-10. ⭐ Starred [adolfintel/warpspeed](https://github.com/adolfintel/warpspeed)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ⭐ Starred [lipis/flag-icons](https://github.com/lipis/flag-icons)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+4. ⭐ Starred [extrawurst/gitui](https://github.com/extrawurst/gitui)
+5. ⭐ Starred [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+6. 💪 Opened PR [#12](https://github.com/GabrielGuedess/Evolution-Games/pull/12) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+8. ⭐ Starred [codrops/LiquidDistortion](https://github.com/codrops/LiquidDistortion)
+9. ⭐ Starred [hmongouachon/rgbKineticSlider](https://github.com/hmongouachon/rgbKineticSlider)
+10. ⭐ Starred [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, September 21st, 2022, 9:51:42 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, September 22nd, 2022, 12:30:44 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
