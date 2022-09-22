@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⭐ Starred [lipis/flag-icons](https://github.com/lipis/flag-icons)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⭐ Starred [extrawurst/gitui](https://github.com/extrawurst/gitui)
-5. ⭐ Starred [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-6. 💪 Opened PR [#12](https://github.com/GabrielGuedess/Evolution-Games/pull/12) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⭐ Starred [codrops/LiquidDistortion](https://github.com/codrops/LiquidDistortion)
-9. ⭐ Starred [hmongouachon/rgbKineticSlider](https://github.com/hmongouachon/rgbKineticSlider)
-10. ⭐ Starred [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. ⭐ Starred [lipis/flag-icons](https://github.com/lipis/flag-icons)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⭐ Starred [extrawurst/gitui](https://github.com/extrawurst/gitui)
+6. ⭐ Starred [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+7. 💪 Opened PR [#12](https://github.com/GabrielGuedess/Evolution-Games/pull/12) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. ⭐ Starred [codrops/LiquidDistortion](https://github.com/codrops/LiquidDistortion)
+10. ⭐ Starred [hmongouachon/rgbKineticSlider](https://github.com/hmongouachon/rgbKineticSlider)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, September 22nd, 2022, 12:30:44 AM BRT</b>
+<p align="center">Last refresh: <b>Thursday, September 22nd, 2022, 2:15:20 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
