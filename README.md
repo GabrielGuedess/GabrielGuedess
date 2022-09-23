@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ⭐ Starred [lipis/flag-icons](https://github.com/lipis/flag-icons)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-5. ⭐ Starred [extrawurst/gitui](https://github.com/extrawurst/gitui)
-6. ⭐ Starred [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-7. 💪 Opened PR [#12](https://github.com/GabrielGuedess/Evolution-Games/pull/12) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. ⭐ Starred [codrops/LiquidDistortion](https://github.com/codrops/LiquidDistortion)
-10. ⭐ Starred [hmongouachon/rgbKineticSlider](https://github.com/hmongouachon/rgbKineticSlider)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+4. ⭐ Starred [lipis/flag-icons](https://github.com/lipis/flag-icons)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+6. ⭐ Starred [extrawurst/gitui](https://github.com/extrawurst/gitui)
+7. ⭐ Starred [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+8. 💪 Opened PR [#12](https://github.com/GabrielGuedess/Evolution-Games/pull/12) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+10. ⭐ Starred [codrops/LiquidDistortion](https://github.com/codrops/LiquidDistortion)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, September 22nd, 2022, 9:55:54 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, September 23rd, 2022, 12:41:13 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
