@@ -74,19 +74,19 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⭐ Starred [lipis/flag-icons](https://github.com/lipis/flag-icons)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-6. ⭐ Starred [extrawurst/gitui](https://github.com/extrawurst/gitui)
-7. ⭐ Starred [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-8. 💪 Opened PR [#12](https://github.com/GabrielGuedess/Evolution-Games/pull/12) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⭐ Starred [codrops/LiquidDistortion](https://github.com/codrops/LiquidDistortion)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⭐ Starred [lipis/flag-icons](https://github.com/lipis/flag-icons)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+7. ⭐ Starred [extrawurst/gitui](https://github.com/extrawurst/gitui)
+8. ⭐ Starred [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+9. 💪 Opened PR [#12](https://github.com/GabrielGuedess/Evolution-Games/pull/12) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, September 23rd, 2022, 10:03:59 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, September 24th, 2022, 12:57:56 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
