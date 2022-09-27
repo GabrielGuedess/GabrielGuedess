@@ -75,18 +75,18 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ⭐ Starred [olivierlesnicki/quantize](https://github.com/olivierlesnicki/quantize)
-4. ⭐ Starred [jeffersonlicet/use-image-color](https://github.com/jeffersonlicet/use-image-color)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+4. ⭐ Starred [olivierlesnicki/quantize](https://github.com/olivierlesnicki/quantize)
+5. ⭐ Starred [jeffersonlicet/use-image-color](https://github.com/jeffersonlicet/use-image-color)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⭐ Starred [lipis/flag-icons](https://github.com/lipis/flag-icons)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, September 26th, 2022, 9:56:46 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, September 27th, 2022, 12:29:39 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
