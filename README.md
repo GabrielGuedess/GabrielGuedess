@@ -78,15 +78,15 @@
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-6. ⭐ Starred [olivierlesnicki/quantize](https://github.com/olivierlesnicki/quantize)
-7. ⭐ Starred [jeffersonlicet/use-image-color](https://github.com/jeffersonlicet/use-image-color)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+7. ⭐ Starred [olivierlesnicki/quantize](https://github.com/olivierlesnicki/quantize)
+8. ⭐ Starred [jeffersonlicet/use-image-color](https://github.com/jeffersonlicet/use-image-color)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, September 29th, 2022, 10:13:50 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, September 30th, 2022, 1:11:57 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
