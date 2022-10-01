@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 11 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-2. 🎉 Merged PR [#14](https://github.com/GabrielGuedess/Evolution-Games/pull/14) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ⬆️ Pushed 11 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+3. 🎉 Merged PR [#14](https://github.com/GabrielGuedess/Evolution-Games/pull/14) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. ⭐ Starred [olivierlesnicki/quantize](https://github.com/olivierlesnicki/quantize)
-10. ⭐ Starred [jeffersonlicet/use-image-color](https://github.com/jeffersonlicet/use-image-color)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+10. ⭐ Starred [olivierlesnicki/quantize](https://github.com/olivierlesnicki/quantize)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, September 30th, 2022, 10:09:08 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, October 1st, 2022, 1:06:38 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
