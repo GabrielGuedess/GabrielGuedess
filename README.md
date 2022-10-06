@@ -74,19 +74,19 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⭐ Starred [igordanchenko/yet-another-react-lightbox](https://github.com/igordanchenko/yet-another-react-lightbox)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⬆️ Pushed 17 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-5. 🎉 Merged PR [#17](https://github.com/GabrielGuedess/Evolution-Games/pull/17) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-6. ⭐ Starred [natasha-m-oliveira/ignite-trilha-nodejs-desafio05](https://github.com/natasha-m-oliveira/ignite-trilha-nodejs-desafio05)
-7. ⭐ Starred [natasha-m-oliveira/rentx](https://github.com/natasha-m-oliveira/rentx)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Quiz-Bandeiras-Android](https://github.com/GabrielGuedess/Quiz-Bandeiras-Android)
-9. ⭐ Starred [seanpmaxwell/overnight](https://github.com/seanpmaxwell/overnight)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. 💪 Opened PR [#18](https://github.com/GabrielGuedess/Evolution-Games/pull/18) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⭐ Starred [igordanchenko/yet-another-react-lightbox](https://github.com/igordanchenko/yet-another-react-lightbox)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+7. ⬆️ Pushed 17 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+8. 🎉 Merged PR [#17](https://github.com/GabrielGuedess/Evolution-Games/pull/17) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+9. ⭐ Starred [natasha-m-oliveira/ignite-trilha-nodejs-desafio05](https://github.com/natasha-m-oliveira/ignite-trilha-nodejs-desafio05)
+10. ⭐ Starred [natasha-m-oliveira/rentx](https://github.com/natasha-m-oliveira/rentx)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, October 6th, 2022, 2:06:41 AM BRT</b>
+<p align="center">Last refresh: <b>Thursday, October 6th, 2022, 2:58:26 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
