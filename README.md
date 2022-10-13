@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⭐ Starred [drcmda/the-substance](https://github.com/drcmda/the-substance)
-3. ❗️ Opened issue [#20](https://github.com/GabrielGuedess/Evolution-Games/issues/20) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-5. 💪 Opened PR [#19](https://github.com/GabrielGuedess/Evolution-Games/pull/19) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⭐ Starred [Edmilson-Manoel/Edmilson-Manoel](https://github.com/Edmilson-Manoel/Edmilson-Manoel)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. ⭐ Starred [drcmda/the-substance](https://github.com/drcmda/the-substance)
+4. ❗️ Opened issue [#20](https://github.com/GabrielGuedess/Evolution-Games/issues/20) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+6. 💪 Opened PR [#19](https://github.com/GabrielGuedess/Evolution-Games/pull/19) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⭐ Starred [tajo/react-range](https://github.com/tajo/react-range)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⭐ Starred [trpc/trpc](https://github.com/trpc/trpc)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. ⭐ Starred [tajo/react-range](https://github.com/tajo/react-range)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, October 13th, 2022, 5:45:01 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, October 13th, 2022, 6:11:15 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
