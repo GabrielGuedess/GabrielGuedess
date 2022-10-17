@@ -287,7 +287,11 @@ Java                     2 repos             █░░░░░░░░░░�
 <br />
 <br />
 
+
 <h2 align="center">🤝 Support</h2>
+
+<img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/main/images/stars.gif" align="left" width="100" height="125" />
+<img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/main/images/stars.gif" align="right" width="100" height="125" />
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 
