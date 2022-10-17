@@ -76,17 +76,17 @@
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⭐ Starred [Edmilson-Manoel/Edmilson-Manoel](https://github.com/Edmilson-Manoel/Edmilson-Manoel)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-6. ⭐ Starred [drcmda/the-substance](https://github.com/drcmda/the-substance)
-7. ❗️ Opened issue [#20](https://github.com/GabrielGuedess/Evolution-Games/issues/20) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-9. 💪 Opened PR [#19](https://github.com/GabrielGuedess/Evolution-Games/pull/19) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+6. ⭐ Starred [facebook/react](https://github.com/facebook/react)
+7. ⭐ Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+8. ⭐ Starred [morajabi/styled-media-query](https://github.com/morajabi/styled-media-query)
+9. ⭐ Starred [mayhemantt/mayhemantt](https://github.com/mayhemantt/mayhemantt)
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, October 16th, 2022, 10:03:42 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, October 17th, 2022, 1:11:06 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
