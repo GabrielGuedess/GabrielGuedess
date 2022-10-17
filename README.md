@@ -280,3 +280,21 @@ Java                     2 repos             █░░░░░░░░░░�
 <a href="#">
   <img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/output/github-contribution-grid-snake.svg" width="1012">
 </a>
+
+<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+
+<br />
+<br />
+<br />
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+
+<p align="center">Made with ❤️ in Brazil <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/br.svg" height="16" /></p>
+
+<h1 align="center">⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+  <img href="#" src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/33c10d5593c9e941d594836cf67822593e647c22/images/Footer.svg" />
+</p>
