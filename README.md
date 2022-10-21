@@ -95,7 +95,7 @@
 <summary><h3>:clock230: WakaTime Stats</h3></summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-631%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-276%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -103,7 +103,7 @@
 
 > 🏆 231 Contribuições no ano de 2022
  > 
-> 📦 901.3 kB Usado no armazenamento do GitHub 
+> 📦 906.7 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -138,12 +138,12 @@ domingo      59 commits     ████░░░░░░░░░░░░░�
 
 ```text
 🔥 Editores: 
-Zsh                      3 hrs 55 mins       ████████████████████████░   96.88% 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
+Zsh                      34 mins             ████████████████████░░░░░   81.94% 
+VS Code                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.06%
 
 💻 Sistema operacional: 
-WSL                      3 hrs 55 mins       ████████████████████████░   96.88% 
-Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
+WSL                      34 mins             ████████████████████░░░░░   81.94% 
+Windows                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.06%
 
 ```
 
@@ -160,7 +160,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2022 02:23:06 UTC
+ Last Updated on 21/10/2022 01:58:32 UTC
 <!--END_SECTION:waka-->
 </details>
 
