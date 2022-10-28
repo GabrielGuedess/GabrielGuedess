@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kevinfarrugia/react-glider](https://github.com/kevinfarrugia/react-glider)
-2. 🤝 Became collaborator on [GabrielGuedess/api-evolution](https://github.com/GabrielGuedess/api-evolution)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ⭐ Starred [kevinfarrugia/react-glider](https://github.com/kevinfarrugia/react-glider)
+3. 🤝 Became collaborator on [GabrielGuedess/api-evolution](https://github.com/GabrielGuedess/api-evolution)
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-6. ⭐ Starred [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 7. ⭐ Starred [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. 📔 Created new repository [GabrielGuedess/api-evolution](https://github.com/GabrielGuedess/api-evolution)
-10. 💪 Opened PR [#21](https://github.com/GabrielGuedess/Evolution-Games/pull/21) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+8. ⭐ Starred [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+10. 📔 Created new repository [GabrielGuedess/api-evolution](https://github.com/GabrielGuedess/api-evolution)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, October 27th, 2022, 9:54:24 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, October 28th, 2022, 12:13:09 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
