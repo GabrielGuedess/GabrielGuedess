@@ -95,7 +95,7 @@
 <summary><h3>:clock230: WakaTime Stats</h3></summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-281%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -103,7 +103,7 @@
 
 > 🏆 236 Contribuições no ano de 2022
  > 
-> 📦 960.3 kB Usado no armazenamento do GitHub 
+> 📦 965.3 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -138,10 +138,10 @@ domingo      59 commits     ████░░░░░░░░░░░░░�
 
 ```text
 🔥 Editores: 
-Zsh                      3 hrs 42 mins       █████████████████████████   100.0%
+Zsh                      4 hrs               █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-WSL                      3 hrs 42 mins       █████████████████████████   100.0%
+WSL                      4 hrs               █████████████████████████   100.0%
 
 ```
 
@@ -158,7 +158,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2022 02:13:48 UTC
+ Last Updated on 31/10/2022 02:14:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
