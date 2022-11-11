@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⬆️ Pushed 37 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ⭐ Starred [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+4. ⭐ Starred [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app)
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⬆️ Pushed 31 commit(s) to [GabrielGuedess/api-evolution](https://github.com/GabrielGuedess/api-evolution)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. 📖 Created new wiki page [Home](https://github.com/GabrielGuedess/api-evolution/wiki/Home) in [GabrielGuedess/api-evolution](https://github.com/GabrielGuedess/api-evolution)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. ⬆️ Pushed 31 commit(s) to [GabrielGuedess/api-evolution](https://github.com/GabrielGuedess/api-evolution)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, November 10th, 2022, 11:56:42 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, November 11th, 2022, 12:51:54 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
