@@ -95,7 +95,7 @@
 <summary><h3>:clock230: WakaTime Stats</h3></summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-276%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -138,12 +138,11 @@ domingo      59 commits     ████░░░░░░░░░░░░░�
 
 ```text
 🔥 Editores: 
-VS Code                  24 hrs 42 mins      █████████████████████████   99.96% 
-Zsh                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+VS Code                  25 hrs 34 mins      █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-WSL                      23 hrs 46 mins      ████████████████████████░   96.18% 
-Windows                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.82%
+WSL                      24 hrs 37 mins      ████████████████████████░   96.31% 
+Windows                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.69%
 
 ```
 
@@ -160,7 +159,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2022 01:51:45 UTC
+ Last Updated on 14/11/2022 01:51:50 UTC
 <!--END_SECTION:waka-->
 </details>
 
