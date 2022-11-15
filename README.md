@@ -74,19 +74,19 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⭐ Starred [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos)
-3. ⭐ Starred [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. 📔 Created new repository [GabrielGuedess/api-waiter](https://github.com/GabrielGuedess/api-waiter)
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-5. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-evolution](https://github.com/GabrielGuedess/api-evolution)
+5. ⭐ Starred [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos)
+6. ⭐ Starred [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⬆️ Pushed 5 commit(s) to [GabrielGuedess/api-evolution](https://github.com/GabrielGuedess/api-evolution)
-9. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-10. ⬆️ Pushed 37 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-evolution](https://github.com/GabrielGuedess/api-evolution)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, November 14th, 2022, 9:44:06 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, November 14th, 2022, 11:44:58 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
