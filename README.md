@@ -79,14 +79,14 @@
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-7. 📔 Created new repository [GabrielGuedess/api-waiter](https://github.com/GabrielGuedess/api-waiter)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. ⭐ Starred [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos)
-10. ⭐ Starred [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+8. 📔 Created new repository [GabrielGuedess/api-waiter](https://github.com/GabrielGuedess/api-waiter)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+10. ⭐ Starred [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, November 19th, 2022, 8:35:07 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, November 19th, 2022, 11:48:46 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
