@@ -73,9 +73,9 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
 2. 📔 Created new repository [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. 📔 Created new repository [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
@@ -86,7 +86,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, November 21st, 2022, 1:16:23 AM BRT</b>
+<p align="center">Last refresh: <b>Monday, November 21st, 2022, 1:45:57 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
