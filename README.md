@@ -80,13 +80,13 @@
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. 📔 Created new repository [GabrielGuedess/api-waiter](https://github.com/GabrielGuedess/api-waiter)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⭐ Starred [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. 📔 Created new repository [GabrielGuedess/api-waiter](https://github.com/GabrielGuedess/api-waiter)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, November 20th, 2022, 9:44:51 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, November 20th, 2022, 11:45:30 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
