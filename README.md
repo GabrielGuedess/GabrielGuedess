@@ -74,19 +74,19 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⭐ Starred [osintbrazuca/osint-brazuca-regex](https://github.com/osintbrazuca/osint-brazuca-regex)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
-5. 🤝 Became collaborator on [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. ⭐ Starred [osintbrazuca/osint-brazuca-regex](https://github.com/osintbrazuca/osint-brazuca-regex)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
+6. 🤝 Became collaborator on [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. ⭐ Starred [scastiel/github-business-card](https://github.com/scastiel/github-business-card)
-10. ⭐ Starred [debauchee/barrier](https://github.com/debauchee/barrier)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+10. ⭐ Starred [scastiel/github-business-card](https://github.com/scastiel/github-business-card)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, November 24th, 2022, 9:41:27 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, November 24th, 2022, 11:25:07 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
