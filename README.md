@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ⭐ Starred [osintbrazuca/osint-brazuca-regex](https://github.com/osintbrazuca/osint-brazuca-regex)
+1. 📖 Created new wiki page [Git-Flow](https://github.com/GabrielGuedess/TMS/wiki/Git-Flow) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+2. 📖 Created new wiki page [Home](https://github.com/GabrielGuedess/TMS/wiki/Home) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
-6. 🤝 Became collaborator on [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
+5. ⭐ Starred [osintbrazuca/osint-brazuca-regex](https://github.com/osintbrazuca/osint-brazuca-regex)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⭐ Starred [scastiel/github-business-card](https://github.com/scastiel/github-business-card)
+8. 🤝 Became collaborator on [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-app](https://github.com/GabrielGuedess/tourism-app)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, November 25th, 2022, 8:07:21 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, November 25th, 2022, 8:33:36 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
