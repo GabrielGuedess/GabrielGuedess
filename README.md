@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#9](https://github.com/GabrielGuedess/TMS/issues/9) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-2. ❗️ Opened issue [#8](https://github.com/GabrielGuedess/TMS/issues/8) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-3. ❗️ Opened issue [#7](https://github.com/GabrielGuedess/TMS/issues/7) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-4. ❗️ Opened issue [#6](https://github.com/GabrielGuedess/TMS/issues/6) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-5. ❗️ Opened issue [#5](https://github.com/GabrielGuedess/TMS/issues/5) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-6. ❗️ Opened issue [#4](https://github.com/GabrielGuedess/TMS/issues/4) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-7. ❗️ Opened issue [#3](https://github.com/GabrielGuedess/TMS/issues/3) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-8. ❗️ Opened issue [#2](https://github.com/GabrielGuedess/TMS/issues/2) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-9. ❗️ Opened issue [#1](https://github.com/GabrielGuedess/TMS/issues/1) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-10. 📖 Created new wiki page [Git-Flow](https://github.com/GabrielGuedess/TMS/wiki/Git-Flow) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ❗️ Opened issue [#9](https://github.com/GabrielGuedess/TMS/issues/9) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+3. ❗️ Opened issue [#8](https://github.com/GabrielGuedess/TMS/issues/8) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+4. ❗️ Opened issue [#7](https://github.com/GabrielGuedess/TMS/issues/7) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+5. ❗️ Opened issue [#6](https://github.com/GabrielGuedess/TMS/issues/6) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+6. ❗️ Opened issue [#5](https://github.com/GabrielGuedess/TMS/issues/5) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+7. ❗️ Opened issue [#4](https://github.com/GabrielGuedess/TMS/issues/4) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+8. ❗️ Opened issue [#3](https://github.com/GabrielGuedess/TMS/issues/3) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+9. ❗️ Opened issue [#2](https://github.com/GabrielGuedess/TMS/issues/2) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+10. ❗️ Opened issue [#1](https://github.com/GabrielGuedess/TMS/issues/1) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, November 25th, 2022, 9:36:59 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, November 25th, 2022, 11:17:36 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
