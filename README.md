@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [GabrielGuedess/tourism-kotlin](https://github.com/GabrielGuedess/tourism-kotlin)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-kotlin](https://github.com/GabrielGuedess/tourism-kotlin)
+2. 📔 Created new repository [GabrielGuedess/tourism-kotlin](https://github.com/GabrielGuedess/tourism-kotlin)
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ❗️ Opened issue [#9](https://github.com/GabrielGuedess/TMS/issues/9) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-5. ❗️ Opened issue [#8](https://github.com/GabrielGuedess/TMS/issues/8) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-6. ❗️ Opened issue [#7](https://github.com/GabrielGuedess/TMS/issues/7) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-7. ❗️ Opened issue [#6](https://github.com/GabrielGuedess/TMS/issues/6) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-8. ❗️ Opened issue [#5](https://github.com/GabrielGuedess/TMS/issues/5) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-9. ❗️ Opened issue [#4](https://github.com/GabrielGuedess/TMS/issues/4) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-10. ❗️ Opened issue [#3](https://github.com/GabrielGuedess/TMS/issues/3) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ❗️ Opened issue [#9](https://github.com/GabrielGuedess/TMS/issues/9) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+6. ❗️ Opened issue [#8](https://github.com/GabrielGuedess/TMS/issues/8) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+7. ❗️ Opened issue [#7](https://github.com/GabrielGuedess/TMS/issues/7) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+8. ❗️ Opened issue [#6](https://github.com/GabrielGuedess/TMS/issues/6) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+9. ❗️ Opened issue [#5](https://github.com/GabrielGuedess/TMS/issues/5) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+10. ❗️ Opened issue [#4](https://github.com/GabrielGuedess/TMS/issues/4) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, November 27th, 2022, 7:07:42 AM BRT</b>
+<p align="center">Last refresh: <b>Sunday, November 27th, 2022, 7:35:11 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
