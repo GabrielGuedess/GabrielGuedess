@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [Test](https://github.com/GabrielGuedess/TMS/wiki/Test) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-kotlin](https://github.com/GabrielGuedess/tourism-kotlin)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-5. ✔️ Closed issue [#4](https://github.com/GabrielGuedess/TMS/issues/4) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-6. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-7. 🎉 Merged PR [#10](https://github.com/GabrielGuedess/TMS/pull/10) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-8. ⬆️ Pushed 5 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-kotlin](https://github.com/GabrielGuedess/tourism-kotlin)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. 📖 Created new wiki page [Test](https://github.com/GabrielGuedess/TMS/wiki/Test) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-kotlin](https://github.com/GabrielGuedess/tourism-kotlin)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+7. ✔️ Closed issue [#4](https://github.com/GabrielGuedess/TMS/issues/4) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+8. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+9. 🎉 Merged PR [#10](https://github.com/GabrielGuedess/TMS/pull/10) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+10. ⬆️ Pushed 5 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, November 28th, 2022, 9:41:13 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, November 28th, 2022, 11:20:58 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
