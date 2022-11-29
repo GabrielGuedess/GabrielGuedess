@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="#">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuedess&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuedess&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
   </a>
 
   <a href="#">
