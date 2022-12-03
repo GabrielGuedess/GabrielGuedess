@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. ✔️ Closed issue [#5](https://github.com/GabrielGuedess/TMS/issues/5) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+2. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+3. 🎉 Merged PR [#11](https://github.com/GabrielGuedess/TMS/pull/11) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-5. 💬 Commented on [#7544](https://github.com/frontendbr/vagas/issues/7544#issuecomment-1331410160) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
-6. ⭐ Starred [frontendbr/vagas](https://github.com/frontendbr/vagas)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. 📖 Created new wiki page [Test](https://github.com/GabrielGuedess/TMS/wiki/Test) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/tourism-kotlin](https://github.com/GabrielGuedess/tourism-kotlin)
+8. 💬 Commented on [#7544](https://github.com/frontendbr/vagas/issues/7544#issuecomment-1331410160) in [frontendbr/vagas](https://github.com/frontendbr/vagas)
+9. ⭐ Starred [frontendbr/vagas](https://github.com/frontendbr/vagas)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, December 3rd, 2022, 12:33:33 AM BRT</b>
+<p align="center">Last refresh: <b>Saturday, December 3rd, 2022, 1:08:28 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
