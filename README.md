@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+1. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-5. 🎉 Merged PR [#19](https://github.com/GabrielGuedess/TMS/pull/19) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-6. 💪 Opened PR [#19](https://github.com/GabrielGuedess/TMS/pull/19) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-7. ✔️ Closed issue [#9](https://github.com/GabrielGuedess/TMS/issues/9) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-8. ✔️ Closed issue [#8](https://github.com/GabrielGuedess/TMS/issues/8) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-9. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-10. 🎉 Merged PR [#18](https://github.com/GabrielGuedess/TMS/pull/18) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+6. 🎉 Merged PR [#19](https://github.com/GabrielGuedess/TMS/pull/19) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+7. 💪 Opened PR [#19](https://github.com/GabrielGuedess/TMS/pull/19) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+8. ✔️ Closed issue [#9](https://github.com/GabrielGuedess/TMS/issues/9) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+9. ✔️ Closed issue [#8](https://github.com/GabrielGuedess/TMS/issues/8) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+10. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, December 6th, 2022, 8:33:14 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, December 6th, 2022, 9:39:04 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
