@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lumeland/lume](https://github.com/lumeland/lume)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+2. ⭐ Starred [lumeland/lume](https://github.com/lumeland/lume)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+4. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-8. 🎉 Merged PR [#19](https://github.com/GabrielGuedess/TMS/pull/19) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-9. 💪 Opened PR [#19](https://github.com/GabrielGuedess/TMS/pull/19) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-10. ✔️ Closed issue [#9](https://github.com/GabrielGuedess/TMS/issues/9) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+9. 🎉 Merged PR [#19](https://github.com/GabrielGuedess/TMS/pull/19) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+10. 💪 Opened PR [#19](https://github.com/GabrielGuedess/TMS/pull/19) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, December 7th, 2022, 9:37:28 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, December 7th, 2022, 11:13:45 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
