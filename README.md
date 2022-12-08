@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. ⭐ Starred [lumeland/lume](https://github.com/lumeland/lume)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. ⭐ Starred [lumeland/lume](https://github.com/lumeland/lume)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-9. 🎉 Merged PR [#19](https://github.com/GabrielGuedess/TMS/pull/19) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-10. 💪 Opened PR [#19](https://github.com/GabrielGuedess/TMS/pull/19) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+10. 🎉 Merged PR [#19](https://github.com/GabrielGuedess/TMS/pull/19) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, December 8th, 2022, 5:37:34 AM BRT</b>
+<p align="center">Last refresh: <b>Thursday, December 8th, 2022, 6:07:35 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
