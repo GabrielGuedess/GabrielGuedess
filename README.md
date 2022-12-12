@@ -75,18 +75,18 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ✔️ Closed issue [#12](https://github.com/GabrielGuedess/TMS/issues/12) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-5. ✌️ Released [v1.0.0](https://github.com/GabrielGuedess/TMS/releases/tag/v1.0.0) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+4. ✔️ Closed issue [#12](https://github.com/GabrielGuedess/TMS/issues/12) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+6. ✌️ Released [v1.0.0](https://github.com/GabrielGuedess/TMS/releases/tag/v1.0.0) in [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⭐ Starred [lumeland/lume](https://github.com/lumeland/lume)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS](https://github.com/GabrielGuedess/TMS)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, December 11th, 2022, 9:40:41 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, December 11th, 2022, 11:14:28 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
