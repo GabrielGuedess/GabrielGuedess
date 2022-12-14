@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-2. 📔 Created new repository [GabrielGuedess/api-tweets-golang](https://github.com/GabrielGuedess/api-tweets-golang)
-3. ⭐ Starred [natasha-m-oliveira/dt-money](https://github.com/natasha-m-oliveira/dt-money)
-4. ⭐ Starred [natasha-m-oliveira/notification-service](https://github.com/natasha-m-oliveira/notification-service)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/notifications-service](https://github.com/GabrielGuedess/notifications-service)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. 📔 Created new repository [GabrielGuedess/notifications-service](https://github.com/GabrielGuedess/notifications-service)
+1. ✌️ Released [1.0.0](https://github.com/GabrielGuedess/Evolution-Games/releases/tag/1.0.0) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+2. ⬆️ Pushed 262 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+4. 📔 Created new repository [GabrielGuedess/api-tweets-golang](https://github.com/GabrielGuedess/api-tweets-golang)
+5. ⭐ Starred [natasha-m-oliveira/dt-money](https://github.com/natasha-m-oliveira/dt-money)
+6. ⭐ Starred [natasha-m-oliveira/notification-service](https://github.com/natasha-m-oliveira/notification-service)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/notifications-service](https://github.com/GabrielGuedess/notifications-service)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+10. 📔 Created new repository [GabrielGuedess/notifications-service](https://github.com/GabrielGuedess/notifications-service)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, December 14th, 2022, 2:32:15 AM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, December 14th, 2022, 3:10:07 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
