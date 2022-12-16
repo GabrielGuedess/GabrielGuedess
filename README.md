@@ -95,7 +95,7 @@
 <summary><h3>:clock230: WakaTime Stats</h3></summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-786%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-289%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -138,12 +138,12 @@ Domingo      78 commits     ████░░░░░░░░░░░░░�
 
 ```text
 🔥 Editores: 
-Visual Studio            8 hrs 6 mins        ████████████████░░░░░░░░░   65.95% 
-VS Code                  4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   34.05%
+VS Code                  8 hrs 57 mins       █████████████░░░░░░░░░░░░   53.85% 
+Visual Studio            7 hrs 40 mins       ███████████░░░░░░░░░░░░░░   46.15%
 
 💻 Sistema operacional: 
-Windows                  8 hrs 6 mins        ████████████████░░░░░░░░░   65.95% 
-WSL                      4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   34.05%
+WSL                      8 hrs 57 mins       █████████████░░░░░░░░░░░░   53.85% 
+Windows                  7 hrs 40 mins       ███████████░░░░░░░░░░░░░░   46.15%
 
 ```
 
@@ -160,7 +160,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2022 01:29:42 UTC
+ Last Updated on 16/12/2022 01:22:29 UTC
 <!--END_SECTION:waka-->
 </details>
 
