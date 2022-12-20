@@ -77,16 +77,16 @@
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-5. ⭐ Starred [Jamielly/Jamielly](https://github.com/Jamielly/Jamielly)
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/notifications-service](https://github.com/GabrielGuedess/notifications-service)
-8. ✌️ Released [1.0.0](https://github.com/GabrielGuedess/Evolution-Games/releases/tag/1.0.0) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-9. ⬆️ Pushed 262 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+6. ⭐ Starred [Jamielly/Jamielly](https://github.com/Jamielly/Jamielly)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/notifications-service](https://github.com/GabrielGuedess/notifications-service)
+9. ✌️ Released [1.0.0](https://github.com/GabrielGuedess/Evolution-Games/releases/tag/1.0.0) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+10. ⬆️ Pushed 262 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, December 19th, 2022, 9:38:06 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, December 19th, 2022, 11:07:46 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
