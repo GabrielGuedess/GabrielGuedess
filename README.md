@@ -79,14 +79,14 @@
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-7. ⭐ Starred [Jamielly/Jamielly](https://github.com/Jamielly/Jamielly)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/notifications-service](https://github.com/GabrielGuedess/notifications-service)
-10. ✌️ Released [1.0.0](https://github.com/GabrielGuedess/Evolution-Games/releases/tag/1.0.0) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+8. ⭐ Starred [Jamielly/Jamielly](https://github.com/Jamielly/Jamielly)
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/notifications-service](https://github.com/GabrielGuedess/notifications-service)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, December 20th, 2022, 9:35:07 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, December 20th, 2022, 11:03:57 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
