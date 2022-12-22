@@ -184,7 +184,7 @@ Java                     3 repos             ██░░░░░░░░░�
   <a href="#">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GabrielGuedess&show_icons=true&theme=dracula&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGuedess&theme=dracula&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=GabrielGuedess&theme=dracula&hide_border=true&bg_color=282A36" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GabrielGuedess&theme=dracula&hide_border=true&bg_color=282A36" />
   </a>
 </div>
 
