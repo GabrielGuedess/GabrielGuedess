@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-2. 📔 Created new repository [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GoFinances](https://github.com/GabrielGuedess/GoFinances)
-4. ⭐ Starred [GabrielGuedess/GoFinances](https://github.com/GabrielGuedess/GoFinances)
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GoFinances](https://github.com/GabrielGuedess/GoFinances)
-6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/gofinances](https://github.com/GabrielGuedess/gofinances)
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-8. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/gofinances](https://github.com/GabrielGuedess/gofinances)
-9. ⬆️ Pushed 5 commit(s) to [GabrielGuedess/gofinances](https://github.com/GabrielGuedess/gofinances)
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+1. 📔 Created new repository [GabrielGuedess/Rentx](https://github.com/GabrielGuedess/Rentx)
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+3. 📔 Created new repository [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GoFinances](https://github.com/GabrielGuedess/GoFinances)
+5. ⭐ Starred [GabrielGuedess/GoFinances](https://github.com/GabrielGuedess/GoFinances)
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GoFinances](https://github.com/GabrielGuedess/GoFinances)
+7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/gofinances](https://github.com/GabrielGuedess/gofinances)
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+9. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/gofinances](https://github.com/GabrielGuedess/gofinances)
+10. ⬆️ Pushed 5 commit(s) to [GabrielGuedess/gofinances](https://github.com/GabrielGuedess/gofinances)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, December 30th, 2022, 10:32:14 AM BRT</b>
+<p align="center">Last refresh: <b>Friday, December 30th, 2022, 11:06:26 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
