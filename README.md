@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)
+1. ⭐ Starred [lklima/rn-parallax-cards](https://github.com/lklima/rn-parallax-cards)
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-4. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)
-5. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)
-6. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)
-7. ⭐ Starred [wix/react-native-calendars](https://github.com/wix/react-native-calendars)
-8. 📔 Created new repository [GabrielGuedess/Rentx](https://github.com/GabrielGuedess/Rentx)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-10. 📔 Created new repository [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
+5. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)
+6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)
+7. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)
+8. ⭐ Starred [wix/react-native-calendars](https://github.com/wix/react-native-calendars)
+9. 📔 Created new repository [GabrielGuedess/Rentx](https://github.com/GabrielGuedess/Rentx)
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, December 31st, 2022, 2:05:38 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, December 31st, 2022, 2:32:10 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
