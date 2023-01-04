@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JoBenEtuk/next-lenis-boilerplate](https://github.com/JoBenEtuk/next-lenis-boilerplate)
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)
-4. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)
-5. ⭐ Starred [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image)
-6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)
-7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)
-10. ⭐ Starred [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB)
+1. ⭐ Starred [JoBenEtuk/next-lenis-boilerplate](https://github.com/JoBenEtuk/next-lenis-boilerplate)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
+4. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
+5. ⭐ Starred [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image)<br>
+6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
+7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
+10. ⭐ Starred [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, January 4th, 2023, 10:15:11 AM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, January 4th, 2023, 10:34:40 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
