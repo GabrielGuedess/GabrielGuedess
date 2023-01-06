@@ -73,20 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. 📔 Created new repository [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GoFinances](https://github.com/GabrielGuedess/GoFinances)<br>
-4. ⭐ Starred [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GoFinances](https://github.com/GabrielGuedess/GoFinances)<br>
-6. ⭐ Starred [wix/Detox](https://github.com/wix/Detox)<br>
-7. ⭐ Starred [JoBenEtuk/next-lenis-boilerplate](https://github.com/JoBenEtuk/next-lenis-boilerplate)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
-10. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GoFinances](https://github.com/GabrielGuedess/GoFinances)<br>
+5. ⭐ Starred [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GoFinances](https://github.com/GabrielGuedess/GoFinances)<br>
+7. ⭐ Starred [wix/Detox](https://github.com/wix/Detox)<br>
+8. ⭐ Starred [JoBenEtuk/next-lenis-boilerplate](https://github.com/JoBenEtuk/next-lenis-boilerplate)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, January 6th, 2023, 4:06:07 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, January 6th, 2023, 4:32:01 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
