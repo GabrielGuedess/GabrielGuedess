@@ -168,7 +168,7 @@ Last Updated on 08/01/2023 01:31:42 UTC
   <summary><h3>:bookmark: DevCard</h3></summary>
 
   <a href="#">
-    <img src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/devcard/devcard.svg" width="450" />
+    <img src="./devcard.svg" width="450" />
   </a>
 
 </details>
