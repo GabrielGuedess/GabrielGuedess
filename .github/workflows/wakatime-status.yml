@@ -1,0 +1,19 @@
+name: WakaTime status update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches: [main]
+
+jobs:
+  update-readme:
+    name: Update the WakaTime Stat
+    runs-on: ubuntu-latest
+    steps:
+      - uses: avinal/Profile-Readme-WakaTime@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
+          BRANCH: 'main'
+          COMMIT_MSG: 'chore: update coding activity update'

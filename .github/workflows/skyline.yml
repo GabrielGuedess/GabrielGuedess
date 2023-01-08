@@ -1,8 +1,7 @@
-name: GitHub Skyline
+name: Skyline
 on:
   schedule:
-  # Runs at 12 am  '0 0 * * *'  UTC
-  - cron: '1 0 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
   metrics:
@@ -11,9 +10,8 @@ jobs:
       - name: Genrate Skyline
         uses: lowlighter/metrics@master
         with:
-          filename: images/skyline.svg
+          filename: assets/generated/skyline.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          # GitHub Skyline
           plugin_skyline: yes
           plugin_skyline_frames: 120
           plugin_skyline_quality: 1

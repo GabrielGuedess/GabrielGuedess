@@ -1,5 +1,5 @@
 <a href="#">
-  <img src="./images/github-header.png" width="100%" />
+  <img src="./assets/images/github-header.png" width="100%" />
 </a>
 
 <br />
@@ -7,17 +7,17 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" height="50">  
+    <img src="./assets/images/star-blue.gif" height="50">
   </a>
-  
+
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2327D3F7&size=24&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;Hi!+I'm+Gabriel+Guedes" />
   </a>
-  
+
   <a href="#">
-    <img src="https://media3.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif?cid=ecf05e478mokw5gztkpqg686buj23tc90mj88e9yim1bpsj6&rid=giphy.gif" height="50">
+    <img src="./assets/images/star-blue.gif" height="50">
   </a>
-</div>  
+</div>
 
 ##
 
@@ -36,7 +36,7 @@
 - 🤟 Cursando Inglês na instituição de ensino Wizard.
 - 🏡 Sou Brasileiro, moro em Guarulhos-SP.
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
 <br />
 
@@ -53,14 +53,14 @@
 <br />
 
 <div align="center">
-  
-  [![Profile Trophy](https://github-profile-trophy.vercel.app/?username=GabrielGuedess&theme=dracula&row=1&margin-w=30&no-frame=true&no-bg=true)](#)
+
+[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=GabrielGuedess&theme=dracula&row=1&margin-w=30&no-frame=true&no-bg=true)](#)
 
 </div>
 
 <br />
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
 ## 📈 Análise de Desenvolvimento Semanal
 
@@ -71,8 +71,9 @@
 
 <details>
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
-  
+
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
@@ -95,91 +96,91 @@
 <summary><h3>:clock230: WakaTime Stats</h3></summary>
 
   <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-862%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-332%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
-**🐱 Meus dados no GitHub** 
+**🐱 Meus dados no GitHub**
 
 > 🏆 21 Contribuições no ano de 2023
- > 
-> 📦 1.3 MB Usado no armazenamento do GitHub 
- > 
+>
+> 📦 1.3 MB Usado no armazenamento do GitHub
+>
 > 🚫 Não aberto para contratação
- > 
-> 📜 38 Repositórios Públicos 
- > 
-> 🔑 2 Repositórios Privados  
- > 
-**Eu sou noturno 🦉** 
+>
+> 📜 38 Repositórios Públicos
+>
+> 🔑 2 Repositórios Privados
+>
+> **Eu sou noturno 🦉**
 
 ```text
-🌞 Manhã      36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
-🌆 Tarde      86 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.84% 
-🌃 Noite      218 commits    ███████████░░░░░░░░░░░░░░   45.23% 
+🌞 Manhã      36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.47%
+🌆 Tarde      86 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.84%
+🌃 Noite      218 commits    ███████████░░░░░░░░░░░░░░   45.23%
 🌙 Madrugada  142 commits    ███████░░░░░░░░░░░░░░░░░░   29.46%
 
 ```
-📅 **Sou mais produtivo em Sexta-Feira** 
+
+📅 **Sou mais produtivo em Sexta-Feira**
 
 ```text
-Segunda-Feira56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
-Terça-Feira  70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
-Quarta-Feira 71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.73% 
-Quinta-Feira 85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.63% 
-Sexta-Feira  94 commits     █████░░░░░░░░░░░░░░░░░░░░   19.5% 
-Sábado       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.6% 
+Segunda-Feira56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62%
+Terça-Feira  70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52%
+Quarta-Feira 71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.73%
+Quinta-Feira 85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.63%
+Sexta-Feira  94 commits     █████░░░░░░░░░░░░░░░░░░░░   19.5%
+Sábado       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.6%
 Domingo      79 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39%
 
 ```
 
-
-📊 **Esta semana eu gastei meu tempo em** 
+📊 **Esta semana eu gastei meu tempo em**
 
 ```text
-🔥 Editores: 
+🔥 Editores:
 VS Code                  40 hrs 52 mins      █████████████████████████   100.0%
 
-💻 Sistema operacional: 
-WSL                      30 hrs 44 mins      ██████████████████░░░░░░░   75.22% 
+💻 Sistema operacional:
+WSL                      30 hrs 44 mins      ██████████████████░░░░░░░   75.22%
 Windows                  10 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   24.78%
 
 ```
 
-**Eu geralmente programo em TypeScript** 
+**Eu geralmente programo em TypeScript**
 
 ```text
-TypeScript               22 repos            █████████████░░░░░░░░░░░░   52.38% 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
-C#                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+TypeScript               22 repos            █████████████░░░░░░░░░░░░   52.38%
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.9%
+C#                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.9%
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
 HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
 
+Last Updated on 08/01/2023 01:31:42 UTC
 
-
- Last Updated on 08/01/2023 01:31:42 UTC
 <!--END_SECTION:waka-->
 </details>
 
 <details>
   <summary><h3>:bookmark: DevCard</h3></summary>
-  
+
   <a href="#">
-    <img src="./devcard.svg" width="450" />
+    <img src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/devcard/devcard.svg" width="450" />
   </a>
-  
+
 </details>
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
 <div align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/pablo-24.gif" width="170" />
+    <img src="./assets/images/title-dev.gif" width="170" />
   </a>
 </div>
-  
+
 <div align="center">
   <a href="#">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GabrielGuedess&show_icons=true&theme=dracula&hide_border=true" />
@@ -190,20 +191,19 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 <div align="right">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/up.gif" width="40" />
+    <img src="./assets/images/up.gif" width="40" />
   </a>
 </div>
 
 <br/>
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
-  
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,xd,figma,vscode,androidstudio,git,github,html,css,sass,bootstrap,tailwind,javascript,typescript,jquery,nodejs,expressjs,react,nextjs,vite,styledcomponents,jest,webpack,apollo,graphql,java,cs,dotnet,docker,linux,md,prisma,mongo,sqlite,mysql,postgres,githubactions,heroku,netlify&theme=dark)](#)
-  
+
 ##
 
-<div align="left"> 
+<div align="left">
  <a href="mailto:gabrielrguedess@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
@@ -226,75 +226,74 @@ HTML                     3 repos             █░░░░░░░░░░�
 </div>
 
 <div align="right">
- <img alt="Gabriel Gif" height="180" width="180" src="https://github.com/GabrielGuedess/GabrielGuedess/blob/main/animation_500_ks5nk032.gif">
+ <img alt="Gabriel Gif" height="180" width="180" src="./assets/images/dev-animation.gif">
 </div>
- 
+
  <br/>
  <br/>
- 
+
  <div align="center">
   <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf">
-    <img align="center" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="100" />
+    <img align="center" src="./assets/images/spotify.gif" width="100" />
   </a>
  </div>
- 
+
  <br/>
- 
+
 <div align="center">
   <a href="#">
-    <img src="https://media2.giphy.com/media/1bG7bbKHn8Rtm5FOdO/giphy.gif" width="150" />
+    <img src="./assets/images/music.gif" width="150" />
   </a>
-  
+
   <a href="https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=l9hb9qtvjvuk3gxt5xq93enxf" />
   </a>
-  
+
   <a href="#">
-    <img src="https://media2.giphy.com/media/1bG7bbKHn8Rtm5FOdO/giphy.gif" width="150" />
+    <img src="./assets/images/music.gif" width="150" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  
-  [![Gabriel Spotify Now Playing](https://andyruwruw.vercel.app/api/now-playing)](https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf)
-       
-  [![Gabriel Spotify Top](https://andyruwruw.vercel.app/api/top-played)](https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf)
-  
+
+[![Gabriel Spotify Now Playing](https://andyruwruw.vercel.app/api/now-playing)](https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf)
+
+[![Gabriel Spotify Top](https://andyruwruw.vercel.app/api/top-played)](https://open.spotify.com/user/l9hb9qtvjvuk3gxt5xq93enxf)
+
 </div>
 
 <br />
 <br />
 <br />
- 
+
 [![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)](#)
 
 <a href="#">
-  <img src="./images/skyline.svg" width="100%">
+  <img src="./assets/generated/skyline.svg" width="100%">
 </a>
 
 <br />
- 
+
 <a href="#">
-  <img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/output/github-contribution-grid-snake.svg" width="1012">
+  <img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/output/github-contribution-grid-snake.svg" width="100%">
 </a>
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
 <br />
 <br />
 <br />
-
 
 <h2 align="center">🤝 Support</h2>
 
-<img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/main/images/stars.gif" align="left" width="100" height="125" />
-<img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/main/images/stars.gif" align="right" width="100" height="125" />
+<img src="./assets/images/stars.gif" align="left" width="100" height="125" />
+<img src="./assets/images/stars.gif" align="right" width="100" height="125" />
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 
-<p align="center">Made with ❤️ in Brazil <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/br.svg" height="16" /></p>
+<p align="center">Made with ❤️ in Brazil <img src="./assets/svg/brazil.svg" height="16" /></p>
 
 <h1 align="center">⚡️<i>Stay awesome!</i>⚡️</h1>
 

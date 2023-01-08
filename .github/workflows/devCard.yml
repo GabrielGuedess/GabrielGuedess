@@ -1,19 +1,21 @@
 name: DevCard
-permissions:
-  contents: write
+
 on:
   workflow_dispatch:
   push:
     branches:
       - main
   schedule:
-  # Runs at 12 am  '0 0 * * *'  UTC
-  - cron: '1 0 * * *'
+    - cron: '0 0 * * *'
+
 jobs:
   devcard:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@2.0.2
+        uses: dailydotdev/action-devcard@2.0.6
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
+          commit_message: 'chore: update DevCard'
