@@ -277,7 +277,7 @@ Last Updated on 08/01/2023 01:31:42 UTC
 <br />
 
 <a href="#">
-  <img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/output/github-contribution-grid-snake.svg" width="100%">
+  <img src="https://github.com/GabrielGuedess/GabrielGuedess/blob/output/dracula.svg" width="100%">
 </a>
 
 <a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
