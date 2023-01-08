@@ -73,21 +73,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⭐ Starred [Flair-Dev/react-native-awesome-gallery](https://github.com/Flair-Dev/react-native-awesome-gallery)<br>
-5. 📔 Created new repository [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GoFinances](https://github.com/GabrielGuedess/GoFinances)<br>
-9. ⭐ Starred [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GoFinances](https://github.com/GabrielGuedess/GoFinances)<br>
+7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+8. 🎉 Merged PR [#2](https://github.com/GabrielGuedess/GabrielGuedess/pull/2) in [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+10. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/GabrielGuedess/pull/1) in [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, January 8th, 2023, 4:05:23 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, January 8th, 2023, 5:07:06 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
