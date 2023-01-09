@@ -79,12 +79,12 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/GabrielGuedess/Rentx-Mobile/issues/1) in [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
-2. 💬 Commented on [#1](https://github.com/GabrielGuedess/Rentx-Mobile/issues/1#issuecomment-1376250666) in [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
-3. ❗️ Opened issue [#1](https://github.com/GabrielGuedess/Rentx-Mobile/issues/1) in [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
-5. ⭐ Starred [WrathChaos/react-native-bouncy-checkbox](https://github.com/WrathChaos/react-native-bouncy-checkbox)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⭐ Starred [alii/azs](https://github.com/alii/azs)<br>
+2. ✔️ Closed issue [#1](https://github.com/GabrielGuedess/Rentx-Mobile/issues/1) in [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
+3. 💬 Commented on [#1](https://github.com/GabrielGuedess/Rentx-Mobile/issues/1#issuecomment-1376250666) in [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
+4. ❗️ Opened issue [#1](https://github.com/GabrielGuedess/Rentx-Mobile/issues/1) in [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
+6. ⭐ Starred [WrathChaos/react-native-bouncy-checkbox](https://github.com/WrathChaos/react-native-bouncy-checkbox)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
@@ -92,7 +92,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, January 9th, 2023, 8:07:21 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, January 9th, 2023, 8:32:08 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
