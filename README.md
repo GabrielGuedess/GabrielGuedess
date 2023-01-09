@@ -36,6 +36,12 @@
 - 🤟 Cursando Inglês na instituição de ensino Wizard.
 - 🏡 Sou Brasileiro, moro em Guarulhos-SP.
 
+<div align="right">
+  <a href="#">
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+  </a>
+</div>
+
 <a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
 <br />
