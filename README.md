@@ -79,7 +79,7 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⭐ Starred [WrathChaos/react-native-bouncy-checkbox](https://github.com/WrathChaos/react-native-bouncy-checkbox)<br>
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
@@ -87,12 +87,12 @@
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-9. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. 🎉 Merged PR [#2](https://github.com/GabrielGuedess/GabrielGuedess/pull/2) in [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+10. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, January 9th, 2023, 12:07:52 AM BRT</b>
+<p align="center">Last refresh: <b>Monday, January 9th, 2023, 12:32:59 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
