@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
-2. ⭐ Starred [WrathChaos/react-native-header-view](https://github.com/WrathChaos/react-native-header-view)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⭐ Starred [alii/azs](https://github.com/alii/azs)<br>
-5. ✔️ Closed issue [#1](https://github.com/GabrielGuedess/Rentx-Mobile/issues/1) in [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
-6. 💬 Commented on [#1](https://github.com/GabrielGuedess/Rentx-Mobile/issues/1#issuecomment-1376250666) in [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
-7. ❗️ Opened issue [#1](https://github.com/GabrielGuedess/Rentx-Mobile/issues/1) in [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
-9. ⭐ Starred [WrathChaos/react-native-bouncy-checkbox](https://github.com/WrathChaos/react-native-bouncy-checkbox)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)<br>
+4. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/git-avancado/pull/1) in [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)<br>
+5. 💪 Opened PR [#1](https://github.com/GabrielGuedess/git-avancado/pull/1) in [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
+7. ⭐ Starred [WrathChaos/react-native-header-view](https://github.com/WrathChaos/react-native-header-view)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ⭐ Starred [alii/azs](https://github.com/alii/azs)<br>
+10. ✔️ Closed issue [#1](https://github.com/GabrielGuedess/Rentx-Mobile/issues/1) in [GabrielGuedess/Rentx-Mobile](https://github.com/GabrielGuedess/Rentx-Mobile)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, January 10th, 2023, 9:39:02 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, January 10th, 2023, 11:12:07 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
