@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)<br>
-2. ⭐ Starred [shikijs/shiki](https://github.com/shikijs/shiki)<br>
-3. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
-4. 🎉 Merged PR [#3](https://github.com/GabrielGuedess/nextjs-boilerplate/pull/3) in [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
-6. ⬆️ Pushed 6 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⭐ Starred [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
+2. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
+3. 🎉 Merged PR [#4](https://github.com/GabrielGuedess/nextjs-boilerplate/pull/4) in [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
+5. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)<br>
+6. ⭐ Starred [shikijs/shiki](https://github.com/shikijs/shiki)<br>
+7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
+8. 🎉 Merged PR [#3](https://github.com/GabrielGuedess/nextjs-boilerplate/pull/3) in [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
+10. ⬆️ Pushed 6 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, January 12th, 2023, 6:32:10 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, January 12th, 2023, 7:07:30 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
