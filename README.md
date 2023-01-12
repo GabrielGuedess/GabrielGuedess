@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)<br>
-5. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/git-avancado/pull/1) in [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)<br>
-6. 💪 Opened PR [#1](https://github.com/GabrielGuedess/git-avancado/pull/1) in [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
-8. ⭐ Starred [WrathChaos/react-native-header-view](https://github.com/WrathChaos/react-native-header-view)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⭐ Starred [alii/azs](https://github.com/alii/azs)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⭐ Starred [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)<br>
+7. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/git-avancado/pull/1) in [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)<br>
+8. 💪 Opened PR [#1](https://github.com/GabrielGuedess/git-avancado/pull/1) in [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
+10. ⭐ Starred [WrathChaos/react-native-header-view](https://github.com/WrathChaos/react-native-header-view)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, January 11th, 2023, 9:39:24 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, January 11th, 2023, 11:10:55 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
