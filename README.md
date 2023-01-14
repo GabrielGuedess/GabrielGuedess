@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-2. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
-3. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
-4. 🎉 Merged PR [#5](https://github.com/GabrielGuedess/nextjs-boilerplate/pull/5) in [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
-5. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
-6. 🎉 Merged PR [#6](https://github.com/GabrielGuedess/nextjs-boilerplate/pull/6) in [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
-7. ⬆️ Pushed 13 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
-8. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
-9. 🎉 Merged PR [#9](https://github.com/GabrielGuedess/nextjs-boilerplate/pull/9) in [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
-10. ⬆️ Pushed 5 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
+1. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/tourism-kotlin](https://github.com/GabrielGuedess/tourism-kotlin)<br>
+2. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/tourism-kotlin/pull/1) in [GabrielGuedess/tourism-kotlin](https://github.com/GabrielGuedess/tourism-kotlin)<br>
+3. 📔 Created new repository [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+4. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
+5. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
+6. 🎉 Merged PR [#5](https://github.com/GabrielGuedess/nextjs-boilerplate/pull/5) in [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
+7. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
+8. 🎉 Merged PR [#6](https://github.com/GabrielGuedess/nextjs-boilerplate/pull/6) in [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
+9. ⬆️ Pushed 13 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
+10. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/nextjs-boilerplate](https://github.com/GabrielGuedess/nextjs-boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, January 13th, 2023, 8:32:23 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, January 13th, 2023, 9:36:51 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
