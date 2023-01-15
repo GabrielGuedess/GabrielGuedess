@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/ignite-nodejs-rentx](https://github.com/GabrielGuedess/ignite-nodejs-rentx)<br>
-2. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/ignite-nodejs-rentx/pull/1) in [GabrielGuedess/ignite-nodejs-rentx](https://github.com/GabrielGuedess/ignite-nodejs-rentx)<br>
-3. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)<br>
-4. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/Won-Games/pull/1) in [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)<br>
-5. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/nlw-heat-web](https://github.com/GabrielGuedess/nlw-heat-web)<br>
-6. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/nlw-heat-web/pull/1) in [GabrielGuedess/nlw-heat-web](https://github.com/GabrielGuedess/nlw-heat-web)<br>
-7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)<br>
-8. 🎉 Merged PR [#2](https://github.com/GabrielGuedess/git-avancado/pull/2) in [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)<br>
-9. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)<br>
-10. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/event-platform/pull/1) in [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)<br>
+1. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+2. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/ignite-nodejs-rentx](https://github.com/GabrielGuedess/ignite-nodejs-rentx)<br>
+3. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/ignite-nodejs-rentx/pull/1) in [GabrielGuedess/ignite-nodejs-rentx](https://github.com/GabrielGuedess/ignite-nodejs-rentx)<br>
+4. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)<br>
+5. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/Won-Games/pull/1) in [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)<br>
+6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/nlw-heat-web](https://github.com/GabrielGuedess/nlw-heat-web)<br>
+7. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/nlw-heat-web/pull/1) in [GabrielGuedess/nlw-heat-web](https://github.com/GabrielGuedess/nlw-heat-web)<br>
+8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)<br>
+9. 🎉 Merged PR [#2](https://github.com/GabrielGuedess/git-avancado/pull/2) in [GabrielGuedess/git-avancado](https://github.com/GabrielGuedess/git-avancado)<br>
+10. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/event-platform](https://github.com/GabrielGuedess/event-platform)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, January 15th, 2023, 2:06:43 AM BRT</b>
+<p align="center">Last refresh: <b>Sunday, January 15th, 2023, 2:32:06 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
