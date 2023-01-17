@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⭐ Starred [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-4. ❌ Closed PR [#3](https://github.com/GabrielGuedess/GabrielGuedess/pull/3) in [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/ignite-nodejs-rentx](https://github.com/GabrielGuedess/ignite-nodejs-rentx)<br>
-7. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/ignite-nodejs-rentx/pull/1) in [GabrielGuedess/ignite-nodejs-rentx](https://github.com/GabrielGuedess/ignite-nodejs-rentx)<br>
-8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)<br>
-9. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/Won-Games/pull/1) in [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)<br>
-10. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/nlw-heat-web](https://github.com/GabrielGuedess/nlw-heat-web)<br>
+1. ⭐ Starred [phosphor-icons/react](https://github.com/phosphor-icons/react)<br>
+2. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. 🎉 Merged PR [#5](https://github.com/GabrielGuedess/GabrielGuedess/pull/5) in [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+5. 🎉 Merged PR [#11](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/11) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+7. 🎉 Merged PR [#12](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/12) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+8. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/Spiderman/pull/1) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+9. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, January 16th, 2023, 8:32:32 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, January 16th, 2023, 9:39:25 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
