@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-2. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-3. 🎉 Merged PR [#23](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/23) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-4. ⭐ Starred [GabrielGuedess/Habits-Server](https://github.com/GabrielGuedess/Habits-Server)<br>
-5. ⬆️ Pushed 4 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-6. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-7. 🎉 Merged PR [#24](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/24) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-8. ⭐ Starred [mmazzarolo/react-native-modal-datetime-picker](https://github.com/mmazzarolo/react-native-modal-datetime-picker)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-server](https://github.com/GabrielGuedess/Habits-server)<br>
-10. ⬆️ Pushed 6 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+1. ⬆️ Pushed 4 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+2. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+3. 🎉 Merged PR [#12](https://github.com/GabrielGuedess/Spiderman/pull/12) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+4. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+5. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+6. 🎉 Merged PR [#18](https://github.com/GabrielGuedess/Spiderman/pull/18) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+8. 🎉 Merged PR [#22](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/22) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+9. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. 🎉 Merged PR [#25](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/25) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, January 18th, 2023, 4:32:17 AM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, January 18th, 2023, 5:09:59 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
