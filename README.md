@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
-2. 🎉 Merged PR [#21](https://github.com/GabrielGuedess/Spiderman/pull/21) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-3. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-4. ⬆️ Pushed 5 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-5. 🎉 Merged PR [#20](https://github.com/GabrielGuedess/Spiderman/pull/20) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-8. 🎉 Merged PR [#24](https://github.com/GabrielGuedess/Spiderman/pull/24) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-9. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-10. 🎉 Merged PR [#22](https://github.com/GabrielGuedess/Spiderman/pull/22) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+1. ⭐ Starred [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)<br>
+2. ⭐ Starred [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss)<br>
+3. 📔 Created new repository [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+4. 🎉 Merged PR [#21](https://github.com/GabrielGuedess/Spiderman/pull/21) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+5. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+6. ⬆️ Pushed 5 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+7. 🎉 Merged PR [#20](https://github.com/GabrielGuedess/Spiderman/pull/20) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+9. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+10. 🎉 Merged PR [#24](https://github.com/GabrielGuedess/Spiderman/pull/24) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, January 18th, 2023, 6:06:38 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, January 18th, 2023, 6:32:07 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
