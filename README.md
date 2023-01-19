@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#3](https://github.com/GabrielGuedess/Habits-App/pull/3) in [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
+1. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+2. 🎉 Merged PR [#33](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/33) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+3. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+4. 🎉 Merged PR [#39](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/39) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+5. ❌ Closed PR [#3](https://github.com/GabrielGuedess/Habits-App/pull/3) in [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
-10. 💪 Opened PR [#3](https://github.com/GabrielGuedess/Habits-App/pull/3) in [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, January 19th, 2023, 6:06:44 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, January 19th, 2023, 6:32:04 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
