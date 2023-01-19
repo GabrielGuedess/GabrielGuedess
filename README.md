@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)<br>
-2. ⭐ Starred [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss)<br>
-3. 📔 Created new repository [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
-4. 🎉 Merged PR [#21](https://github.com/GabrielGuedess/Spiderman/pull/21) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-5. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-6. ⬆️ Pushed 5 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-7. 🎉 Merged PR [#20](https://github.com/GabrielGuedess/Spiderman/pull/20) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-9. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-10. 🎉 Merged PR [#24](https://github.com/GabrielGuedess/Spiderman/pull/24) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+1. ⭐ Starred [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+3. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Habits-Web/pull/1) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+4. ❌ Closed PR [#6](https://github.com/GabrielGuedess/Habits-Web/pull/6) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+5. ❌ Closed PR [#7](https://github.com/GabrielGuedess/Habits-Web/pull/7) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+6. ❌ Closed PR [#3](https://github.com/GabrielGuedess/Habits-Web/pull/3) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+7. ❌ Closed PR [#4](https://github.com/GabrielGuedess/Habits-Web/pull/4) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+8. ❌ Closed PR [#5](https://github.com/GabrielGuedess/Habits-Web/pull/5) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+9. ❌ Closed PR [#8](https://github.com/GabrielGuedess/Habits-Web/pull/8) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+10. ❌ Closed PR [#9](https://github.com/GabrielGuedess/Habits-Web/pull/9) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, January 18th, 2023, 8:32:28 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, January 18th, 2023, 9:39:47 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
