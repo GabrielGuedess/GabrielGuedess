@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-2. 🎉 Merged PR [#32](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/32) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-3. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-4. 🎉 Merged PR [#33](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/33) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-5. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-6. 🎉 Merged PR [#39](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/39) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-7. ❌ Closed PR [#3](https://github.com/GabrielGuedess/Habits-App/pull/3) in [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-Server](https://github.com/GabrielGuedess/Habits-Server)<br>
+2. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+3. 🎉 Merged PR [#32](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/32) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+4. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+5. 🎉 Merged PR [#33](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/33) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+7. 🎉 Merged PR [#39](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/39) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+8. ❌ Closed PR [#3](https://github.com/GabrielGuedess/Habits-App/pull/3) in [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, January 19th, 2023, 8:32:07 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, January 19th, 2023, 9:39:56 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
