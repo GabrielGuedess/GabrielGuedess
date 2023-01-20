@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
-2. ❌ Closed PR [#11](https://github.com/GabrielGuedess/Habits-Web/pull/11) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
-3. ❌ Closed PR [#12](https://github.com/GabrielGuedess/Habits-Web/pull/12) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
-4. ❌ Closed PR [#14](https://github.com/GabrielGuedess/Habits-Web/pull/14) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
-5. ❌ Closed PR [#13](https://github.com/GabrielGuedess/Habits-Web/pull/13) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
-6. ❌ Closed PR [#15](https://github.com/GabrielGuedess/Habits-Web/pull/15) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
-7. ❌ Closed PR [#16](https://github.com/GabrielGuedess/Habits-Web/pull/16) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
-8. ❌ Closed PR [#17](https://github.com/GabrielGuedess/Habits-Web/pull/17) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
-10. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+3. ❌ Closed PR [#11](https://github.com/GabrielGuedess/Habits-Web/pull/11) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+4. ❌ Closed PR [#12](https://github.com/GabrielGuedess/Habits-Web/pull/12) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+5. ❌ Closed PR [#14](https://github.com/GabrielGuedess/Habits-Web/pull/14) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+6. ❌ Closed PR [#13](https://github.com/GabrielGuedess/Habits-Web/pull/13) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+7. ❌ Closed PR [#15](https://github.com/GabrielGuedess/Habits-Web/pull/15) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+8. ❌ Closed PR [#16](https://github.com/GabrielGuedess/Habits-Web/pull/16) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+9. ❌ Closed PR [#17](https://github.com/GabrielGuedess/Habits-Web/pull/17) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, January 20th, 2023, 8:32:08 AM BRT</b>
+<p align="center">Last refresh: <b>Friday, January 20th, 2023, 9:13:43 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
