@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-2. ⭐ Starred [enesozturk/react-native-hold-menu](https://github.com/enesozturk/react-native-hold-menu)<br>
-3. ⭐ Starred [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
-9. ❌ Closed PR [#11](https://github.com/GabrielGuedess/Habits-Web/pull/11) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
-10. ❌ Closed PR [#12](https://github.com/GabrielGuedess/Habits-Web/pull/12) in [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+3. 📔 Created new repository [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+4. ⭐ Starred [enesozturk/react-native-hold-menu](https://github.com/enesozturk/react-native-hold-menu)<br>
+5. ⭐ Starred [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-App](https://github.com/GabrielGuedess/Habits-App)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Habits-Web](https://github.com/GabrielGuedess/Habits-Web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, January 22nd, 2023, 9:37:02 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, January 22nd, 2023, 11:08:47 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
