@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
-3. ⭐ Starred [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-5. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-7. 🎉 Merged PR [#48](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/48) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-8. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-9. 🎉 Merged PR [#52](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/52) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-10. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+2. ❌ Closed PR [#30](https://github.com/GabrielGuedess/Spiderman/pull/30) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+3. ❌ Closed PR [#29](https://github.com/GabrielGuedess/Spiderman/pull/29) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+4. ❌ Closed PR [#35](https://github.com/GabrielGuedess/Spiderman/pull/35) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+5. ❌ Closed PR [#37](https://github.com/GabrielGuedess/Spiderman/pull/37) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+6. ❌ Closed PR [#36](https://github.com/GabrielGuedess/Spiderman/pull/36) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+7. ❌ Closed PR [#40](https://github.com/GabrielGuedess/Spiderman/pull/40) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+8. ❌ Closed PR [#38](https://github.com/GabrielGuedess/Spiderman/pull/38) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+9. ❌ Closed PR [#39](https://github.com/GabrielGuedess/Spiderman/pull/39) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+10. ❌ Closed PR [#41](https://github.com/GabrielGuedess/Spiderman/pull/41) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, January 23rd, 2023, 2:32:19 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, January 23rd, 2023, 3:08:24 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
