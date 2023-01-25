@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
-2. ⭐ Starred [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer)<br>
-3. ⭐ Starred [GabrielDeSouzza/Web-Socket-In-JS-ChatInRealTime-](https://github.com/GabrielDeSouzza/Web-Socket-In-JS-ChatInRealTime-)<br>
-4. ⭐ Starred [victorharry/zap-gpt](https://github.com/victorharry/zap-gpt)<br>
-5. ⭐ Starred [FelippeChemello/sync.video](https://github.com/FelippeChemello/sync.video)<br>
-6. ⭐ Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
-9. ⬆️ Pushed 6 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
-10. 📔 Created new repository [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
+1. ⬆️ Pushed 6 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+2. 🎉 Merged PR [#2](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/2) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+3. ⬆️ Pushed 4 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+4. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/1) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+5. ⬆️ Pushed 4 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, January 25th, 2023, 7:33:49 AM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, January 25th, 2023, 8:06:16 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
