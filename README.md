@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
-2. ⬆️ Pushed 6 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
-3. 📔 Created new repository [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-6. ❌ Closed PR [#30](https://github.com/GabrielGuedess/Spiderman/pull/30) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-7. ❌ Closed PR [#29](https://github.com/GabrielGuedess/Spiderman/pull/29) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-8. ❌ Closed PR [#35](https://github.com/GabrielGuedess/Spiderman/pull/35) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-9. ❌ Closed PR [#37](https://github.com/GabrielGuedess/Spiderman/pull/37) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
-10. ❌ Closed PR [#36](https://github.com/GabrielGuedess/Spiderman/pull/36) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
+3. ⬆️ Pushed 6 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
+4. 📔 Created new repository [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+7. ❌ Closed PR [#30](https://github.com/GabrielGuedess/Spiderman/pull/30) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+8. ❌ Closed PR [#29](https://github.com/GabrielGuedess/Spiderman/pull/29) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+9. ❌ Closed PR [#35](https://github.com/GabrielGuedess/Spiderman/pull/35) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
+10. ❌ Closed PR [#37](https://github.com/GabrielGuedess/Spiderman/pull/37) in [GabrielGuedess/Spiderman](https://github.com/GabrielGuedess/Spiderman)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, January 24th, 2023, 9:38:10 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, January 24th, 2023, 11:09:45 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
