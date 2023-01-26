@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⭐ Starred [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)<br>
-3. ⭐ Starred [0xShapeShifter/readme-md](https://github.com/0xShapeShifter/readme-md)<br>
-4. 💬 Commented on [#7603](https://github.com/frontendbr/vagas/issues/7603#issuecomment-1403838957) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-5. 🎉 Merged PR [#61](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/61) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+1. ⭐ Starred [kodemoapp/player](https://github.com/kodemoapp/player)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⭐ Starred [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)<br>
+4. ⭐ Starred [0xShapeShifter/readme-md](https://github.com/0xShapeShifter/readme-md)<br>
+5. 💬 Commented on [#7603](https://github.com/frontendbr/vagas/issues/7603#issuecomment-1403838957) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
+6. 🎉 Merged PR [#61](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/61) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-8. 🎉 Merged PR [#57](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/57) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-9. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-10. 🎉 Merged PR [#62](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/62) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+9. 🎉 Merged PR [#57](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/57) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, January 26th, 2023, 12:32:54 AM BRT</b>
+<p align="center">Last refresh: <b>Thursday, January 26th, 2023, 1:09:01 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
