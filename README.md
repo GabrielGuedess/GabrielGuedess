@@ -80,19 +80,19 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
-2. ⭐ Starred [kodemoapp/player](https://github.com/kodemoapp/player)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⭐ Starred [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)<br>
-5. ⭐ Starred [0xShapeShifter/readme-md](https://github.com/0xShapeShifter/readme-md)<br>
-6. 💬 Commented on [#7603](https://github.com/frontendbr/vagas/issues/7603#issuecomment-1403838957) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-7. 🎉 Merged PR [#61](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/61) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
+3. ⭐ Starred [kodemoapp/player](https://github.com/kodemoapp/player)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+5. ⭐ Starred [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)<br>
+6. ⭐ Starred [0xShapeShifter/readme-md](https://github.com/0xShapeShifter/readme-md)<br>
+7. 💬 Commented on [#7603](https://github.com/frontendbr/vagas/issues/7603#issuecomment-1403838957) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
+8. 🎉 Merged PR [#61](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/61) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 9. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-10. 🎉 Merged PR [#57](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/57) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, January 26th, 2023, 3:08:53 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, January 26th, 2023, 3:35:41 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
