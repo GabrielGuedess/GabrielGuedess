@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rishabhbhatia/react-native-awesome-alerts](https://github.com/rishabhbhatia/react-native-awesome-alerts)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
+1. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
+2. ⭐ Starred [rishabhbhatia/react-native-awesome-alerts](https://github.com/rishabhbhatia/react-native-awesome-alerts)<br>
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
-5. ⭐ Starred [kodemoapp/player](https://github.com/kodemoapp/player)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-7. ⭐ Starred [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)<br>
-8. ⭐ Starred [0xShapeShifter/readme-md](https://github.com/0xShapeShifter/readme-md)<br>
-9. 💬 Commented on [#7603](https://github.com/frontendbr/vagas/issues/7603#issuecomment-1403838957) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-10. 🎉 Merged PR [#61](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/61) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
+6. ⭐ Starred [kodemoapp/player](https://github.com/kodemoapp/player)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+8. ⭐ Starred [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)<br>
+9. ⭐ Starred [0xShapeShifter/readme-md](https://github.com/0xShapeShifter/readme-md)<br>
+10. 💬 Commented on [#7603](https://github.com/frontendbr/vagas/issues/7603#issuecomment-1403838957) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, January 26th, 2023, 4:05:57 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, January 26th, 2023, 4:32:04 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
