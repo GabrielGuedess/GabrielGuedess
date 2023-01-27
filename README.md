@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
-2. ⭐ Starred [rishabhbhatia/react-native-awesome-alerts](https://github.com/rishabhbhatia/react-native-awesome-alerts)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
+3. ⭐ Starred [rishabhbhatia/react-native-awesome-alerts](https://github.com/rishabhbhatia/react-native-awesome-alerts)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
-6. ⭐ Starred [kodemoapp/player](https://github.com/kodemoapp/player)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⭐ Starred [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)<br>
-9. ⭐ Starred [0xShapeShifter/readme-md](https://github.com/0xShapeShifter/readme-md)<br>
-10. 💬 Commented on [#7603](https://github.com/frontendbr/vagas/issues/7603#issuecomment-1403838957) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Teams](https://github.com/GabrielGuedess/Ignite-Teams)<br>
+7. ⭐ Starred [kodemoapp/player](https://github.com/kodemoapp/player)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ⭐ Starred [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)<br>
+10. ⭐ Starred [0xShapeShifter/readme-md](https://github.com/0xShapeShifter/readme-md)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, January 26th, 2023, 9:40:36 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, January 26th, 2023, 11:12:41 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
