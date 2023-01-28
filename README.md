@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-evolution](https://github.com/GabrielGuedess/api-evolution)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. 💬 Commented on [#7607](https://github.com/frontendbr/vagas/issues/7607#issuecomment-1407241043) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+1. ❌ Closed PR [#23](https://github.com/GabrielGuedess/Evolution-Games/pull/23) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-evolution](https://github.com/GabrielGuedess/api-evolution)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+5. 💬 Commented on [#7607](https://github.com/frontendbr/vagas/issues/7607#issuecomment-1407241043) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-7. 📔 Created new repository [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-9. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
-10. ⭐ Starred [rishabhbhatia/react-native-awesome-alerts](https://github.com/rishabhbhatia/react-native-awesome-alerts)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+8. 📔 Created new repository [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+10. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, January 28th, 2023, 2:31:57 AM BRT</b>
+<p align="center">Last refresh: <b>Saturday, January 28th, 2023, 3:08:33 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
