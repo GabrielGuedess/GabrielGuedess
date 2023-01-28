@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)<br>
-2. ❌ Closed PR [#23](https://github.com/GabrielGuedess/Evolution-Games/pull/23) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-evolution](https://github.com/GabrielGuedess/api-evolution)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. 💬 Commented on [#7607](https://github.com/frontendbr/vagas/issues/7607#issuecomment-1407241043) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-9. 📔 Created new repository [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ❌ Closed PR [#5](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/5) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+2. 💪 Opened PR [#5](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/5) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+3. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+4. 🎉 Merged PR [#4](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/4) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+5. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+6. 🎉 Merged PR [#3](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/3) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)<br>
+9. ❌ Closed PR [#23](https://github.com/GabrielGuedess/Evolution-Games/pull/23) in [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, January 28th, 2023, 10:11:05 AM BRT</b>
+<p align="center">Last refresh: <b>Saturday, January 28th, 2023, 10:31:55 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
