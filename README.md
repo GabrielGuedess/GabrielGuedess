@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#3](https://github.com/GabrielGuedess/Habits-Server/pull/3) in [GabrielGuedess/Habits-Server](https://github.com/GabrielGuedess/Habits-Server)<br>
-2. ❌ Closed PR [#4](https://github.com/GabrielGuedess/Habits-Server/pull/4) in [GabrielGuedess/Habits-Server](https://github.com/GabrielGuedess/Habits-Server)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-5. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-6. ❌ Closed PR [#82](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/82) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-7. ❌ Closed PR [#83](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/83) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-8. ❌ Closed PR [#84](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/84) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-9. ❌ Closed PR [#87](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/87) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-10. ❌ Closed PR [#85](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/85) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ❌ Closed PR [#3](https://github.com/GabrielGuedess/Habits-Server/pull/3) in [GabrielGuedess/Habits-Server](https://github.com/GabrielGuedess/Habits-Server)<br>
+3. ❌ Closed PR [#4](https://github.com/GabrielGuedess/Habits-Server/pull/4) in [GabrielGuedess/Habits-Server](https://github.com/GabrielGuedess/Habits-Server)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+7. ❌ Closed PR [#82](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/82) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+8. ❌ Closed PR [#83](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/83) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+9. ❌ Closed PR [#84](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/84) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. ❌ Closed PR [#87](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/87) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, January 28th, 2023, 9:43:08 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, January 28th, 2023, 11:14:44 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
