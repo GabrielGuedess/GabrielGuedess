@@ -80,19 +80,19 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-2. 💪 Opened PR [#90](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/90) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-3. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-4. ⭐ Starred [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)<br>
-5. ⭐ Starred [nusu/react-glowing-button](https://github.com/nusu/react-glowing-button)<br>
-6. ⭐ Starred [jaames/iro.js](https://github.com/jaames/iro.js)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ❌ Closed PR [#3](https://github.com/GabrielGuedess/Habits-Server/pull/3) in [GabrielGuedess/Habits-Server](https://github.com/GabrielGuedess/Habits-Server)<br>
-9. ❌ Closed PR [#4](https://github.com/GabrielGuedess/Habits-Server/pull/4) in [GabrielGuedess/Habits-Server](https://github.com/GabrielGuedess/Habits-Server)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+6. 💪 Opened PR [#90](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/90) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+8. ⭐ Starred [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)<br>
+9. ⭐ Starred [nusu/react-glowing-button](https://github.com/nusu/react-glowing-button)<br>
+10. ⭐ Starred [jaames/iro.js](https://github.com/jaames/iro.js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, January 29th, 2023, 1:08:29 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, January 29th, 2023, 1:39:25 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
