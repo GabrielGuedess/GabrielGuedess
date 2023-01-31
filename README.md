@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7610](https://github.com/frontendbr/vagas/issues/7610#issuecomment-1409985701) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-4. ⭐ Starred [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
-7. ❌ Closed PR [#95](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/95) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-8. ❌ Closed PR [#96](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/96) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-9. ❌ Closed PR [#102](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/102) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-10. ❌ Closed PR [#97](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/97) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+2. 💬 Commented on [#7610](https://github.com/frontendbr/vagas/issues/7610#issuecomment-1409985701) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+5. ⭐ Starred [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+8. ❌ Closed PR [#95](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/95) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+9. ❌ Closed PR [#96](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/96) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. ❌ Closed PR [#102](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/102) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, January 31st, 2023, 10:20:15 AM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, January 31st, 2023, 10:37:41 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
