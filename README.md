@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⭐ Starred [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci)<br>
-3. ⭐ Starred [GoogleChromeLabs/lighthousebot](https://github.com/GoogleChromeLabs/lighthousebot)<br>
-4. ⭐ Starred [emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⭐ Starred [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci)<br>
+4. ⭐ Starred [GoogleChromeLabs/lighthousebot](https://github.com/GoogleChromeLabs/lighthousebot)<br>
+5. ⭐ Starred [emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-10. ⭐ Starred [rgommezz/react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, February 2nd, 2023, 12:07:31 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, February 2nd, 2023, 12:33:37 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
