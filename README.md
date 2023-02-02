@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⭐ Starred [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. ⭐ Starred [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci)<br>
-7. ⭐ Starred [GoogleChromeLabs/lighthousebot](https://github.com/GoogleChromeLabs/lighthousebot)<br>
-8. ⭐ Starred [emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. ⭐ Starred [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci)<br>
+8. ⭐ Starred [GoogleChromeLabs/lighthousebot](https://github.com/GoogleChromeLabs/lighthousebot)<br>
+9. ⭐ Starred [emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges)<br>
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, February 2nd, 2023, 4:32:02 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, February 2nd, 2023, 5:08:00 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
