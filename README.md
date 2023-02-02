@@ -205,7 +205,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 <a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
-[![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,illustrator,xd,figma,vscode,androidstudio,git,github,html,css,sass,bootstrap,tailwind,javascript,typescript,jquery,nodejs,expressjs,react,nextjs,vite,styledcomponents,jest,webpack,apollo,graphql,java,cs,dotnet,docker,linux,md,prisma,mongo,sqlite,mysql,postgres,githubactions,heroku,netlify&theme=dark)](#)
+[![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,illustrator,xd,figma,vscode,eclipse,androidstudio,git,github,html,css,sass,bootstrap,tailwind,javascript,typescript,jquery,nodejs,expressjs,nestjs,react,nextjs,vite,styledcomponents,jest,webpack,babel,apollo,graphql,java,kotlin,cs,dotnet,docker,linux,md,prisma,planetscale,supabase,mongo,sqlite,mysql,postgres,redis,githubactions,vercel,heroku,netlify&theme=dark)](#)
 
 ##
 
