@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⭐ Starred [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+2. 📔 Created new repository [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⭐ Starred [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⭐ Starred [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci)<br>
-9. ⭐ Starred [GoogleChromeLabs/lighthousebot](https://github.com/GoogleChromeLabs/lighthousebot)<br>
-10. ⭐ Starred [emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ⭐ Starred [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci)<br>
+10. ⭐ Starred [GoogleChromeLabs/lighthousebot](https://github.com/GoogleChromeLabs/lighthousebot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, February 3rd, 2023, 1:09:26 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, February 3rd, 2023, 1:42:31 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
