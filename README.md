@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Ignite-Shop/pull/1) in [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
-2. ⭐ Starred [woltapp/blurhash](https://github.com/woltapp/blurhash)<br>
-3. ⭐ Starred [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
-4. ⬆️ Pushed 8 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
-5. 💬 Commented on [#7620](https://github.com/frontendbr/vagas/issues/7620#issuecomment-1416307788) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
-7. 📔 Created new repository [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-9. ⭐ Starred [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Ignite-Shop/pull/1) in [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+3. ⭐ Starred [woltapp/blurhash](https://github.com/woltapp/blurhash)<br>
+4. ⭐ Starred [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+5. ⬆️ Pushed 8 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+6. 💬 Commented on [#7620](https://github.com/frontendbr/vagas/issues/7620#issuecomment-1416307788) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+8. 📔 Created new repository [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+10. ⭐ Starred [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, February 3rd, 2023, 9:37:08 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, February 3rd, 2023, 11:06:55 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
