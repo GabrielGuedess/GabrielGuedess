@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tkt-actions/add-issue-links](https://github.com/tkt-actions/add-issue-links)<br>
-2. ⭐ Starred [HubSpot/odometer](https://github.com/HubSpot/odometer)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. 📔 Created new repository [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
+2. ⭐ Starred [tkt-actions/add-issue-links](https://github.com/tkt-actions/add-issue-links)<br>
+3. ⭐ Starred [HubSpot/odometer](https://github.com/HubSpot/odometer)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+5. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Ignite-Shop/pull/1) in [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
-9. ⭐ Starred [woltapp/blurhash](https://github.com/woltapp/blurhash)<br>
-10. ⭐ Starred [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Ignite-Shop/pull/1) in [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+10. ⭐ Starred [woltapp/blurhash](https://github.com/woltapp/blurhash)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, February 6th, 2023, 5:32:15 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, February 6th, 2023, 6:07:19 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
