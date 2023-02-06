@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Ignite-Shop/pull/1) in [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
-6. ⭐ Starred [woltapp/blurhash](https://github.com/woltapp/blurhash)<br>
-7. ⭐ Starred [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
-8. ⬆️ Pushed 8 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
-9. 💬 Commented on [#7620](https://github.com/frontendbr/vagas/issues/7620#issuecomment-1416307788) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Ignite-Shop/pull/1) in [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+7. ⭐ Starred [woltapp/blurhash](https://github.com/woltapp/blurhash)<br>
+8. ⭐ Starred [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+9. ⬆️ Pushed 8 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+10. 💬 Commented on [#7620](https://github.com/frontendbr/vagas/issues/7620#issuecomment-1416307788) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, February 5th, 2023, 9:37:36 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, February 5th, 2023, 11:08:01 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
