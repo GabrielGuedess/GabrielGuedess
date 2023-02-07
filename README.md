@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. 💬 Commented on [#7622](https://github.com/frontendbr/vagas/issues/7622#issuecomment-1419827360) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-3. 📔 Created new repository [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
-4. ⭐ Starred [tkt-actions/add-issue-links](https://github.com/tkt-actions/add-issue-links)<br>
-5. ⭐ Starred [HubSpot/odometer](https://github.com/HubSpot/odometer)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. 💬 Commented on [#7622](https://github.com/frontendbr/vagas/issues/7622#issuecomment-1419827360) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
+4. 📔 Created new repository [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
+5. ⭐ Starred [tkt-actions/add-issue-links](https://github.com/tkt-actions/add-issue-links)<br>
+6. ⭐ Starred [HubSpot/odometer](https://github.com/HubSpot/odometer)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, February 7th, 2023, 10:34:50 AM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, February 7th, 2023, 11:06:46 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
