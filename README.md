@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7622](https://github.com/frontendbr/vagas/issues/7622#issuecomment-1419827360) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-2. 📔 Created new repository [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
-3. ⭐ Starred [tkt-actions/add-issue-links](https://github.com/tkt-actions/add-issue-links)<br>
-4. ⭐ Starred [HubSpot/odometer](https://github.com/HubSpot/odometer)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. 💬 Commented on [#7622](https://github.com/frontendbr/vagas/issues/7622#issuecomment-1419827360) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
+3. 📔 Created new repository [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
+4. ⭐ Starred [tkt-actions/add-issue-links](https://github.com/tkt-actions/add-issue-links)<br>
+5. ⭐ Starred [HubSpot/odometer](https://github.com/HubSpot/odometer)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Ignite-Shop/pull/1) in [GabrielGuedess/Ignite-Shop](https://github.com/GabrielGuedess/Ignite-Shop)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, February 6th, 2023, 9:39:56 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, February 6th, 2023, 11:08:54 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
