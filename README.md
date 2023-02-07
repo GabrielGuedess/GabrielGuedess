@@ -82,17 +82,17 @@
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
-4. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. 💬 Commented on [#7622](https://github.com/frontendbr/vagas/issues/7622#issuecomment-1419827360) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-7. 📔 Created new repository [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
-8. ⭐ Starred [tkt-actions/add-issue-links](https://github.com/tkt-actions/add-issue-links)<br>
-9. ⭐ Starred [HubSpot/odometer](https://github.com/HubSpot/odometer)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
+5. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
+9. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, February 7th, 2023, 7:33:06 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, February 7th, 2023, 8:07:21 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
