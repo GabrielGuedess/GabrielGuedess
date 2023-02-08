@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [GabrielGuedess/Ignite-Call](https://github.com/GabrielGuedess/Ignite-Call)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
+1. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Ignite-Call/pull/1) in [GabrielGuedess/Ignite-Call](https://github.com/GabrielGuedess/Ignite-Call)<br>
+2. 📔 Created new repository [GabrielGuedess/Ignite-Call](https://github.com/GabrielGuedess/Ignite-Call)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
-10. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, February 8th, 2023, 1:43:57 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, February 8th, 2023, 2:07:05 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
