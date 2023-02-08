@@ -85,14 +85,14 @@
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
-7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
+8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, February 7th, 2023, 8:32:33 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, February 7th, 2023, 9:39:14 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
