@@ -79,10 +79,10 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Ignite-Call/pull/1) in [GabrielGuedess/Ignite-Call](https://github.com/GabrielGuedess/Ignite-Call)<br>
-2. 📔 Created new repository [GabrielGuedess/Ignite-Call](https://github.com/GabrielGuedess/Ignite-Call)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Ignite-Call/pull/1) in [GabrielGuedess/Ignite-Call](https://github.com/GabrielGuedess/Ignite-Call)<br>
+3. 📔 Created new repository [GabrielGuedess/Ignite-Call](https://github.com/GabrielGuedess/Ignite-Call)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Design-System](https://github.com/GabrielGuedess/Ignite-Design-System)<br>
@@ -92,7 +92,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, February 8th, 2023, 9:39:11 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, February 8th, 2023, 11:15:15 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
