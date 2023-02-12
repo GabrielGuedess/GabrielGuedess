@@ -80,19 +80,19 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Call](https://github.com/GabrielGuedess/Ignite-Call)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ❌ Closed PR [#165](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/165) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-5. ❌ Closed PR [#164](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/164) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-6. ❌ Closed PR [#169](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/169) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-7. ❌ Closed PR [#171](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/171) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-8. ❌ Closed PR [#167](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/167) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-9. ❌ Closed PR [#172](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/172) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-10. ❌ Closed PR [#166](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/166) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Call](https://github.com/GabrielGuedess/Ignite-Call)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ❌ Closed PR [#165](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/165) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+7. ❌ Closed PR [#164](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/164) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+8. ❌ Closed PR [#169](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/169) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+9. ❌ Closed PR [#171](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/171) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. ❌ Closed PR [#167](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/167) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, February 11th, 2023, 9:42:38 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, February 11th, 2023, 11:16:41 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
