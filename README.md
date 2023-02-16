@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-3. ⭐ Starred [vladanyes/react-native-skia-charts](https://github.com/vladanyes/react-native-skia-charts)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⭐ Starred [shubh73/airbnb](https://github.com/shubh73/airbnb)<br>
-6. ⭐ Starred [shubh73/devfolio](https://github.com/shubh73/devfolio)<br>
-7. ⭐ Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)<br>
-8. ⭐ Starred [natemoo-re/clack](https://github.com/natemoo-re/clack)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)<br>
+1. ❌ Closed PR [#205](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/205) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+2. ❌ Closed PR [#204](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/204) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+3. ❌ Closed PR [#194](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/194) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+4. ❌ Closed PR [#208](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/208) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+5. ❌ Closed PR [#201](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/201) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+6. ❌ Closed PR [#210](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/210) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+9. ⭐ Starred [vladanyes/react-native-skia-charts](https://github.com/vladanyes/react-native-skia-charts)<br>
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, February 16th, 2023, 5:32:18 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, February 16th, 2023, 6:06:56 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
