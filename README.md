@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
-2. ⭐ Starred [vladanyes/react-native-skia-charts](https://github.com/vladanyes/react-native-skia-charts)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⭐ Starred [shubh73/airbnb](https://github.com/shubh73/airbnb)<br>
-5. ⭐ Starred [shubh73/devfolio](https://github.com/shubh73/devfolio)<br>
-6. ⭐ Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)<br>
-7. ⭐ Starred [natemoo-re/clack](https://github.com/natemoo-re/clack)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Ignite-Gym](https://github.com/GabrielGuedess/Ignite-Gym)<br>
+3. ⭐ Starred [vladanyes/react-native-skia-charts](https://github.com/vladanyes/react-native-skia-charts)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+5. ⭐ Starred [shubh73/airbnb](https://github.com/shubh73/airbnb)<br>
+6. ⭐ Starred [shubh73/devfolio](https://github.com/shubh73/devfolio)<br>
+7. ⭐ Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)<br>
+8. ⭐ Starred [natemoo-re/clack](https://github.com/natemoo-re/clack)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Evolution-Games](https://github.com/GabrielGuedess/Evolution-Games)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, February 15th, 2023, 9:40:27 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, February 15th, 2023, 11:15:51 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
