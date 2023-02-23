@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-3. ⭐ Starred [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js)<br>
-4. ⭐ Starred [streamich/react-use](https://github.com/streamich/react-use)<br>
-5. ⭐ Starred [omgovich/react-colorful](https://github.com/omgovich/react-colorful)<br>
-6. ⭐ Starred [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-9. ⭐ Starred [dicebear/dicebear](https://github.com/dicebear/dicebear)<br>
-10. ⭐ Starred [esthor/react-native-swipeable-list](https://github.com/esthor/react-native-swipeable-list)<br>
+1. ⭐ Starred [react-brasil/vagas](https://github.com/react-brasil/vagas)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+4. ⭐ Starred [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js)<br>
+5. ⭐ Starred [streamich/react-use](https://github.com/streamich/react-use)<br>
+6. ⭐ Starred [omgovich/react-colorful](https://github.com/omgovich/react-colorful)<br>
+7. ⭐ Starred [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+10. ⭐ Starred [dicebear/dicebear](https://github.com/dicebear/dicebear)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, February 23rd, 2023, 1:09:44 AM BRT</b>
+<p align="center">Last refresh: <b>Thursday, February 23rd, 2023, 1:38:23 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
