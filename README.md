@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [emilkowalski/sonner](https://github.com/emilkowalski/sonner)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-3. ⭐ Starred [react-brasil/vagas](https://github.com/react-brasil/vagas)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-6. ⭐ Starred [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js)<br>
-7. ⭐ Starred [streamich/react-use](https://github.com/streamich/react-use)<br>
-8. ⭐ Starred [omgovich/react-colorful](https://github.com/omgovich/react-colorful)<br>
-9. ⭐ Starred [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⭐ Starred [emilkowalski/sonner](https://github.com/emilkowalski/sonner)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+4. ⭐ Starred [react-brasil/vagas](https://github.com/react-brasil/vagas)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+7. ⭐ Starred [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js)<br>
+8. ⭐ Starred [streamich/react-use](https://github.com/streamich/react-use)<br>
+9. ⭐ Starred [omgovich/react-colorful](https://github.com/omgovich/react-colorful)<br>
+10. ⭐ Starred [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, February 23rd, 2023, 9:39:47 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, February 23rd, 2023, 11:14:05 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
