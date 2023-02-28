@@ -80,19 +80,19 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-8. ⭐ Starred [chalk/chalk](https://github.com/chalk/chalk)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⭐ Starred [emilkowalski/sonner](https://github.com/emilkowalski/sonner)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+9. ⭐ Starred [chalk/chalk](https://github.com/chalk/chalk)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, February 28th, 2023, 9:14:30 AM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, February 28th, 2023, 9:55:46 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
