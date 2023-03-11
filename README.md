@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⭐ Starred [brunos3d/video-ambilight](https://github.com/brunos3d/video-ambilight)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⭐ Starred [lukeed/clsx](https://github.com/lukeed/clsx)<br>
-6. ⭐ Starred [fernandopasik/react-children-utilities](https://github.com/fernandopasik/react-children-utilities)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. 📔 Created new repository [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
+2. ⭐ Starred [GabrielDeSouzza/Problemas-Resolvidos-Em-JS](https://github.com/GabrielDeSouzza/Problemas-Resolvidos-Em-JS)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⭐ Starred [brunos3d/video-ambilight](https://github.com/brunos3d/video-ambilight)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. ⭐ Starred [lukeed/clsx](https://github.com/lukeed/clsx)<br>
+8. ⭐ Starred [fernandopasik/react-children-utilities](https://github.com/fernandopasik/react-children-utilities)<br>
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-10. ⭐ Starred [joshwcomeau/use-sound](https://github.com/joshwcomeau/use-sound)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, March 11th, 2023, 9:12:13 AM BRT</b>
+<p align="center">Last refresh: <b>Saturday, March 11th, 2023, 9:48:56 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
