@@ -80,19 +80,19 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
-6. ❌ Closed PR [#1](https://github.com/GabrielGuedess/My-Portfolio/pull/1) in [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
-7. ❌ Closed PR [#2](https://github.com/GabrielGuedess/My-Portfolio/pull/2) in [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
-8. ❌ Closed PR [#3](https://github.com/GabrielGuedess/My-Portfolio/pull/3) in [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
-9. ❌ Closed PR [#4](https://github.com/GabrielGuedess/My-Portfolio/pull/4) in [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
-10. ❌ Closed PR [#5](https://github.com/GabrielGuedess/My-Portfolio/pull/5) in [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
+7. ❌ Closed PR [#1](https://github.com/GabrielGuedess/My-Portfolio/pull/1) in [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
+8. ❌ Closed PR [#2](https://github.com/GabrielGuedess/My-Portfolio/pull/2) in [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
+9. ❌ Closed PR [#3](https://github.com/GabrielGuedess/My-Portfolio/pull/3) in [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
+10. ❌ Closed PR [#4](https://github.com/GabrielGuedess/My-Portfolio/pull/4) in [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, March 13th, 2023, 2:32:19 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, March 13th, 2023, 3:08:55 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
