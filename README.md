@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
-9. ❌ Closed PR [#1](https://github.com/GabrielGuedess/My-Portfolio/pull/1) in [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
-10. ❌ Closed PR [#2](https://github.com/GabrielGuedess/My-Portfolio/pull/2) in [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
+10. ❌ Closed PR [#1](https://github.com/GabrielGuedess/My-Portfolio/pull/1) in [GabrielGuedess/My-Portfolio](https://github.com/GabrielGuedess/My-Portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, March 14th, 2023, 9:39:48 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, March 14th, 2023, 11:06:46 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
