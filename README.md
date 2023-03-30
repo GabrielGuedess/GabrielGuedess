@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GabrielDeSouzza/React-Advenced](https://github.com/GabrielDeSouzza/React-Advenced)<br>
-2. ⭐ Starred [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. 💬 Commented on [#2805](https://github.com/react-brasil/vagas/issues/2805#issuecomment-1487930402) in [react-brasil/vagas](https://github.com/react-brasil/vagas)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-7. 📔 Created new repository [GabrielGuedess/Petshop](https://github.com/GabrielGuedess/Petshop)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⭐ Starred [depcheck/depcheck](https://github.com/depcheck/depcheck)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+3. ⭐ Starred [GabrielDeSouzza/React-Advenced](https://github.com/GabrielDeSouzza/React-Advenced)<br>
+4. ⭐ Starred [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. 💬 Commented on [#2805](https://github.com/react-brasil/vagas/issues/2805#issuecomment-1487930402) in [react-brasil/vagas](https://github.com/react-brasil/vagas)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. 📔 Created new repository [GabrielGuedess/Petshop](https://github.com/GabrielGuedess/Petshop)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, March 30th, 2023, 7:06:41 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, March 30th, 2023, 7:31:50 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
