@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-2. 💬 Commented on [#7681](https://github.com/frontendbr/vagas/issues/7681#issuecomment-1498475417) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-3. 💬 Commented on [#7682](https://github.com/frontendbr/vagas/issues/7682#issuecomment-1498474246) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-9. 🎉 Merged PR [#542](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/542) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⭐ Starred [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+3. 💬 Commented on [#7681](https://github.com/frontendbr/vagas/issues/7681#issuecomment-1498475417) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
+4. 💬 Commented on [#7682](https://github.com/frontendbr/vagas/issues/7682#issuecomment-1498474246) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+9. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. 🎉 Merged PR [#542](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/542) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, April 6th, 2023, 9:12:30 AM BRT</b>
+<p align="center">Last refresh: <b>Thursday, April 6th, 2023, 9:48:05 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
