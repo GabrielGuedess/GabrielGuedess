@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. 📔 Created new repository [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-4. ⭐ Starred [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-6. 💬 Commented on [#7681](https://github.com/frontendbr/vagas/issues/7681#issuecomment-1498475417) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-7. 💬 Commented on [#7682](https://github.com/frontendbr/vagas/issues/7682#issuecomment-1498474246) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+3. ❌ Closed PR [#1](https://github.com/GabrielGuedess/CodeLeap/pull/1) in [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+4. ❌ Closed PR [#2](https://github.com/GabrielGuedess/CodeLeap/pull/2) in [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+5. ❌ Closed PR [#3](https://github.com/GabrielGuedess/CodeLeap/pull/3) in [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+6. ❌ Closed PR [#4](https://github.com/GabrielGuedess/CodeLeap/pull/4) in [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+7. ❌ Closed PR [#5](https://github.com/GabrielGuedess/CodeLeap/pull/5) in [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+8. ❌ Closed PR [#6](https://github.com/GabrielGuedess/CodeLeap/pull/6) in [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, April 7th, 2023, 7:31:53 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, April 7th, 2023, 8:06:18 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
