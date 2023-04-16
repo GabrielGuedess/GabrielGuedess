@@ -79,9 +79,9 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)<br>
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
@@ -92,7 +92,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, April 16th, 2023, 12:32:02 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, April 16th, 2023, 1:07:49 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
