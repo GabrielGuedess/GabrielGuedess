@@ -80,7 +80,7 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)<br>
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
@@ -88,11 +88,11 @@
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
-10. 📔 Created new repository [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, April 16th, 2023, 11:31:53 AM BRT</b>
+<p align="center">Last refresh: <b>Sunday, April 16th, 2023, 12:06:04 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
