@@ -79,10 +79,10 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)<br>
+1. ❌ Closed PR [#582](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/582) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)<br>
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
@@ -92,7 +92,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, April 16th, 2023, 3:07:30 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, April 16th, 2023, 3:31:59 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
