@@ -79,12 +79,12 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-2. ❌ Closed PR [#582](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/582) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+3. ❌ Closed PR [#582](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/582) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Won-Games](https://github.com/GabrielGuedess/Won-Games)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-won-games](https://github.com/GabrielGuedess/api-won-games)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/database-won-games](https://github.com/GabrielGuedess/database-won-games)<br>
@@ -92,7 +92,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, April 16th, 2023, 9:37:10 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, April 16th, 2023, 10:59:19 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
