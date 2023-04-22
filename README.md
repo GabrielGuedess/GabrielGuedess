@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-2. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/TMS-Web/pull/1) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-3. 👍 Approved [#1](https://github.com/GabrielGuedess/TMS-Web/pull/1#pullrequestreview-1396749124) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-4. 📖 Created new wiki page [Git-Flow](https://github.com/GabrielGuedess/TMS-Web/wiki/Git-Flow) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-5. 📖 Created new wiki page [Home](https://github.com/GabrielGuedess/TMS-Web/wiki/Home) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-6. ❌ Closed PR [#2](https://github.com/GabrielGuedess/TMS-Web/pull/2) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-7. ❌ Closed PR [#3](https://github.com/GabrielGuedess/TMS-Web/pull/3) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-8. ❌ Closed PR [#4](https://github.com/GabrielGuedess/TMS-Web/pull/4) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-9. ❌ Closed PR [#5](https://github.com/GabrielGuedess/TMS-Web/pull/5) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-10. ❌ Closed PR [#6](https://github.com/GabrielGuedess/TMS-Web/pull/6) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+1. ❗️ Opened issue [#7](https://github.com/GabrielGuedess/TMS-Web/issues/7) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+2. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+3. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/TMS-Web/pull/1) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+4. 👍 Approved [#1](https://github.com/GabrielGuedess/TMS-Web/pull/1#pullrequestreview-1396749124) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+5. 📖 Created new wiki page [Git-Flow](https://github.com/GabrielGuedess/TMS-Web/wiki/Git-Flow) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+6. 📖 Created new wiki page [Home](https://github.com/GabrielGuedess/TMS-Web/wiki/Home) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+7. ❌ Closed PR [#2](https://github.com/GabrielGuedess/TMS-Web/pull/2) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+8. ❌ Closed PR [#3](https://github.com/GabrielGuedess/TMS-Web/pull/3) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+9. ❌ Closed PR [#4](https://github.com/GabrielGuedess/TMS-Web/pull/4) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+10. ❌ Closed PR [#5](https://github.com/GabrielGuedess/TMS-Web/pull/5) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, April 22nd, 2023, 12:06:27 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, April 22nd, 2023, 12:31:58 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
