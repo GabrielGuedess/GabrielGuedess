@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⭐ Starred [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-3. 🤝 Became collaborator on [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-5. ❗️ Opened issue [#7](https://github.com/GabrielGuedess/TMS-Web/issues/7) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-6. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-7. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/TMS-Web/pull/1) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-8. 👍 Approved [#1](https://github.com/GabrielGuedess/TMS-Web/pull/1#pullrequestreview-1396749124) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-9. 📖 Created new wiki page [Git-Flow](https://github.com/GabrielGuedess/TMS-Web/wiki/Git-Flow) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-10. 📖 Created new wiki page [Home](https://github.com/GabrielGuedess/TMS-Web/wiki/Home) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+1. ✔️ Closed issue [#8](https://github.com/GabrielGuedess/TMS-Web/issues/8) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+2. ❗️ Opened issue [#8](https://github.com/GabrielGuedess/TMS-Web/issues/8) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⭐ Starred [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+5. 🤝 Became collaborator on [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+7. ❗️ Opened issue [#7](https://github.com/GabrielGuedess/TMS-Web/issues/7) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+9. 🎉 Merged PR [#1](https://github.com/GabrielGuedess/TMS-Web/pull/1) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+10. 👍 Approved [#1](https://github.com/GabrielGuedess/TMS-Web/pull/1#pullrequestreview-1396749124) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, April 23rd, 2023, 2:32:01 AM BRT</b>
+<p align="center">Last refresh: <b>Sunday, April 23rd, 2023, 3:08:42 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
