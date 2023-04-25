@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#7](https://github.com/GabrielGuedess/TMS-Web/issues/7) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-3. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-4. 🎉 Merged PR [#19](https://github.com/GabrielGuedess/TMS-Web/pull/19) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+2. ✔️ Closed issue [#7](https://github.com/GabrielGuedess/TMS-Web/issues/7) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+4. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+5. 🎉 Merged PR [#19](https://github.com/GabrielGuedess/TMS-Web/pull/19) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-7. ❌ Closed PR [#9](https://github.com/GabrielGuedess/TMS-Web/pull/9) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-8. ❌ Closed PR [#10](https://github.com/GabrielGuedess/TMS-Web/pull/10) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-9. ❌ Closed PR [#11](https://github.com/GabrielGuedess/TMS-Web/pull/11) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-10. ❌ Closed PR [#12](https://github.com/GabrielGuedess/TMS-Web/pull/12) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+8. ❌ Closed PR [#9](https://github.com/GabrielGuedess/TMS-Web/pull/9) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+9. ❌ Closed PR [#10](https://github.com/GabrielGuedess/TMS-Web/pull/10) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+10. ❌ Closed PR [#11](https://github.com/GabrielGuedess/TMS-Web/pull/11) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, April 25th, 2023, 12:32:01 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, April 25th, 2023, 1:08:40 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
