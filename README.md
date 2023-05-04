@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-3. 📔 Created new repository [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
-4. ⭐ Starred [barbisliboni/auth-jwt](https://github.com/barbisliboni/auth-jwt)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-7. ⭐ Starred [showtime-xyz/showtime-tab-view](https://github.com/showtime-xyz/showtime-tab-view)<br>
-8. ⭐ Starred [vercel/ms](https://github.com/vercel/ms)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+4. 📔 Created new repository [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
+5. ⭐ Starred [barbisliboni/auth-jwt](https://github.com/barbisliboni/auth-jwt)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+8. ⭐ Starred [showtime-xyz/showtime-tab-view](https://github.com/showtime-xyz/showtime-tab-view)<br>
+9. ⭐ Starred [vercel/ms](https://github.com/vercel/ms)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, May 4th, 2023, 7:06:33 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, May 4th, 2023, 7:31:58 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
