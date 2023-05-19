@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-3. ⭐ Starred [Renata-Peixoto/Renata-Peixoto](https://github.com/Renata-Peixoto/Renata-Peixoto)<br>
-4. ⭐ Starred [Renata-Peixoto/blog](https://github.com/Renata-Peixoto/blog)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
+2. 📖 Created new wiki page [Backup-Database](https://github.com/GabrielGuedess/api-movie-play/wiki/Backup-Database) in [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
+3. 📖 Created new wiki page [Home](https://github.com/GabrielGuedess/api-movie-play/wiki/Home) in [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+6. ⭐ Starred [Renata-Peixoto/Renata-Peixoto](https://github.com/Renata-Peixoto/Renata-Peixoto)<br>
+7. ⭐ Starred [Renata-Peixoto/blog](https://github.com/Renata-Peixoto/blog)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, May 19th, 2023, 3:09:05 AM BRT</b>
+<p align="center">Last refresh: <b>Friday, May 19th, 2023, 3:32:34 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
