@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
-7. ⭐ Starred [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
-8. ⭐ Starred [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
+8. ⭐ Starred [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
+9. ⭐ Starred [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, May 21st, 2023, 3:32:05 AM BRT</b>
+<p align="center">Last refresh: <b>Sunday, May 21st, 2023, 4:05:48 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
