@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
-5. ⭐ Starred [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
-6. ⭐ Starred [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
+6. ⭐ Starred [GabrielGuedess/Movie-Play](https://github.com/GabrielGuedess/Movie-Play)<br>
+7. ⭐ Starred [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-movie-play](https://github.com/GabrielGuedess/api-movie-play)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, May 20th, 2023, 8:31:46 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, May 20th, 2023, 9:39:58 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
