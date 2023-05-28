@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⭐ Starred [GabrielGuedess/api-mobilogistica](https://github.com/GabrielGuedess/api-mobilogistica)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-mobilogistica](https://github.com/GabrielGuedess/api-mobilogistica)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⭐ Starred [GabrielGuedess/api-mobilogistica](https://github.com/GabrielGuedess/api-mobilogistica)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-mobilogistica](https://github.com/GabrielGuedess/api-mobilogistica)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-mobilogistica](https://github.com/GabrielGuedess/api-mobilogistica)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-mobilogistica](https://github.com/GabrielGuedess/api-mobilogistica)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. 📔 Created new repository [GabrielGuedess/api-mobilogistica](https://github.com/GabrielGuedess/api-mobilogistica)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/api-mobilogistica](https://github.com/GabrielGuedess/api-mobilogistica)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, May 28th, 2023, 2:31:55 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, May 28th, 2023, 3:07:38 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
