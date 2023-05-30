@@ -79,20 +79,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Mobi-App](https://github.com/GabrielGuedess/Mobi-App)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Mobi-App](https://github.com/GabrielGuedess/Mobi-App)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Mobi-App](https://github.com/GabrielGuedess/Mobi-App)<br>
-6. 📔 Created new repository [GabrielGuedess/Mobi-App](https://github.com/GabrielGuedess/Mobi-App)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)<br>
-8. 📔 Created new repository [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Mobi-App](https://github.com/GabrielGuedess/Mobi-App)<br>
+7. 📔 Created new repository [GabrielGuedess/Mobi-App](https://github.com/GabrielGuedess/Mobi-App)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)<br>
+9. 📔 Created new repository [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, May 30th, 2023, 2:04:15 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, May 30th, 2023, 2:31:54 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
