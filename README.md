@@ -11,7 +11,7 @@
   </a>
 
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2327D3F7&size=24&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;Hi!+I'm+Gabriel+Guedes" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%238a2be2&size=24&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;Hi!+I'm+Gabriel+Guedes" />
   </a>
 
   <a href="#">
@@ -21,11 +21,11 @@
 
 ##
 
-<img align="right" alt="Visitas" src="https://visitor-badge.glitch.me/badge?page_id=page.id=GabrielGuedess.GabrielGuedess&left_text=Visitors">
-<img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/GabrielGuedess?style=flat&color=27D3F7&logo=github" />
-<img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/GabrielGuedess?style=flat&color=27D3F7" />
-<img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/GabrielGuedess?color=27D3F7" />
-<img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/GabrielGuedess?style=flat&color=27D3F7" />
+<img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=GabrielGuedess&label=Profile%20views&color=blueviolet&style=flat" src="https://visitor-badge.glitch.me/badge?page_id=page.id=GabrielGuedess.GabrielGuedess&left_text=Visitors">
+<img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/GabrielGuedess?style=flat&color=blueviolet&logo=github" />
+<img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/GabrielGuedess?style=flat&color=blueviolet" />
+<img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/GabrielGuedess?color=blueviolet" />
+<img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/GabrielGuedess?style=flat&color=blueviolet" />
 
 <br />
 <br />
@@ -188,7 +188,7 @@ Go                       1 repo              ░░░░░░░░░░░�
   <a href="#">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GabrielGuedess&show_icons=true&theme=dracula&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGuedess&theme=dracula&hide_border=true" />
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GabrielGuedess&theme=dracula&hide_border=true&bg_color=282A36" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielGuedess&theme=dracula&hide_border=true&bg_color=282A36" />
   </a>
 </div>
 
