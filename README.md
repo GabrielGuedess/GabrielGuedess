@@ -21,7 +21,7 @@
 
 ##
 
-<img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=GabrielGuedess&label=Profile%20views&color=blueviolet&style=flat" src="https://visitor-badge.glitch.me/badge?page_id=page.id=GabrielGuedess.GabrielGuedess&left_text=Visitors">
+<img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=GabrielGuedess&label=Profile%20views&color=blueviolet&style=flat">
 <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/GabrielGuedess?style=flat&color=blueviolet&logo=github" />
 <img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/GabrielGuedess?style=flat&color=blueviolet" />
 <img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/GabrielGuedess?color=blueviolet" />
