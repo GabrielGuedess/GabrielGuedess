@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="./assets/images/star-blue.gif" height="50">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcxM2ZjOGI1OGVmMmU0ZmIzYTg0MzY0MjUxNWJlYTg5ZGY2YTBlNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/X6igXqclj9f8Tf5XXG/giphy.gif" height="50">
   </a>
 
   <a href="#">
@@ -15,7 +15,7 @@
   </a>
 
   <a href="#">
-    <img src="./assets/images/star-blue.gif" height="50">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcxM2ZjOGI1OGVmMmU0ZmIzYTg0MzY0MjUxNWJlYTg5ZGY2YTBlNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/X6igXqclj9f8Tf5XXG/giphy.gif" height="50">
   </a>
 </div>
 
@@ -65,6 +65,12 @@
 </div>
 
 <br />
+
+<div align="right">
+  <a href="#">
+    <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="80"/>
+  </a>
+</div>
 
 <a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
@@ -294,7 +300,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <img src="./assets/images/stars.gif" align="left" width="100" height="125" />
 <img src="./assets/images/stars.gif" align="right" width="100" height="125" />
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+<p align="center">💜 If you like my projects, Give them ⭐ and Share it with friends!</p>
 
 <p align="center">Made with ❤️ in Brazil <img src="./assets/svg/brazil.svg" height="16" /></p>
 
