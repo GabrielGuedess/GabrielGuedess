@@ -307,5 +307,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 <h1 align="center">⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-  <img href="#" src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/5cc7aaffdf1db1034ee7f2b2ff558dff7b5808e8/assets/svg/footer.svg" />
+  <img href="#" src="./assets/svg/footer.svg" />
 </p>
