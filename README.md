@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ❌ Closed PR [#11](https://github.com/GabrielGuedess/GabrielGuedess/pull/11) in [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. 💬 Commented on [#7754](https://github.com/frontendbr/vagas/issues/7754#issuecomment-1585171535) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+1. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Mobi-App/pull/1) in [GabrielGuedess/Mobi-App](https://github.com/GabrielGuedess/Mobi-App)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Mobi-App](https://github.com/GabrielGuedess/Mobi-App)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+5. ❌ Closed PR [#11](https://github.com/GabrielGuedess/GabrielGuedess/pull/11) in [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. 💬 Commented on [#7754](https://github.com/frontendbr/vagas/issues/7754#issuecomment-1585171535) in [frontendbr/vagas](https://github.com/frontendbr/vagas)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, June 10th, 2023, 11:31:55 AM BRT</b>
+<p align="center">Last refresh: <b>Saturday, June 10th, 2023, 12:05:54 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
