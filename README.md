@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)<br>
-8. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Mobi-App/pull/1) in [GabrielGuedess/Mobi-App](https://github.com/GabrielGuedess/Mobi-App)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Mobi-App](https://github.com/GabrielGuedess/Mobi-App)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+1. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Expo-Boilerplate/pull/1) in [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)<br>
+2. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Expo-Boilerplate](https://github.com/GabrielGuedess/Expo-Boilerplate)<br>
+10. ❌ Closed PR [#1](https://github.com/GabrielGuedess/Mobi-App/pull/1) in [GabrielGuedess/Mobi-App](https://github.com/GabrielGuedess/Mobi-App)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, June 11th, 2023, 1:07:49 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, June 11th, 2023, 1:34:18 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
