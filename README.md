@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-6. ❌ Closed PR [#1](https://github.com/GabrielGuedess/api-mobilogistica/pull/1) in [GabrielGuedess/api-mobilogistica](https://github.com/GabrielGuedess/api-mobilogistica)<br>
-7. ⭐ Starred [MauricioGoulartt/Api-NodeJS](https://github.com/MauricioGoulartt/Api-NodeJS)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. 🎉 Merged PR [#846](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/846) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+2. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+3. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+4. 🎉 Merged PR [#845](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/845) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+5. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+6. 🎉 Merged PR [#30](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/30) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+8. 🎉 Merged PR [#29](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/29) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+9. 🎉 Merged PR [#847](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/847) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, June 16th, 2023, 1:35:40 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, June 16th, 2023, 2:06:06 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
