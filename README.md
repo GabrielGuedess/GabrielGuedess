@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⭐ Starred [qiuxiang/react-native-recording](https://github.com/qiuxiang/react-native-recording)<br>
-4. ⭐ Starred [proyecto26/react-native-inappbrowser](https://github.com/proyecto26/react-native-inappbrowser)<br>
-5. ⭐ Starred [jasonmz/react-selection-popup](https://github.com/jasonmz/react-selection-popup)<br>
-6. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-7. 🎉 Merged PR [#844](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/844) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-9. 🎉 Merged PR [#846](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/846) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-10. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⭐ Starred [qiuxiang/react-native-recording](https://github.com/qiuxiang/react-native-recording)<br>
+5. ⭐ Starred [proyecto26/react-native-inappbrowser](https://github.com/proyecto26/react-native-inappbrowser)<br>
+6. ⭐ Starred [jasonmz/react-selection-popup](https://github.com/jasonmz/react-selection-popup)<br>
+7. ⬆️ Pushed 3 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+8. 🎉 Merged PR [#844](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/844) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. 🎉 Merged PR [#846](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/846) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, June 17th, 2023, 9:46:33 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, June 17th, 2023, 11:22:15 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
