@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-2. 🎉 Merged PR [#856](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/856) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 3. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-4. 🎉 Merged PR [#855](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/855) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+4. 🎉 Merged PR [#856](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/856) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 5. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-6. 🎉 Merged PR [#857](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/857) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+6. 🎉 Merged PR [#855](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/855) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 7. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-8. 🎉 Merged PR [#854](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/854) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-9. ⭐ Starred [rewindui/rewindui](https://github.com/rewindui/rewindui)<br>
-10. ⭐ Starred [gund/eslint-plugin-deprecation](https://github.com/gund/eslint-plugin-deprecation)<br>
+8. 🎉 Merged PR [#857](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/857) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+9. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. 🎉 Merged PR [#854](https://github.com/GabrielGuedess/NextJs-Boilerplate/pull/854) in [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, June 26th, 2023, 9:49:32 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, June 26th, 2023, 11:25:29 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
