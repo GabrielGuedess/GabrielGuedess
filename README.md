@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gabriellhuver/rastreamento-correios](https://github.com/gabriellhuver/rastreamento-correios)<br>
-2. ⭐ Starred [gabrielboliveira/tracking-correios](https://github.com/gabrielboliveira/tracking-correios)<br>
-3. ⭐ Starred [Swiftcn-UI/swiftcn-playground](https://github.com/Swiftcn-UI/swiftcn-playground)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
-6. ⭐ Starred [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+3. ⭐ Starred [gabriellhuver/rastreamento-correios](https://github.com/gabriellhuver/rastreamento-correios)<br>
+4. ⭐ Starred [gabrielboliveira/tracking-correios](https://github.com/gabrielboliveira/tracking-correios)<br>
+5. ⭐ Starred [Swiftcn-UI/swiftcn-playground](https://github.com/Swiftcn-UI/swiftcn-playground)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
-8. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
-9. 🎉 Merged PR [#31](https://github.com/GabrielGuedess/TMS-Server/pull/31) in [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
+8. ⭐ Starred [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
+10. ⬆️ Pushed 2 commit(s) to [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, September 25th, 2023, 9:33:33 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, September 25th, 2023, 10:41:54 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
