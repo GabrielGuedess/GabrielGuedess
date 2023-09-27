@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer)<br>
-2. ⭐ Starred [sadmann7/shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2)<br>
-3. ⭐ Starred [wbhob/nest-middlewares](https://github.com/wbhob/nest-middlewares)<br>
-4. ⭐ Starred [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-7. ⭐ Starred [gabriellhuver/rastreamento-correios](https://github.com/gabriellhuver/rastreamento-correios)<br>
-8. ⭐ Starred [gabrielboliveira/tracking-correios](https://github.com/gabrielboliveira/tracking-correios)<br>
-9. ⭐ Starred [Swiftcn-UI/swiftcn-playground](https://github.com/Swiftcn-UI/swiftcn-playground)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+2. ⭐ Starred [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer)<br>
+3. ⭐ Starred [sadmann7/shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2)<br>
+4. ⭐ Starred [wbhob/nest-middlewares](https://github.com/wbhob/nest-middlewares)<br>
+5. ⭐ Starred [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+8. ⭐ Starred [gabriellhuver/rastreamento-correios](https://github.com/gabriellhuver/rastreamento-correios)<br>
+9. ⭐ Starred [gabrielboliveira/tracking-correios](https://github.com/gabrielboliveira/tracking-correios)<br>
+10. ⭐ Starred [Swiftcn-UI/swiftcn-playground](https://github.com/Swiftcn-UI/swiftcn-playground)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, September 26th, 2023, 8:32:04 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, September 26th, 2023, 9:33:25 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
