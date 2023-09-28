@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⭐ Starred [apollographql/supergraph-demo](https://github.com/apollographql/supergraph-demo)<br>
-3. ⭐ Starred [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+1. ⭐ Starred [fabien0102/openapi-codegen](https://github.com/fabien0102/openapi-codegen)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⭐ Starred [apollographql/supergraph-demo](https://github.com/apollographql/supergraph-demo)<br>
+4. ⭐ Starred [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-6. ⭐ Starred [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer)<br>
-7. ⭐ Starred [sadmann7/shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2)<br>
-8. ⭐ Starred [wbhob/nest-middlewares](https://github.com/wbhob/nest-middlewares)<br>
-9. ⭐ Starred [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+7. ⭐ Starred [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer)<br>
+8. ⭐ Starred [sadmann7/shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2)<br>
+9. ⭐ Starred [wbhob/nest-middlewares](https://github.com/wbhob/nest-middlewares)<br>
+10. ⭐ Starred [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, September 28th, 2023, 9:12:56 AM BRT</b>
+<p align="center">Last refresh: <b>Thursday, September 28th, 2023, 9:47:42 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
