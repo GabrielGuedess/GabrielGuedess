@@ -86,19 +86,19 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-4. ⭐ Starred [gopinav/nextjs-launch-event-page](https://github.com/gopinav/nextjs-launch-event-page)<br>
-5. ⭐ Starred [supahfunk/webgl-carousel](https://github.com/supahfunk/webgl-carousel)<br>
-6. ⭐ Starred [codrops/AnimatedCodeBackground](https://github.com/codrops/AnimatedCodeBackground)<br>
-7. ⭐ Starred [codrops/TextBlockTransitions](https://github.com/codrops/TextBlockTransitions)<br>
-8. ⭐ Starred [codrops/ScrollBasedLayoutAnimations](https://github.com/codrops/ScrollBasedLayoutAnimations)<br>
-9. ⭐ Starred [codrops/GridFlowEffect](https://github.com/codrops/GridFlowEffect)<br>
-10. ⭐ Starred [codrops/Scroll3DGrid](https://github.com/codrops/Scroll3DGrid)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+6. ⭐ Starred [gopinav/nextjs-launch-event-page](https://github.com/gopinav/nextjs-launch-event-page)<br>
+7. ⭐ Starred [supahfunk/webgl-carousel](https://github.com/supahfunk/webgl-carousel)<br>
+8. ⭐ Starred [codrops/AnimatedCodeBackground](https://github.com/codrops/AnimatedCodeBackground)<br>
+9. ⭐ Starred [codrops/TextBlockTransitions](https://github.com/codrops/TextBlockTransitions)<br>
+10. ⭐ Starred [codrops/ScrollBasedLayoutAnimations](https://github.com/codrops/ScrollBasedLayoutAnimations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, October 2nd, 2023, 9:33:21 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, October 2nd, 2023, 10:42:03 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
