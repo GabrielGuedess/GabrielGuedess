@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-6. ⭐ Starred [gopinav/nextjs-launch-event-page](https://github.com/gopinav/nextjs-launch-event-page)<br>
-7. ⭐ Starred [supahfunk/webgl-carousel](https://github.com/supahfunk/webgl-carousel)<br>
-8. ⭐ Starred [codrops/AnimatedCodeBackground](https://github.com/codrops/AnimatedCodeBackground)<br>
-9. ⭐ Starred [codrops/TextBlockTransitions](https://github.com/codrops/TextBlockTransitions)<br>
-10. ⭐ Starred [codrops/ScrollBasedLayoutAnimations](https://github.com/codrops/ScrollBasedLayoutAnimations)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+7. ⭐ Starred [gopinav/nextjs-launch-event-page](https://github.com/gopinav/nextjs-launch-event-page)<br>
+8. ⭐ Starred [supahfunk/webgl-carousel](https://github.com/supahfunk/webgl-carousel)<br>
+9. ⭐ Starred [codrops/AnimatedCodeBackground](https://github.com/codrops/AnimatedCodeBackground)<br>
+10. ⭐ Starred [codrops/TextBlockTransitions](https://github.com/codrops/TextBlockTransitions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, October 2nd, 2023, 11:32:44 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, October 3rd, 2023, 12:07:32 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
