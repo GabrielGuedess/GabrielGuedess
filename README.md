@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/Annotations-Tag](https://github.com/GabrielGuedess/Annotations-Tag)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, October 8th, 2023, 8:32:07 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, October 8th, 2023, 9:33:38 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
