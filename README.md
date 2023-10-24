@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [felipemotarocha/fullstackweek-store](https://github.com/felipemotarocha/fullstackweek-store)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-9. ⭐ Starred [yanivam/react-svg-worldmap](https://github.com/yanivam/react-svg-worldmap)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⭐ Starred [kodemoapp/player](https://github.com/kodemoapp/player)<br>
+2. ⭐ Starred [splinetool/react-spline](https://github.com/splinetool/react-spline)<br>
+3. ⭐ Starred [Idered/chalk.ist](https://github.com/Idered/chalk.ist)<br>
+4. ⭐ Starred [invertase/react-native-google-mobile-ads](https://github.com/invertase/react-native-google-mobile-ads)<br>
+5. ⭐ Starred [bokub/gradient-string](https://github.com/bokub/gradient-string)<br>
+6. ⭐ Starred [httpie/cli](https://github.com/httpie/cli)<br>
+7. ⭐ Starred [awran5/react-floating-whatsapp](https://github.com/awran5/react-floating-whatsapp)<br>
+8. ⭐ Starred [stipsan/react-spring-bottom-sheet](https://github.com/stipsan/react-spring-bottom-sheet)<br>
+9. ⭐ Starred [saulojoab/preview-your-icon](https://github.com/saulojoab/preview-your-icon)<br>
+10. ⭐ Starred [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, October 23rd, 2023, 8:31:57 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, October 23rd, 2023, 9:33:15 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
