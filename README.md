@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lhz516/react-h5-audio-player](https://github.com/lhz516/react-h5-audio-player)<br>
-2. ⭐ Starred [rgommezz/react-native-scroll-bottom-sheet](https://github.com/rgommezz/react-native-scroll-bottom-sheet)<br>
-3. ⭐ Starred [wpcodevo/nextjs13-apollo-client](https://github.com/wpcodevo/nextjs13-apollo-client)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-6. ⭐ Starred [scaleflex/js-cloudimage-360-view](https://github.com/scaleflex/js-cloudimage-360-view)<br>
-7. ⭐ Starred [kodemoapp/player](https://github.com/kodemoapp/player)<br>
-8. ⭐ Starred [splinetool/react-spline](https://github.com/splinetool/react-spline)<br>
-9. ⭐ Starred [Idered/chalk.ist](https://github.com/Idered/chalk.ist)<br>
-10. ⭐ Starred [invertase/react-native-google-mobile-ads](https://github.com/invertase/react-native-google-mobile-ads)<br>
+1. ⭐ Starred [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator)<br>
+2. ⭐ Starred [catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma)<br>
+3. ⭐ Starred [devoxa/prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)<br>
+4. ⭐ Starred [valtyr/prisma-kysely](https://github.com/valtyr/prisma-kysely)<br>
+5. ⭐ Starred [hsk-kr/apollo-graphql-refresh-token](https://github.com/hsk-kr/apollo-graphql-refresh-token)<br>
+6. ⭐ Starred [unlight/prisma-nestjs-graphql](https://github.com/unlight/prisma-nestjs-graphql)<br>
+7. ⭐ Starred [lhz516/react-h5-audio-player](https://github.com/lhz516/react-h5-audio-player)<br>
+8. ⭐ Starred [rgommezz/react-native-scroll-bottom-sheet](https://github.com/rgommezz/react-native-scroll-bottom-sheet)<br>
+9. ⭐ Starred [wpcodevo/nextjs13-apollo-client](https://github.com/wpcodevo/nextjs13-apollo-client)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, October 25th, 2023, 9:32:16 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, October 25th, 2023, 10:39:49 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
