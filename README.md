@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⭐ Starred [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator)<br>
-3. ⭐ Starred [catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma)<br>
-4. ⭐ Starred [devoxa/prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)<br>
-5. ⭐ Starred [valtyr/prisma-kysely](https://github.com/valtyr/prisma-kysely)<br>
-6. ⭐ Starred [hsk-kr/apollo-graphql-refresh-token](https://github.com/hsk-kr/apollo-graphql-refresh-token)<br>
-7. ⭐ Starred [unlight/prisma-nestjs-graphql](https://github.com/unlight/prisma-nestjs-graphql)<br>
-8. ⭐ Starred [lhz516/react-h5-audio-player](https://github.com/lhz516/react-h5-audio-player)<br>
-9. ⭐ Starred [rgommezz/react-native-scroll-bottom-sheet](https://github.com/rgommezz/react-native-scroll-bottom-sheet)<br>
-10. ⭐ Starred [wpcodevo/nextjs13-apollo-client](https://github.com/wpcodevo/nextjs13-apollo-client)<br>
+1. ⭐ Starred [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch)<br>
+2. ⭐ Starred [t3-oss/t3-env](https://github.com/t3-oss/t3-env)<br>
+3. ⭐ Starred [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error)<br>
+4. ⭐ Starred [AstrOOnauta/react-native-international-phone-number](https://github.com/AstrOOnauta/react-native-international-phone-number)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ⭐ Starred [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator)<br>
+7. ⭐ Starred [catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma)<br>
+8. ⭐ Starred [devoxa/prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)<br>
+9. ⭐ Starred [valtyr/prisma-kysely](https://github.com/valtyr/prisma-kysely)<br>
+10. ⭐ Starred [hsk-kr/apollo-graphql-refresh-token](https://github.com/hsk-kr/apollo-graphql-refresh-token)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, October 28th, 2023, 8:31:56 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, October 28th, 2023, 9:35:32 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
