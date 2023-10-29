@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⭐ Starred [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch)<br>
-3. ⭐ Starred [t3-oss/t3-env](https://github.com/t3-oss/t3-env)<br>
-4. ⭐ Starred [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error)<br>
-5. ⭐ Starred [AstrOOnauta/react-native-international-phone-number](https://github.com/AstrOOnauta/react-native-international-phone-number)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-7. ⭐ Starred [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator)<br>
-8. ⭐ Starred [catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma)<br>
-9. ⭐ Starred [devoxa/prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)<br>
-10. ⭐ Starred [valtyr/prisma-kysely](https://github.com/valtyr/prisma-kysely)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⭐ Starred [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch)<br>
+4. ⭐ Starred [t3-oss/t3-env](https://github.com/t3-oss/t3-env)<br>
+5. ⭐ Starred [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error)<br>
+6. ⭐ Starred [AstrOOnauta/react-native-international-phone-number](https://github.com/AstrOOnauta/react-native-international-phone-number)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+8. ⭐ Starred [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator)<br>
+9. ⭐ Starred [catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma)<br>
+10. ⭐ Starred [devoxa/prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, October 29th, 2023, 5:31:53 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, October 29th, 2023, 6:05:28 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
