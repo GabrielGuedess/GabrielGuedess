@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⭐ Starred [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch)<br>
-5. ⭐ Starred [t3-oss/t3-env](https://github.com/t3-oss/t3-env)<br>
-6. ⭐ Starred [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error)<br>
-7. ⭐ Starred [AstrOOnauta/react-native-international-phone-number](https://github.com/AstrOOnauta/react-native-international-phone-number)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-9. ⭐ Starred [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator)<br>
-10. ⭐ Starred [catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ⭐ Starred [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch)<br>
+7. ⭐ Starred [t3-oss/t3-env](https://github.com/t3-oss/t3-env)<br>
+8. ⭐ Starred [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error)<br>
+9. ⭐ Starred [AstrOOnauta/react-native-international-phone-number](https://github.com/AstrOOnauta/react-native-international-phone-number)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, October 29th, 2023, 9:34:00 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, October 29th, 2023, 10:42:52 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
