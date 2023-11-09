@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⭐ Starred [withyellow/devfools](https://github.com/withyellow/devfools)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⭐ Starred [nysamnang/react-native-raw-bottom-sheet](https://github.com/nysamnang/react-native-raw-bottom-sheet)<br>
+1. ⭐ Starred [bmish/eslint-doc-generator](https://github.com/bmish/eslint-doc-generator)<br>
+2. ⭐ Starred [pinterest/esprint](https://github.com/pinterest/esprint)<br>
+3. ⭐ Starred [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive)<br>
+4. ⭐ Starred [IanVS/eslint-nibble](https://github.com/IanVS/eslint-nibble)<br>
+5. ⭐ Starred [fengzilong/eslint-formatter-mo](https://github.com/fengzilong/eslint-formatter-mo)<br>
+6. ⭐ Starred [jhusain/eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable)<br>
+7. ⭐ Starred [CodelyTV/eslint-plugin-hexagonal-architecture](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture)<br>
+8. ⭐ Starred [buildo/eslint-plugin-no-loops](https://github.com/buildo/eslint-plugin-no-loops)<br>
+9. ⭐ Starred [borremosch/eslint-plugin-type-graphql](https://github.com/borremosch/eslint-plugin-type-graphql)<br>
+10. ⭐ Starred [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, November 8th, 2023, 8:32:01 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, November 8th, 2023, 9:33:47 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
