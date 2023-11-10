@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bmish/eslint-doc-generator](https://github.com/bmish/eslint-doc-generator)<br>
-2. ⭐ Starred [pinterest/esprint](https://github.com/pinterest/esprint)<br>
-3. ⭐ Starred [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive)<br>
-4. ⭐ Starred [IanVS/eslint-nibble](https://github.com/IanVS/eslint-nibble)<br>
-5. ⭐ Starred [fengzilong/eslint-formatter-mo](https://github.com/fengzilong/eslint-formatter-mo)<br>
-6. ⭐ Starred [jhusain/eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable)<br>
-7. ⭐ Starred [CodelyTV/eslint-plugin-hexagonal-architecture](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture)<br>
-8. ⭐ Starred [buildo/eslint-plugin-no-loops](https://github.com/buildo/eslint-plugin-no-loops)<br>
-9. ⭐ Starred [borremosch/eslint-plugin-type-graphql](https://github.com/borremosch/eslint-plugin-type-graphql)<br>
-10. ⭐ Starred [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⭐ Starred [bmish/eslint-doc-generator](https://github.com/bmish/eslint-doc-generator)<br>
+3. ⭐ Starred [pinterest/esprint](https://github.com/pinterest/esprint)<br>
+4. ⭐ Starred [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive)<br>
+5. ⭐ Starred [IanVS/eslint-nibble](https://github.com/IanVS/eslint-nibble)<br>
+6. ⭐ Starred [fengzilong/eslint-formatter-mo](https://github.com/fengzilong/eslint-formatter-mo)<br>
+7. ⭐ Starred [jhusain/eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable)<br>
+8. ⭐ Starred [CodelyTV/eslint-plugin-hexagonal-architecture](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture)<br>
+9. ⭐ Starred [buildo/eslint-plugin-no-loops](https://github.com/buildo/eslint-plugin-no-loops)<br>
+10. ⭐ Starred [borremosch/eslint-plugin-type-graphql](https://github.com/borremosch/eslint-plugin-type-graphql)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, November 9th, 2023, 9:33:58 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, November 9th, 2023, 10:43:20 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
