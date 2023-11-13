@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oblador/react-native-shimmer](https://github.com/oblador/react-native-shimmer)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⭐ Starred [bmish/eslint-doc-generator](https://github.com/bmish/eslint-doc-generator)<br>
-4. ⭐ Starred [pinterest/esprint](https://github.com/pinterest/esprint)<br>
-5. ⭐ Starred [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive)<br>
-6. ⭐ Starred [IanVS/eslint-nibble](https://github.com/IanVS/eslint-nibble)<br>
-7. ⭐ Starred [fengzilong/eslint-formatter-mo](https://github.com/fengzilong/eslint-formatter-mo)<br>
-8. ⭐ Starred [jhusain/eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable)<br>
-9. ⭐ Starred [CodelyTV/eslint-plugin-hexagonal-architecture](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture)<br>
-10. ⭐ Starred [buildo/eslint-plugin-no-loops](https://github.com/buildo/eslint-plugin-no-loops)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+2. ⭐ Starred [oblador/react-native-shimmer](https://github.com/oblador/react-native-shimmer)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⭐ Starred [bmish/eslint-doc-generator](https://github.com/bmish/eslint-doc-generator)<br>
+5. ⭐ Starred [pinterest/esprint](https://github.com/pinterest/esprint)<br>
+6. ⭐ Starred [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive)<br>
+7. ⭐ Starred [IanVS/eslint-nibble](https://github.com/IanVS/eslint-nibble)<br>
+8. ⭐ Starred [fengzilong/eslint-formatter-mo](https://github.com/fengzilong/eslint-formatter-mo)<br>
+9. ⭐ Starred [jhusain/eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable)<br>
+10. ⭐ Starred [CodelyTV/eslint-plugin-hexagonal-architecture](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, November 12th, 2023, 8:32:08 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, November 12th, 2023, 9:35:17 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
