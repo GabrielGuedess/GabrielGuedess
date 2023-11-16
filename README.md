@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [githubnext/monaspace](https://github.com/githubnext/monaspace)<br>
-2. ⭐ Starred [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-8. ⭐ Starred [oblador/react-native-shimmer](https://github.com/oblador/react-native-shimmer)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⭐ Starred [bmish/eslint-doc-generator](https://github.com/bmish/eslint-doc-generator)<br>
+1. ⭐ Starred [correttojs/graphql-codegen-apollo-next-ssr](https://github.com/correttojs/graphql-codegen-apollo-next-ssr)<br>
+2. ⭐ Starred [githubnext/monaspace](https://github.com/githubnext/monaspace)<br>
+3. ⭐ Starred [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+9. ⭐ Starred [oblador/react-native-shimmer](https://github.com/oblador/react-native-shimmer)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, November 15th, 2023, 8:32:02 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, November 15th, 2023, 9:35:17 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
