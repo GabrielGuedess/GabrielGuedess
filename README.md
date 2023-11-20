@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-2. ⭐ Starred [JaleelB/shadcn-tag-input](https://github.com/JaleelB/shadcn-tag-input)<br>
-3. ⭐ Starred [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion)<br>
-4. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+3. ⭐ Starred [JaleelB/shadcn-tag-input](https://github.com/JaleelB/shadcn-tag-input)<br>
+4. ⭐ Starred [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion)<br>
+5. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-7. ⭐ Starred [correttojs/graphql-codegen-apollo-next-ssr](https://github.com/correttojs/graphql-codegen-apollo-next-ssr)<br>
-8. ⭐ Starred [githubnext/monaspace](https://github.com/githubnext/monaspace)<br>
-9. ⭐ Starred [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+8. ⭐ Starred [correttojs/graphql-codegen-apollo-next-ssr](https://github.com/correttojs/graphql-codegen-apollo-next-ssr)<br>
+9. ⭐ Starred [githubnext/monaspace](https://github.com/githubnext/monaspace)<br>
+10. ⭐ Starred [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, November 19th, 2023, 9:35:57 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, November 19th, 2023, 10:50:47 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
