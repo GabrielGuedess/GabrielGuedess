@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-3. ⭐ Starred [JaleelB/shadcn-tag-input](https://github.com/JaleelB/shadcn-tag-input)<br>
-4. ⭐ Starred [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion)<br>
-5. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+4. ⭐ Starred [JaleelB/shadcn-tag-input](https://github.com/JaleelB/shadcn-tag-input)<br>
+5. ⭐ Starred [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion)<br>
+6. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⭐ Starred [correttojs/graphql-codegen-apollo-next-ssr](https://github.com/correttojs/graphql-codegen-apollo-next-ssr)<br>
-9. ⭐ Starred [githubnext/monaspace](https://github.com/githubnext/monaspace)<br>
-10. ⭐ Starred [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ⭐ Starred [correttojs/graphql-codegen-apollo-next-ssr](https://github.com/correttojs/graphql-codegen-apollo-next-ssr)<br>
+10. ⭐ Starred [githubnext/monaspace](https://github.com/githubnext/monaspace)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, November 20th, 2023, 9:35:57 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, November 20th, 2023, 10:53:41 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
