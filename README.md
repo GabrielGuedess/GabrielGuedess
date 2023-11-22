@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-4. ⭐ Starred [JaleelB/shadcn-tag-input](https://github.com/JaleelB/shadcn-tag-input)<br>
-5. ⭐ Starred [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion)<br>
-6. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+5. ⭐ Starred [JaleelB/shadcn-tag-input](https://github.com/JaleelB/shadcn-tag-input)<br>
+6. ⭐ Starred [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion)<br>
+7. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-9. ⭐ Starred [correttojs/graphql-codegen-apollo-next-ssr](https://github.com/correttojs/graphql-codegen-apollo-next-ssr)<br>
-10. ⭐ Starred [githubnext/monaspace](https://github.com/githubnext/monaspace)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+10. ⭐ Starred [correttojs/graphql-codegen-apollo-next-ssr](https://github.com/correttojs/graphql-codegen-apollo-next-ssr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, November 21st, 2023, 9:36:52 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, November 21st, 2023, 10:52:08 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
