@@ -86,19 +86,19 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⭐ Starred [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid)<br>
-3. ⭐ Starred [colorfy-software/react-native-modalfy](https://github.com/colorfy-software/react-native-modalfy)<br>
-4. ⭐ Starred [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-10. ⭐ Starred [santomegonzalo/react-native-floating-action](https://github.com/santomegonzalo/react-native-floating-action)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⭐ Starred [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid)<br>
+4. ⭐ Starred [colorfy-software/react-native-modalfy](https://github.com/colorfy-software/react-native-modalfy)<br>
+5. ⭐ Starred [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, November 30th, 2023, 9:38:52 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, November 30th, 2023, 10:56:26 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
