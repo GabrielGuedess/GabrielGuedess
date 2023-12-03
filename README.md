@@ -88,17 +88,17 @@
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⭐ Starred [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid)<br>
-5. ⭐ Starred [colorfy-software/react-native-modalfy](https://github.com/colorfy-software/react-native-modalfy)<br>
-6. ⭐ Starred [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+5. ⭐ Starred [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid)<br>
+6. ⭐ Starred [colorfy-software/react-native-modalfy](https://github.com/colorfy-software/react-native-modalfy)<br>
+7. ⭐ Starred [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, December 2nd, 2023, 9:37:38 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, December 2nd, 2023, 10:52:17 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
