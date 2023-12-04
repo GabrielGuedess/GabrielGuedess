@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-2. ⭐ Starred [colbymillerdev/react-native-progress-steps](https://github.com/colbymillerdev/react-native-progress-steps)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+3. ⭐ Starred [colbymillerdev/react-native-progress-steps](https://github.com/colbymillerdev/react-native-progress-steps)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-7. ⭐ Starred [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid)<br>
-8. ⭐ Starred [colorfy-software/react-native-modalfy](https://github.com/colorfy-software/react-native-modalfy)<br>
-9. ⭐ Starred [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+8. ⭐ Starred [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid)<br>
+9. ⭐ Starred [colorfy-software/react-native-modalfy](https://github.com/colorfy-software/react-native-modalfy)<br>
+10. ⭐ Starred [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, December 3rd, 2023, 9:36:07 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, December 3rd, 2023, 10:50:37 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
