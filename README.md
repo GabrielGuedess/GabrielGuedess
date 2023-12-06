@@ -107,7 +107,7 @@
 <summary><h3>:clock230: WakaTime Stats</h3></summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C902%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-27.5%20million%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -148,10 +148,10 @@ Domingo                  888 commits         ██░░░░░░░░░�
 
 ```text
 🔥 Editores: 
-VS Code                  36 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  37 hrs 28 mins      █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Linux                    36 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    37 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em TypeScript** 
@@ -167,7 +167,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 01:15:09 UTC
+ Last Updated on 06/12/2023 01:15:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
