@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⭐ Starred [Namide/extract-colors](https://github.com/Namide/extract-colors)<br>
+2. ⭐ Starred [K-H-Rayhan/nextjs-animated-slider](https://github.com/K-H-Rayhan/nextjs-animated-slider)<br>
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-7. ⭐ Starred [pheralb/svgl](https://github.com/pheralb/svgl)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+9. ⭐ Starred [pheralb/svgl](https://github.com/pheralb/svgl)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, January 20th, 2024, 2:06:29 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, January 20th, 2024, 2:31:46 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
