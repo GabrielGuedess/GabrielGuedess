@@ -88,17 +88,17 @@
 1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⭐ Starred [Namide/extract-colors](https://github.com/Namide/extract-colors)<br>
-9. ⭐ Starred [K-H-Rayhan/nextjs-animated-slider](https://github.com/K-H-Rayhan/nextjs-animated-slider)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ⭐ Starred [Namide/extract-colors](https://github.com/Namide/extract-colors)<br>
+10. ⭐ Starred [K-H-Rayhan/nextjs-animated-slider](https://github.com/K-H-Rayhan/nextjs-animated-slider)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, January 26th, 2024, 9:33:52 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, January 26th, 2024, 10:38:01 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
