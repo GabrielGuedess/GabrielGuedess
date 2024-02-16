@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⭐ Starred [Mindinventory/react-native-tabbar-interaction](https://github.com/Mindinventory/react-native-tabbar-interaction)<br>
 2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⭐ Starred [gsimone/awesome-react-three-fiber](https://github.com/gsimone/awesome-react-three-fiber)<br>
-4. ⭐ Starred [gsimone/r3f-bubbles](https://github.com/gsimone/r3f-bubbles)<br>
-5. ⭐ Starred [emmelleppi/codrops-r3f-mirrors](https://github.com/emmelleppi/codrops-r3f-mirrors)<br>
-6. ⭐ Starred [mattrossman/breathing-dots-tutorial](https://github.com/mattrossman/breathing-dots-tutorial)<br>
-7. ⭐ Starred [guhrodriguess/luxe](https://github.com/guhrodriguess/luxe)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⭐ Starred [gsimone/awesome-react-three-fiber](https://github.com/gsimone/awesome-react-three-fiber)<br>
+5. ⭐ Starred [gsimone/r3f-bubbles](https://github.com/gsimone/r3f-bubbles)<br>
+6. ⭐ Starred [emmelleppi/codrops-r3f-mirrors](https://github.com/emmelleppi/codrops-r3f-mirrors)<br>
+7. ⭐ Starred [mattrossman/breathing-dots-tutorial](https://github.com/mattrossman/breathing-dots-tutorial)<br>
+8. ⭐ Starred [guhrodriguess/luxe](https://github.com/guhrodriguess/luxe)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, February 16th, 2024, 7:31:37 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, February 16th, 2024, 8:06:38 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
