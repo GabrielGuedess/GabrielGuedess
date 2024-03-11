@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
-5. ⭐ Starred [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables)<br>
+1. 🎉 Merged PR [#83](https://github.com/GabrielDeSouzza/TMS-Server/pull/83) in [GabrielDeSouzza/TMS-Server](https://github.com/GabrielDeSouzza/TMS-Server)<br>
+2. ⬆️ Pushed 67 commit(s) to [GabrielDeSouzza/TMS-Server](https://github.com/GabrielDeSouzza/TMS-Server)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-9. ⭐ Starred [willianjusten/nba-nextjs](https://github.com/willianjusten/nba-nextjs)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+7. ⭐ Starred [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Server](https://github.com/GabrielGuedess/TMS-Server)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, March 11th, 2024, 7:31:51 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, March 11th, 2024, 8:08:11 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
