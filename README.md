@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [crnacura/AmbientCanvasBackgrounds](https://github.com/crnacura/AmbientCanvasBackgrounds)<br>
-2. ⭐ Starred [anhquan291/react-native-animated-otp-input](https://github.com/anhquan291/react-native-animated-otp-input)<br>
-3. ⭐ Starred [fabio-alss-freitas/react-native-animated-splash-screen](https://github.com/fabio-alss-freitas/react-native-animated-splash-screen)<br>
-4. ⭐ Starred [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header)<br>
-5. ⭐ Starred [basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)<br>
+2. ⭐ Starred [crnacura/AmbientCanvasBackgrounds](https://github.com/crnacura/AmbientCanvasBackgrounds)<br>
+3. ⭐ Starred [anhquan291/react-native-animated-otp-input](https://github.com/anhquan291/react-native-animated-otp-input)<br>
+4. ⭐ Starred [fabio-alss-freitas/react-native-animated-splash-screen](https://github.com/fabio-alss-freitas/react-native-animated-splash-screen)<br>
+5. ⭐ Starred [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header)<br>
+6. ⭐ Starred [basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, March 18th, 2024, 8:32:09 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, March 18th, 2024, 9:33:38 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
