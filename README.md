@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)<br>
-2. ⭐ Starred [crnacura/AmbientCanvasBackgrounds](https://github.com/crnacura/AmbientCanvasBackgrounds)<br>
-3. ⭐ Starred [anhquan291/react-native-animated-otp-input](https://github.com/anhquan291/react-native-animated-otp-input)<br>
-4. ⭐ Starred [fabio-alss-freitas/react-native-animated-splash-screen](https://github.com/fabio-alss-freitas/react-native-animated-splash-screen)<br>
-5. ⭐ Starred [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header)<br>
-6. ⭐ Starred [basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⭐ Starred [marmelab/json-graphql-server](https://github.com/marmelab/json-graphql-server)<br>
+3. ⭐ Starred [graphql-kit/graphql-faker](https://github.com/graphql-kit/graphql-faker)<br>
+4. ⭐ Starred [Urigo/SOFA](https://github.com/Urigo/SOFA)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+6. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)<br>
+7. ⭐ Starred [crnacura/AmbientCanvasBackgrounds](https://github.com/crnacura/AmbientCanvasBackgrounds)<br>
+8. ⭐ Starred [anhquan291/react-native-animated-otp-input](https://github.com/anhquan291/react-native-animated-otp-input)<br>
+9. ⭐ Starred [fabio-alss-freitas/react-native-animated-splash-screen](https://github.com/fabio-alss-freitas/react-native-animated-splash-screen)<br>
+10. ⭐ Starred [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, March 18th, 2024, 9:33:38 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, March 18th, 2024, 10:39:41 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
