@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⭐ Starred [marmelab/json-graphql-server](https://github.com/marmelab/json-graphql-server)<br>
-3. ⭐ Starred [graphql-kit/graphql-faker](https://github.com/graphql-kit/graphql-faker)<br>
-4. ⭐ Starred [Urigo/SOFA](https://github.com/Urigo/SOFA)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-6. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)<br>
-7. ⭐ Starred [crnacura/AmbientCanvasBackgrounds](https://github.com/crnacura/AmbientCanvasBackgrounds)<br>
-8. ⭐ Starred [anhquan291/react-native-animated-otp-input](https://github.com/anhquan291/react-native-animated-otp-input)<br>
-9. ⭐ Starred [fabio-alss-freitas/react-native-animated-splash-screen](https://github.com/fabio-alss-freitas/react-native-animated-splash-screen)<br>
-10. ⭐ Starred [netguru/sticky-parallax-header](https://github.com/netguru/sticky-parallax-header)<br>
+1. ⭐ Starred [mrousavy/react-native-blurhash](https://github.com/mrousavy/react-native-blurhash)<br>
+2. ⭐ Starred [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⭐ Starred [marmelab/json-graphql-server](https://github.com/marmelab/json-graphql-server)<br>
+5. ⭐ Starred [graphql-kit/graphql-faker](https://github.com/graphql-kit/graphql-faker)<br>
+6. ⭐ Starred [Urigo/SOFA](https://github.com/Urigo/SOFA)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+8. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)<br>
+9. ⭐ Starred [crnacura/AmbientCanvasBackgrounds](https://github.com/crnacura/AmbientCanvasBackgrounds)<br>
+10. ⭐ Starred [anhquan291/react-native-animated-otp-input](https://github.com/anhquan291/react-native-animated-otp-input)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, March 19th, 2024, 10:39:12 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, March 19th, 2024, 11:13:50 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
