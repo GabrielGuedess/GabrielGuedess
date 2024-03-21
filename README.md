@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mrousavy/react-native-blurhash](https://github.com/mrousavy/react-native-blurhash)<br>
-2. ⭐ Starred [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⭐ Starred [marmelab/json-graphql-server](https://github.com/marmelab/json-graphql-server)<br>
-5. ⭐ Starred [graphql-kit/graphql-faker](https://github.com/graphql-kit/graphql-faker)<br>
-6. ⭐ Starred [Urigo/SOFA](https://github.com/Urigo/SOFA)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-8. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)<br>
-9. ⭐ Starred [crnacura/AmbientCanvasBackgrounds](https://github.com/crnacura/AmbientCanvasBackgrounds)<br>
-10. ⭐ Starred [anhquan291/react-native-animated-otp-input](https://github.com/anhquan291/react-native-animated-otp-input)<br>
+1. ⭐ Starred [gorhom/react-native-animated-tabbar](https://github.com/gorhom/react-native-animated-tabbar)<br>
+2. ⭐ Starred [Jm-Zion/rn-wave-bottom-bar](https://github.com/Jm-Zion/rn-wave-bottom-bar)<br>
+3. ⭐ Starred [mrousavy/react-native-blurhash](https://github.com/mrousavy/react-native-blurhash)<br>
+4. ⭐ Starred [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ⭐ Starred [marmelab/json-graphql-server](https://github.com/marmelab/json-graphql-server)<br>
+7. ⭐ Starred [graphql-kit/graphql-faker](https://github.com/graphql-kit/graphql-faker)<br>
+8. ⭐ Starred [Urigo/SOFA](https://github.com/Urigo/SOFA)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, March 20th, 2024, 8:32:01 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, March 20th, 2024, 9:35:09 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
