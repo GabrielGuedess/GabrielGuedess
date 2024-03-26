@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⭐ Starred [gorhom/react-native-animated-tabbar](https://github.com/gorhom/react-native-animated-tabbar)<br>
-6. ⭐ Starred [Jm-Zion/rn-wave-bottom-bar](https://github.com/Jm-Zion/rn-wave-bottom-bar)<br>
-7. ⭐ Starred [mrousavy/react-native-blurhash](https://github.com/mrousavy/react-native-blurhash)<br>
-8. ⭐ Starred [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⭐ Starred [marmelab/json-graphql-server](https://github.com/marmelab/json-graphql-server)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. ⭐ Starred [gorhom/react-native-animated-tabbar](https://github.com/gorhom/react-native-animated-tabbar)<br>
+8. ⭐ Starred [Jm-Zion/rn-wave-bottom-bar](https://github.com/Jm-Zion/rn-wave-bottom-bar)<br>
+9. ⭐ Starred [mrousavy/react-native-blurhash](https://github.com/mrousavy/react-native-blurhash)<br>
+10. ⭐ Starred [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, March 25th, 2024, 9:33:54 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, March 25th, 2024, 10:39:47 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
