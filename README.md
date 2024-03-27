@@ -207,7 +207,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 <a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
 
-[![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,illustrator,xd,figma,vscode,eclipse,androidstudio,git,github,html,css,sass,bootstrap,tailwind,javascript,typescript,jquery,nodejs,expressjs,nestjs,react,nextjs,vite,styledcomponents,jest,webpack,babel,apollo,graphql,kafka,java,kotlin,cs,dotnet,docker,linux,md,prisma,maven,planetscale,supabase,mongo,sqlite,mysql,postgres,redis,githubactions,nginx,aws,vercel,heroku,netlify&theme=dark)](#)
+[![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,illustrator,xd,figma,vscode,eclipse,androidstudio,git,github,html,css,sass,bootstrap,tailwind,javascript,typescript,jquery,nodejs,expressjs,nestjs,react,nextjs,threejs,vite,styledcomponents,jest,cypress,webpack,babel,apollo,graphql,kafka,java,kotlin,cs,dotnet,docker,linux,md,prisma,maven,planetscale,supabase,mongo,sqlite,mysql,postgres,redis,flask,kafka,githubactions,nginx,aws,vercel,heroku,netlify,pnpm,yarn,npm&theme=dark)](#)
 
 ##
 
