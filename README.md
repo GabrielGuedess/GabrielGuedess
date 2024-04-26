@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. ⭐ Starred [vitonsky/eslint-plugin-paths](https://github.com/vitonsky/eslint-plugin-paths)<br>
-7. ⭐ Starred [huggingface/parler-tts](https://github.com/huggingface/parler-tts)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielDeSouzza/TMS-Server](https://github.com/GabrielDeSouzza/TMS-Server)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⭐ Starred [dohooo/react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. ⭐ Starred [vitonsky/eslint-plugin-paths](https://github.com/vitonsky/eslint-plugin-paths)<br>
+8. ⭐ Starred [huggingface/parler-tts](https://github.com/huggingface/parler-tts)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielDeSouzza/TMS-Server](https://github.com/GabrielDeSouzza/TMS-Server)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, April 25th, 2024, 9:35:07 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, April 25th, 2024, 10:43:05 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
