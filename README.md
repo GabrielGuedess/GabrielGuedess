@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⭐ Starred [apollographql/supergraph-demo-fed2](https://github.com/apollographql/supergraph-demo-fed2)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielDeSouzza/TMS-Server](https://github.com/GabrielDeSouzza/TMS-Server)<br>
-4. ⭐ Starred [cunarist/eslint-config-clean-typescript](https://github.com/cunarist/eslint-config-clean-typescript)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-7. ❌ Closed PR [#20](https://github.com/GabrielGuedess/TMS-Web/pull/20) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⭐ Starred [eslint/eslint-scope](https://github.com/eslint/eslint-scope)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⭐ Starred [apollographql/supergraph-demo-fed2](https://github.com/apollographql/supergraph-demo-fed2)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielDeSouzza/TMS-Server](https://github.com/GabrielDeSouzza/TMS-Server)<br>
+5. ⭐ Starred [cunarist/eslint-config-clean-typescript](https://github.com/cunarist/eslint-config-clean-typescript)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+8. ❌ Closed PR [#20](https://github.com/GabrielGuedess/TMS-Web/pull/20) in [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/TMS-Web](https://github.com/GabrielGuedess/TMS-Web)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, May 5th, 2024, 8:31:59 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, May 5th, 2024, 9:36:24 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
