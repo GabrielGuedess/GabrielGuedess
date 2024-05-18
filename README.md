@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [heyman333/react-native-animated-numbers](https://github.com/heyman333/react-native-animated-numbers)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-4. ⭐ Starred [paulovictorbrines/Script-Roteiro_Shrek-2-Whatsapp](https://github.com/paulovictorbrines/Script-Roteiro_Shrek-2-Whatsapp)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⭐ Starred [kesha-antonov/react-native-zoom-reanimated](https://github.com/kesha-antonov/react-native-zoom-reanimated)<br>
+2. ⭐ Starred [heyman333/react-native-animated-numbers](https://github.com/heyman333/react-native-animated-numbers)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+5. ⭐ Starred [paulovictorbrines/Script-Roteiro_Shrek-2-Whatsapp](https://github.com/paulovictorbrines/Script-Roteiro_Shrek-2-Whatsapp)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, May 18th, 2024, 5:08:13 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, May 18th, 2024, 5:32:07 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
