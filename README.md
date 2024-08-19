@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [muneebhashone/typescript-backend-toolkit](https://github.com/muneebhashone/typescript-backend-toolkit)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-6. 📔 Created new repository [GabrielGuedess/tech-go-rocketseat](https://github.com/GabrielGuedess/tech-go-rocketseat)<br>
-7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-9. ⭐ Starred [Abhinandan-Kushwaha/react-native-gifted-charts](https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts)<br>
-10. ⭐ Starred [Proxlight/Proxlight-Designer-3](https://github.com/Proxlight/Proxlight-Designer-3)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+2. ⭐ Starred [muneebhashone/typescript-backend-toolkit](https://github.com/muneebhashone/typescript-backend-toolkit)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+7. 📔 Created new repository [GabrielGuedess/tech-go-rocketseat](https://github.com/GabrielGuedess/tech-go-rocketseat)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+10. ⭐ Starred [Abhinandan-Kushwaha/react-native-gifted-charts](https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, August 18th, 2024, 8:32:21 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, August 18th, 2024, 9:41:06 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
