@@ -75,7 +75,7 @@
               </g>,<g transform="translate(252, 0.000000)" mask="url(#mask-12)">
                 <image x="0" y="0" width="64" height="64" xlink:href="data:image/png;base64,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"></image>
               </g>,<g transform="translate(336, 0.000000)" mask="url(#mask-12)">
-                <image x="0" y="0" width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABpFBMVEX////7+v17UMD39Pv+/v79/P7h1/F2Sr13S76KZMeOasl3S736+P3+/v/x7Ph4TL7p4vT9/f7Jt+V8UsCDW8TNvee7pd+LZceeftCdfdCnitWSb8t6T7/08frSxOnz7/n29PuCWcOMZ8iVc8yQbMrw6/f59/y6pN739fv//v+3oN3azu2EW8Te0+/DsOLg1vCrj9b8+/7n4POrkNfr5fWwltm2ntt5Tr+3oNzUxup+VcF+VMHWyev08Pl+U8Hy7vnc0O6ojNXHteSpjdbFsuR3Sr3t5/a7pN7It+Xo4fSbe8/Vx+v18vqtktfp4fTj2fHCruLs5fXr5PW8pt+EXMTKuebXyuzl3PPMvOf6+f2CWsOzmtvg1vG2n9y2ntzQweiBWMP8+/2jhdPh1vGvlNjTxep/VsKHYcXs5fa/quD6+PyGXsWmidTNvOeVcszMu+fv6vf18/q4oN12S719UsB6Tr/Wyey+quDItuSAVsLn3/OTcMt5Tb57UL+LZsd3TL7t5vaGX8XBrOHd0++Nacjf1fDl3PLKuOXm3vPl3fPQwem6o97eVw7gAAABaElEQVQYGe3BZVNbQQCG0Tf6bBI8uHsS6u4GtKXu7u4KdRdoS/90L0ymMxnuZjftV87Rov9Qs1YVWda4eZMqkNwCnVvlrWYpge118lS/n3mDVfIzQdFeeTl4nqLsHvlo5q9D8nCuD/j0ffA9EO2R2xXg40/p8zvgqNyuQ+bX8O+R/NAHGJBT5Cp80VfIaQCiXXKpM/AmMWvMD/UDO+VygMDrwvS3+MtJYFQuDQRejMy8fTVFICeXcUqsl0szJdZUq6zExlpKZFZWqYzhVhbo2CG7dYRoq5ZNLEsIs1o2KwjVJJuhWsIskU19ihAbtslqFyFa4rJqYE5fmnmpFua0y26fAdJ3799LmcyD571dbQSWyy5xElpjCsSeFSQlLhh2J1VGU/rSNUWePFWg51FeOpsaWyWXJJ0dD9sfR7klKS63GxR1y89Firrl54y5eQduXzan5em4TsEJHYvLW6S/sVcVOXxEi/7dHwYRMnqU48/oAAAAAElFTkSuQmCC"></image>
+                <image x="0" y="0" width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABFFBMVEX/bQD/59b/9/H/cQn/oFr/qmz/bQH/////m1H/r3X/cAb/9Ov/bQL/7N7//v3/fx//hy///v7/fiD/bwX/dA3/fR3/bgL/9vD//fv/wpX/bwT/exn/fR7/fyD/kkP/kkT/9e3/kkL/eRb/sHf/pmX/kUD/+fT/uon/cgr/7uH/7uL/oV3/dhH/8+v/snn/4cz/nFT/cAf/qGj/q2//lEb/eBX/v5D/gCP/nVf/6dn/8ef/hCr/9Oz/cw//+vb/1Lb/gST/cQv///7/iTL/tX//7d//hi7/uIT/3cX/iTP/gSP/6Nf/bwf//Pr//fz/ehn/y6b/jz3/zqr/+/f/x57/+/j/+PL/gyj/izX/17v/hCn/0a/VUx+gAAAA7ElEQVRIx2NgGLHAmZMIYI2kgZWdCMCCosGXET/w9kPTwMvDhhf4cGNowO9LrmGtQUZOVQwmLKwoL01Qg6yaoAFMWIVdQYmwk9TZGQ0hLBEtdmUi/KCjy24EYemxa2oQ42ljdisREG0qzq5NVCgxW7K7gGgzdn1h4oLVwkncn4HBwY7PhMh4EPNgl2RgC2C3ZyM24gIFg8MjJCTciI5ptmj2oEj2EBKSRlQoO3uYKClpSZKd3Z2kxOfJzudFkgYBdj7+UQ2ENHAJCUmNoHKJWA2ujsx4ga0NmgY+JgJAEE0DiVWWOQcRQHTkNhoAC/IhErnqJeEAAAAASUVORK5CYII="></image>
               </g>
                         </g>
                         <text id="Favorite-publication" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
@@ -92,12 +92,12 @@
                 <tspan x="0" y="22">Webdev</tspan>
               </text>
               <text id="79" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="40" font-weight="bold" line-spacing="48" fill="#FFFFFF">
-                <tspan x="336" y="43">58</tspan>
+                <tspan x="336" y="43">59</tspan>
               </text>
             </g>,<g transform="translate(0.000000, 66)">
               <g id="bar" transform="translate(0.000000, 42.000000)">
                 <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
-                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="275.86206896551727" height="4" rx="2"></rect>
+                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="271.1864406779661" height="4" rx="2"></rect>
               </g>
               <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
                 <tspan x="0" y="22">React</tspan>
@@ -108,7 +108,7 @@
             </g>,<g transform="translate(0.000000, 132)">
               <g id="bar" transform="translate(0.000000, 42.000000)">
                 <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
-                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="259.3103448275862" height="4" rx="2"></rect>
+                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="254.91525423728814" height="4" rx="2"></rect>
               </g>
               <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
                 <tspan x="0" y="22">Javascript</tspan>
@@ -119,7 +119,7 @@
             </g>,<g transform="translate(0.000000, 198)">
               <g id="bar" transform="translate(0.000000, 42.000000)">
                 <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
-                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="160" height="4" rx="2"></rect>
+                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="157.28813559322035" height="4" rx="2"></rect>
               </g>
               <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
                 <tspan x="0" y="22">Frontend</tspan>
