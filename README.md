@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [o2sh/onefetch](https://github.com/o2sh/onefetch)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⭐ Starred [typesense/typesense](https://github.com/typesense/typesense)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
-7. ⭐ Starred [prettier/pretty-quick](https://github.com/prettier/pretty-quick)<br>
-8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-9. ⭐ Starred [schoero/eslint-plugin-readable-tailwind](https://github.com/schoero/eslint-plugin-readable-tailwind)<br>
-10. ⭐ Starred [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+2. ⭐ Starred [o2sh/onefetch](https://github.com/o2sh/onefetch)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ⭐ Starred [typesense/typesense](https://github.com/typesense/typesense)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NextJs-Boilerplate](https://github.com/GabrielGuedess/NextJs-Boilerplate)<br>
+8. ⭐ Starred [prettier/pretty-quick](https://github.com/prettier/pretty-quick)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+10. ⭐ Starred [schoero/eslint-plugin-readable-tailwind](https://github.com/schoero/eslint-plugin-readable-tailwind)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, December 1st, 2024, 8:33:47 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, December 1st, 2024, 9:52:29 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
