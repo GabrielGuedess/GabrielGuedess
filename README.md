@@ -31,7 +31,7 @@
 <br />
 
 - 🖥️ Cursando Engenharia de Computação na instituição de ensino Centro Universitário Eniac.
-- 🖥️ Cursando Análise e Desenvolvimento de Sistemas na instituição de ensino Fatec Guarulhos.
+- 🖥️ Sou formado em Análise e Desenvolvimento de Sistemas na instituição de ensino Fatec Guarulhos.
 - 💻 Sou formado em Técnico de Informática.
 - 🤟 Cursando Inglês na instituição de ensino Wizard.
 - 🏡 Sou Brasileiro, moro em Guarulhos-SP.
