@@ -85,8 +85,8 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [uiwjs/react-signature](https://github.com/uiwjs/react-signature)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⭐ Starred [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)<br>
+2. ⭐ Starred [uiwjs/react-signature](https://github.com/uiwjs/react-signature)<br>
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
@@ -98,7 +98,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, January 11th, 2025, 7:08:12 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, January 11th, 2025, 7:34:50 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
