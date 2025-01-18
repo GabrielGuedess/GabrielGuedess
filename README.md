@@ -85,12 +85,12 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-3. ⭐ Starred [ui-layouts/cursify](https://github.com/ui-layouts/cursify)<br>
-4. ⭐ Starred [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)<br>
-5. ⭐ Starred [uiwjs/react-signature](https://github.com/uiwjs/react-signature)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+1. ⭐ Starred [hienngm/nestjs-graceful-shutdown](https://github.com/hienngm/nestjs-graceful-shutdown)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+4. ⭐ Starred [ui-layouts/cursify](https://github.com/ui-layouts/cursify)<br>
+5. ⭐ Starred [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)<br>
+6. ⭐ Starred [uiwjs/react-signature](https://github.com/uiwjs/react-signature)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
@@ -98,7 +98,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, January 17th, 2025, 9:43:00 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, January 17th, 2025, 11:04:05 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
