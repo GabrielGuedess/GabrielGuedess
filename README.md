@@ -94,11 +94,10 @@
 7. ⭐ Starred [react-native-community/hooks](https://github.com/react-native-community/hooks)<br>
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, March 18th, 2025, 7:37:05 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, March 18th, 2025, 8:09:33 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
