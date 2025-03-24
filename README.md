@@ -92,11 +92,10 @@
 5. ⭐ Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-8. ⭐ Starred [react-native-community/hooks](https://github.com/react-native-community/hooks)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, March 24th, 2025, 3:44:04 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, March 24th, 2025, 4:08:07 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
