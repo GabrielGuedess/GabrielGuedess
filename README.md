@@ -85,16 +85,17 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [betomoedano/modern-chat-app](https://github.com/betomoedano/modern-chat-app)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+1. ⭐ Starred [Jacse/react-native-app-intro-slider](https://github.com/Jacse/react-native-app-intro-slider)<br>
+2. ⭐ Starred [betomoedano/modern-chat-app](https://github.com/betomoedano/modern-chat-app)<br>
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-5. ⭐ Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br>
+5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 6. ⭐ Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br>
+7. ⭐ Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, April 3rd, 2025, 1:43:30 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, April 3rd, 2025, 2:09:18 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
