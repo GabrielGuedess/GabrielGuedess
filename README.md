@@ -90,11 +90,10 @@
 3. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-6. ⭐ Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, April 3rd, 2025, 7:09:29 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, April 3rd, 2025, 7:37:22 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
