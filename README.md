@@ -85,16 +85,17 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-2. ⭐ Starred [Jacse/react-native-app-intro-slider](https://github.com/Jacse/react-native-app-intro-slider)<br>
-3. ⭐ Starred [betomoedano/modern-chat-app](https://github.com/betomoedano/modern-chat-app)<br>
-4. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+1. ⭐ Starred [asimov-academy/cv-analyzer](https://github.com/asimov-academy/cv-analyzer)<br>
+2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+3. ⭐ Starred [Jacse/react-native-app-intro-slider](https://github.com/Jacse/react-native-app-intro-slider)<br>
+4. ⭐ Starred [betomoedano/modern-chat-app](https://github.com/betomoedano/modern-chat-app)<br>
 5. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, April 8th, 2025, 5:14:49 AM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, April 8th, 2025, 5:43:04 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
