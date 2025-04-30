@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Ucekay/nitro-palette](https://github.com/Ucekay/nitro-palette)<br>
-2. ⭐ Starred [arunabhverma/expo-list-transition](https://github.com/arunabhverma/expo-list-transition)<br>
-3. ⭐ Starred [arunabhverma/expo-native-header-and-bottom-tabs](https://github.com/arunabhverma/expo-native-header-and-bottom-tabs)<br>
-4. ⭐ Starred [AppAndFlow/react-native-magic-scroll](https://github.com/AppAndFlow/react-native-magic-scroll)<br>
-5. ⭐ Starred [eds2002/immersive-overlay-example](https://github.com/eds2002/immersive-overlay-example)<br>
-6. ⭐ Starred [arunabhverma/expo-fuse-carousel](https://github.com/arunabhverma/expo-fuse-carousel)<br>
-7. ⭐ Starred [EvanBacon/expo-router-forms-components](https://github.com/EvanBacon/expo-router-forms-components)<br>
-8. ⭐ Starred [arihantcodes/spectrum-ui](https://github.com/arihantcodes/spectrum-ui)<br>
-9. ⭐ Starred [code-env/ground-v2](https://github.com/code-env/ground-v2)<br>
-10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+1. ⭐ Starred [saulamsal/twitter-ui](https://github.com/saulamsal/twitter-ui)<br>
+2. ⭐ Starred [saulamsal/netflix-ui](https://github.com/saulamsal/netflix-ui)<br>
+3. ⭐ Starred [saulamsal/apple-lookup-ui](https://github.com/saulamsal/apple-lookup-ui)<br>
+4. ⭐ Starred [Ucekay/nitro-palette](https://github.com/Ucekay/nitro-palette)<br>
+5. ⭐ Starred [arunabhverma/expo-list-transition](https://github.com/arunabhverma/expo-list-transition)<br>
+6. ⭐ Starred [arunabhverma/expo-native-header-and-bottom-tabs](https://github.com/arunabhverma/expo-native-header-and-bottom-tabs)<br>
+7. ⭐ Starred [AppAndFlow/react-native-magic-scroll](https://github.com/AppAndFlow/react-native-magic-scroll)<br>
+8. ⭐ Starred [eds2002/immersive-overlay-example](https://github.com/eds2002/immersive-overlay-example)<br>
+9. ⭐ Starred [arunabhverma/expo-fuse-carousel](https://github.com/arunabhverma/expo-fuse-carousel)<br>
+10. ⭐ Starred [EvanBacon/expo-router-forms-components](https://github.com/EvanBacon/expo-router-forms-components)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, April 30th, 2025, 10:42:11 AM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, April 30th, 2025, 11:10:38 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
