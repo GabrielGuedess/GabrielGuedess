@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mahdidavoodi7/telegram-join-animation](https://github.com/mahdidavoodi7/telegram-join-animation)<br>
-2. ⭐ Starred [saulamsal/twitter-ui](https://github.com/saulamsal/twitter-ui)<br>
-3. ⭐ Starred [saulamsal/netflix-ui](https://github.com/saulamsal/netflix-ui)<br>
-4. ⭐ Starred [saulamsal/apple-lookup-ui](https://github.com/saulamsal/apple-lookup-ui)<br>
-5. ⭐ Starred [Ucekay/nitro-palette](https://github.com/Ucekay/nitro-palette)<br>
-6. ⭐ Starred [arunabhverma/expo-list-transition](https://github.com/arunabhverma/expo-list-transition)<br>
-7. ⭐ Starred [arunabhverma/expo-native-header-and-bottom-tabs](https://github.com/arunabhverma/expo-native-header-and-bottom-tabs)<br>
-8. ⭐ Starred [AppAndFlow/react-native-magic-scroll](https://github.com/AppAndFlow/react-native-magic-scroll)<br>
-9. ⭐ Starred [eds2002/immersive-overlay-example](https://github.com/eds2002/immersive-overlay-example)<br>
-10. ⭐ Starred [arunabhverma/expo-fuse-carousel](https://github.com/arunabhverma/expo-fuse-carousel)<br>
+1. ⭐ Starred [arunabhverma/expo-activities-list-animation](https://github.com/arunabhverma/expo-activities-list-animation)<br>
+2. ⭐ Starred [Solarin-Johnson/expo-blog](https://github.com/Solarin-Johnson/expo-blog)<br>
+3. ⭐ Starred [mahdidavoodi7/telegram-join-animation](https://github.com/mahdidavoodi7/telegram-join-animation)<br>
+4. ⭐ Starred [saulamsal/twitter-ui](https://github.com/saulamsal/twitter-ui)<br>
+5. ⭐ Starred [saulamsal/netflix-ui](https://github.com/saulamsal/netflix-ui)<br>
+6. ⭐ Starred [saulamsal/apple-lookup-ui](https://github.com/saulamsal/apple-lookup-ui)<br>
+7. ⭐ Starred [Ucekay/nitro-palette](https://github.com/Ucekay/nitro-palette)<br>
+8. ⭐ Starred [arunabhverma/expo-list-transition](https://github.com/arunabhverma/expo-list-transition)<br>
+9. ⭐ Starred [arunabhverma/expo-native-header-and-bottom-tabs](https://github.com/arunabhverma/expo-native-header-and-bottom-tabs)<br>
+10. ⭐ Starred [AppAndFlow/react-native-magic-scroll](https://github.com/AppAndFlow/react-native-magic-scroll)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, May 2nd, 2025, 12:51:19 AM BRT</b>
+<p align="center">Last refresh: <b>Friday, May 2nd, 2025, 1:13:04 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
