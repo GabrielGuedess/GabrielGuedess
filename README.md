@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
-2. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-3. ⭐ Starred [arunabhverma/expo-activities-list-animation](https://github.com/arunabhverma/expo-activities-list-animation)<br>
-4. ⭐ Starred [Solarin-Johnson/expo-blog](https://github.com/Solarin-Johnson/expo-blog)<br>
-5. ⭐ Starred [mahdidavoodi7/telegram-join-animation](https://github.com/mahdidavoodi7/telegram-join-animation)<br>
-6. ⭐ Starred [saulamsal/twitter-ui](https://github.com/saulamsal/twitter-ui)<br>
-7. ⭐ Starred [saulamsal/netflix-ui](https://github.com/saulamsal/netflix-ui)<br>
-8. ⭐ Starred [saulamsal/apple-lookup-ui](https://github.com/saulamsal/apple-lookup-ui)<br>
-9. ⭐ Starred [Ucekay/nitro-palette](https://github.com/Ucekay/nitro-palette)<br>
-10. ⭐ Starred [arunabhverma/expo-list-transition](https://github.com/arunabhverma/expo-list-transition)<br>
+1. ✔️ Closed issue [#23](https://github.com/GabrielGuedess/NestJs-Boilerplate/issues/23) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+2. ❌ Closed PR [#293](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/293) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+3. ❌ Closed PR [#269](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/269) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+4. ❌ Closed PR [#266](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/266) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+5. ❌ Closed PR [#106](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/106) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+10. ⭐ Starred [arunabhverma/expo-activities-list-animation](https://github.com/arunabhverma/expo-activities-list-animation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, May 6th, 2025, 3:45:47 AM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, May 6th, 2025, 4:11:06 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
