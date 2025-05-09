@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#23](https://github.com/GabrielGuedess/NestJs-Boilerplate/issues/23) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
-2. ❌ Closed PR [#293](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/293) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
-3. ❌ Closed PR [#269](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/269) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
-4. ❌ Closed PR [#266](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/266) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
-5. ❌ Closed PR [#106](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/106) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
-6. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+1. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+2. ✔️ Closed issue [#23](https://github.com/GabrielGuedess/NestJs-Boilerplate/issues/23) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+3. ❌ Closed PR [#293](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/293) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+4. ❌ Closed PR [#269](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/269) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+5. ❌ Closed PR [#266](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/266) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+6. ❌ Closed PR [#106](https://github.com/GabrielGuedess/NestJs-Boilerplate/pull/106) in [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
 7. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
 8. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
-9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-10. ⭐ Starred [arunabhverma/expo-activities-list-animation](https://github.com/arunabhverma/expo-activities-list-animation)<br>
+9. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/NestJs-Boilerplate](https://github.com/GabrielGuedess/NestJs-Boilerplate)<br>
+10. ⬆️ Pushed 1 commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, May 9th, 2025, 9:20:09 AM BRT</b>
+<p align="center">Last refresh: <b>Friday, May 9th, 2025, 10:01:18 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
