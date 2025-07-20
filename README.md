@@ -107,7 +107,7 @@
 <summary><h3>:clock230: WakaTime Stats</h3></summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C373%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C378%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-86.0%20million%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -148,10 +148,11 @@ Domingo                  1192 commits        ██░░░░░░░░░�
 
 ```text
 🔥 Editores: 
-VS Code                  46 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  45 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Linux                    46 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    45 hrs 51 mins      █████████████████████████   99.94 % 
+WSL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 **Eu geralmente programo em TypeScript** 
@@ -167,7 +168,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2025 01:59:53 UTC
+ Last Updated on 20/07/2025 02:13:29 UTC
 <!--END_SECTION:waka-->
 </details>
 
