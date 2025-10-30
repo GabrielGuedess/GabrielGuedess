@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](undefined) in [ruk-tech/desafio-rec](https://github.com/ruk-tech/desafio-rec)<br>
-2. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-3. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-4. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-6. ⭐ Starred [alirezanqp/nestjs-observability](https://github.com/alirezanqp/nestjs-observability)<br>
-7. ⭐ Starred [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel)<br>
-8. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-9. ⭐ Starred [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM)<br>
-10. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+1. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. 💪 Opened PR [#1](undefined) in [ruk-tech/desafio-rec](https://github.com/ruk-tech/desafio-rec)<br>
+3. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+4. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+7. ⭐ Starred [alirezanqp/nestjs-observability](https://github.com/alirezanqp/nestjs-observability)<br>
+8. ⭐ Starred [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel)<br>
+9. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+10. ⭐ Starred [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, October 29th, 2025, 9:54:54 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, October 29th, 2025, 11:27:23 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
