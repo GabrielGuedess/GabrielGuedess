@@ -93,12 +93,10 @@
 6. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 7. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
 8. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-9. ⭐ Starred [alirezanqp/nestjs-observability](https://github.com/alirezanqp/nestjs-observability)<br>
-10. ⭐ Starred [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, November 12th, 2025, 6:39:58 AM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, November 12th, 2025, 7:13:02 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
