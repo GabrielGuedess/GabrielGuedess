@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-2. ⭐ Starred [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
-3. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
+1. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+3. ⭐ Starred [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
 4. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
 5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
 6. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
 7. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
-8. ⭐ Starred [GabrielGuedess/pokedex-backend](https://github.com/GabrielGuedess/pokedex-backend)<br>
-9. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/pokedex-backend](https://github.com/GabrielGuedess/pokedex-backend)<br>
+8. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
+9. ⭐ Starred [GabrielGuedess/pokedex-backend](https://github.com/GabrielGuedess/pokedex-backend)<br>
 10. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/pokedex-backend](https://github.com/GabrielGuedess/pokedex-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, December 27th, 2025, 10:05:12 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, December 28th, 2025, 12:18:10 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
