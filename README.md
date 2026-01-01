@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [marcellosso/better-auth-localization](https://github.com/marcellosso/better-auth-localization)<br>
-2. ⭐ Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)<br>
-3. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-4. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-6. ⭐ Starred [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
-7. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
+1. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+2. ⭐ Starred [marcellosso/better-auth-localization](https://github.com/marcellosso/better-auth-localization)<br>
+3. ⭐ Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)<br>
+4. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
+6. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+7. ⭐ Starred [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
 8. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
 9. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
 10. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, December 31st, 2025, 10:05:11 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, January 1st, 2026, 12:19:57 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
