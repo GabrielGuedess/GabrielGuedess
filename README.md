@@ -94,11 +94,10 @@
 7. ⭐ Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)<br>
 8. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 9. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/GabrielGuedess](https://github.com/GabrielGuedess/GabrielGuedess)<br>
-10. ⭐ Starred [GabrielGuedess/pokedex-frontend](https://github.com/GabrielGuedess/pokedex-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, January 20th, 2026, 10:59:28 AM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, January 20th, 2026, 11:33:22 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
