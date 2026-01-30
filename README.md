@@ -89,11 +89,10 @@
 2. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 3. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 4. ⭐ Starred [eds2002/react-native-screen-transitions](https://github.com/eds2002/react-native-screen-transitions)<br>
-5. ⭐ Starred [marcellosso/better-auth-localization](https://github.com/marcellosso/better-auth-localization)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, January 30th, 2026, 6:59:15 AM BRT</b>
+<p align="center">Last refresh: <b>Friday, January 30th, 2026, 7:35:56 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
