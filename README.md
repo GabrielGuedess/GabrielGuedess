@@ -90,11 +90,10 @@
 3. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 4. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-6. ⭐ Starred [eds2002/react-native-screen-transitions](https://github.com/eds2002/react-native-screen-transitions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, February 5th, 2026, 4:31:00 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, February 5th, 2026, 5:21:42 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
