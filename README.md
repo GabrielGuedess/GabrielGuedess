@@ -85,19 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-2. ⭐ Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)<br>
-3. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
-4. ⭐ Starred [dpraful/react-native-vision-camera-spoof-detector](https://github.com/dpraful/react-native-vision-camera-spoof-detector)<br>
-5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+1. ⭐ Starred [missive/emoji-mart](https://github.com/missive/emoji-mart)<br>
+2. ⭐ Starred [dungngminh/simutil](https://github.com/dungngminh/simutil)<br>
+3. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)<br>
+4. ⭐ Starred [dayflow-js/BlossomColorPicker](https://github.com/dayflow-js/BlossomColorPicker)<br>
+5. ⭐ Starred [shuding/cobe](https://github.com/shuding/cobe)<br>
 6. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-7. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-8. ⭐ Starred [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)<br>
-9. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+7. ⭐ Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)<br>
+8. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
+9. ⭐ Starred [dpraful/react-native-vision-camera-spoof-detector](https://github.com/dpraful/react-native-vision-camera-spoof-detector)<br>
+10. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, March 30th, 2026, 8:47:26 AM BRT</b>
+<p align="center">Last refresh: <b>Monday, March 30th, 2026, 9:53:57 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
