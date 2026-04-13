@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
-2. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-3. ⭐ Starred [missive/emoji-mart](https://github.com/missive/emoji-mart)<br>
-4. ⭐ Starred [dungngminh/simutil](https://github.com/dungngminh/simutil)<br>
-5. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)<br>
-6. ⭐ Starred [dayflow-js/BlossomColorPicker](https://github.com/dayflow-js/BlossomColorPicker)<br>
-7. ⭐ Starred [shuding/cobe](https://github.com/shuding/cobe)<br>
-8. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-9. ⭐ Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)<br>
-10. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
+1. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+2. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
+3. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+4. ⭐ Starred [missive/emoji-mart](https://github.com/missive/emoji-mart)<br>
+5. ⭐ Starred [dungngminh/simutil](https://github.com/dungngminh/simutil)<br>
+6. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)<br>
+7. ⭐ Starred [dayflow-js/BlossomColorPicker](https://github.com/dayflow-js/BlossomColorPicker)<br>
+8. ⭐ Starred [shuding/cobe](https://github.com/shuding/cobe)<br>
+9. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+10. ⭐ Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, April 12th, 2026, 8:38:59 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, April 12th, 2026, 10:45:58 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
