@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [midudev/autoskills](https://github.com/midudev/autoskills)<br>
-2. ⭐ Starred [KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki)<br>
-3. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-4. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
-5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-6. ⭐ Starred [missive/emoji-mart](https://github.com/missive/emoji-mart)<br>
-7. ⭐ Starred [dungngminh/simutil](https://github.com/dungngminh/simutil)<br>
-8. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)<br>
-9. ⭐ Starred [dayflow-js/BlossomColorPicker](https://github.com/dayflow-js/BlossomColorPicker)<br>
-10. ⭐ Starred [shuding/cobe](https://github.com/shuding/cobe)<br>
+1. ⭐ Starred [donghaxkim/react-rewrite](https://github.com/donghaxkim/react-rewrite)<br>
+2. ⭐ Starred [LarsenCundric/port-whisperer](https://github.com/LarsenCundric/port-whisperer)<br>
+3. ⭐ Starred [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill)<br>
+4. ⭐ Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)<br>
+5. ⭐ Starred [0xGF/boneyard](https://github.com/0xGF/boneyard)<br>
+6. ⭐ Starred [khendzel/skills-janitor](https://github.com/khendzel/skills-janitor)<br>
+7. ⭐ Starred [dayflow-js/calendar](https://github.com/dayflow-js/calendar)<br>
+8. ⭐ Starred [midudev/autoskills](https://github.com/midudev/autoskills)<br>
+9. ⭐ Starred [KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki)<br>
+10. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, April 16th, 2026, 8:51:37 AM BRT</b>
+<p align="center">Last refresh: <b>Thursday, April 16th, 2026, 10:05:10 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
