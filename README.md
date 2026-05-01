@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [m1dnight/ferri](https://github.com/m1dnight/ferri)<br>
-2. ⭐ Starred [NarHakobyan/awesome-nest-boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate)<br>
-3. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-4. ⭐ Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)<br>
-5. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
-6. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-7. ⭐ Starred [Debajyati/lsum](https://github.com/Debajyati/lsum)<br>
-8. ⭐ Starred [donghaxkim/react-rewrite](https://github.com/donghaxkim/react-rewrite)<br>
-9. ⭐ Starred [LarsenCundric/port-whisperer](https://github.com/LarsenCundric/port-whisperer)<br>
-10. ⭐ Starred [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill)<br>
+1. ⭐ Starred [fecarrico/A11Y.md](https://github.com/fecarrico/A11Y.md)<br>
+2. ⭐ Starred [Secreto31126/whatsapp-api-js](https://github.com/Secreto31126/whatsapp-api-js)<br>
+3. ⭐ Starred [m1dnight/ferri](https://github.com/m1dnight/ferri)<br>
+4. ⭐ Starred [NarHakobyan/awesome-nest-boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate)<br>
+5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+6. ⭐ Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)<br>
+7. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
+8. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+9. ⭐ Starred [Debajyati/lsum](https://github.com/Debajyati/lsum)<br>
+10. ⭐ Starred [donghaxkim/react-rewrite](https://github.com/donghaxkim/react-rewrite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, May 1st, 2026, 9:09:50 AM BRT</b>
+<p align="center">Last refresh: <b>Friday, May 1st, 2026, 10:57:08 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
