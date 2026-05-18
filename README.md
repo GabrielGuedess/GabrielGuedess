@@ -85,10 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+2. ⭐ Starred [CristianOlivera1/openhero](https://github.com/CristianOlivera1/openhero)<br>
+3. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+4. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
+5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+6. ⭐ Starred [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills)<br>
+7. ⭐ Starred [fecarrico/A11Y.md](https://github.com/fecarrico/A11Y.md)<br>
+8. ⭐ Starred [Secreto31126/whatsapp-api-js](https://github.com/Secreto31126/whatsapp-api-js)<br>
+9. ⭐ Starred [m1dnight/ferri](https://github.com/m1dnight/ferri)<br>
+10. ⭐ Starred [NarHakobyan/awesome-nest-boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, May 18th, 2026, 2:14:32 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, May 18th, 2026, 4:09:55 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
