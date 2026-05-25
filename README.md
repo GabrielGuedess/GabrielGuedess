@@ -91,14 +91,14 @@
 4. ⭐ Starred [CristianOlivera1/openhero](https://github.com/CristianOlivera1/openhero)<br>
 5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 6. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
-7. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-8. ⭐ Starred [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills)<br>
-9. ⭐ Starred [fecarrico/A11Y.md](https://github.com/fecarrico/A11Y.md)<br>
-10. ⭐ Starred [Secreto31126/whatsapp-api-js](https://github.com/Secreto31126/whatsapp-api-js)<br>
+7. ⭐ Starred [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills)<br>
+8. ⭐ Starred [fecarrico/A11Y.md](https://github.com/fecarrico/A11Y.md)<br>
+9. ⭐ Starred [Secreto31126/whatsapp-api-js](https://github.com/Secreto31126/whatsapp-api-js)<br>
+10. ⭐ Starred [m1dnight/ferri](https://github.com/m1dnight/ferri)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, May 25th, 2026, 8:31:57 AM BRT</b>
+<p align="center">Last refresh: <b>Monday, May 25th, 2026, 11:32:59 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
