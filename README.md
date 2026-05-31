@@ -93,11 +93,10 @@
 6. ⭐ Starred [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills)<br>
 7. ⭐ Starred [fecarrico/A11Y.md](https://github.com/fecarrico/A11Y.md)<br>
 8. ⭐ Starred [Secreto31126/whatsapp-api-js](https://github.com/Secreto31126/whatsapp-api-js)<br>
-9. ⭐ Starred [m1dnight/ferri](https://github.com/m1dnight/ferri)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, May 30th, 2026, 8:51:57 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, May 30th, 2026, 11:31:04 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
