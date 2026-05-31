@@ -91,12 +91,10 @@
 4. ⭐ Starred [CristianOlivera1/openhero](https://github.com/CristianOlivera1/openhero)<br>
 5. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
 6. ⭐ Starred [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills)<br>
-7. ⭐ Starred [fecarrico/A11Y.md](https://github.com/fecarrico/A11Y.md)<br>
-8. ⭐ Starred [Secreto31126/whatsapp-api-js](https://github.com/Secreto31126/whatsapp-api-js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, May 31st, 2026, 4:02:07 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, May 31st, 2026, 5:34:46 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
