@@ -85,17 +85,10 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-2. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-3. ⭐ Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)<br>
-4. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-5. ⭐ Starred [CristianOlivera1/openhero](https://github.com/CristianOlivera1/openhero)<br>
-6. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
-7. ⭐ Starred [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, June 2nd, 2026, 4:39:35 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, June 2nd, 2026, 7:15:59 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
