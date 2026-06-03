@@ -90,11 +90,10 @@
 3. ⭐ Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)<br>
 4. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 5. ⭐ Starred [CristianOlivera1/openhero](https://github.com/CristianOlivera1/openhero)<br>
-6. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, June 3rd, 2026, 4:02:29 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, June 3rd, 2026, 7:07:37 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
