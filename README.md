@@ -89,12 +89,10 @@
 2. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 3. ⭐ Starred [Noniv/snowflow_demo](https://github.com/Noniv/snowflow_demo)<br>
 4. ⭐ Starred [romainsimon/uisfx](https://github.com/romainsimon/uisfx)<br>
-5. ⭐ Starred [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager)<br>
-6. ⭐ Starred [paean-ai/openclide](https://github.com/paean-ai/openclide)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, August 12th, 2026, 6:33:54 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, August 12th, 2026, 7:29:30 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
