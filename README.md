@@ -91,11 +91,10 @@
 4. ⭐ Starred [romainsimon/uisfx](https://github.com/romainsimon/uisfx)<br>
 5. ⭐ Starred [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager)<br>
 6. ⭐ Starred [paean-ai/openclide](https://github.com/paean-ai/openclide)<br>
-7. ⭐ Starred [JassiSingh08/rn-expo-emoji-picker](https://github.com/JassiSingh08/rn-expo-emoji-picker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, August 12th, 2026, 4:32:35 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, August 12th, 2026, 5:31:52 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
