@@ -85,15 +85,16 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill)<br>
-2. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+1. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
+2. ⭐ Starred [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill)<br>
 3. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-4. ⭐ Starred [Noniv/snowflow_demo](https://github.com/Noniv/snowflow_demo)<br>
-5. ⭐ Starred [romainsimon/uisfx](https://github.com/romainsimon/uisfx)<br>
+4. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+5. ⭐ Starred [Noniv/snowflow_demo](https://github.com/Noniv/snowflow_demo)<br>
+6. ⭐ Starred [romainsimon/uisfx](https://github.com/romainsimon/uisfx)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, August 14th, 2026, 2:22:47 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, August 14th, 2026, 3:11:51 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
