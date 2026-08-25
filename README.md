@@ -91,13 +91,12 @@
 4. ⭐ Starred [CristianOlivera1/Aura](https://github.com/CristianOlivera1/Aura)<br>
 5. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
 6. ⭐ Starred [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill)<br>
-7. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-8. ⭐ Starred [Noniv/snowflow_demo](https://github.com/Noniv/snowflow_demo)<br>
-9. ⭐ Starred [romainsimon/uisfx](https://github.com/romainsimon/uisfx)<br>
+7. ⭐ Starred [Noniv/snowflow_demo](https://github.com/Noniv/snowflow_demo)<br>
+8. ⭐ Starred [romainsimon/uisfx](https://github.com/romainsimon/uisfx)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, August 25th, 2026, 5:51:59 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, August 25th, 2026, 6:17:04 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
