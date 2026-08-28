@@ -94,11 +94,10 @@
 7. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
 8. ⭐ Starred [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill)<br>
 9. ⭐ Starred [Noniv/snowflow_demo](https://github.com/Noniv/snowflow_demo)<br>
-10. ⭐ Starred [romainsimon/uisfx](https://github.com/romainsimon/uisfx)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, August 27th, 2026, 2:04:23 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, August 27th, 2026, 10:33:33 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
