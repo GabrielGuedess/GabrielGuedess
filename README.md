@@ -85,19 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [David-Crty/databasement](https://github.com/David-Crty/databasement)<br>
-2. ⭐ Starred [amasun/Pear-no](https://github.com/amasun/Pear-no)<br>
-3. ⭐ Starred [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid)<br>
-4. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+1. ⭐ Starred [bruin-data/ingestr](https://github.com/bruin-data/ingestr)<br>
+2. ⭐ Starred [David-Crty/databasement](https://github.com/David-Crty/databasement)<br>
+3. ⭐ Starred [amasun/Pear-no](https://github.com/amasun/Pear-no)<br>
+4. ⭐ Starred [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid)<br>
 5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-6. ⭐ Starred [CristianOlivera1/Aura](https://github.com/CristianOlivera1/Aura)<br>
-7. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
-8. ⭐ Starred [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill)<br>
-9. ⭐ Starred [Noniv/snowflow_demo](https://github.com/Noniv/snowflow_demo)<br>
+6. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+7. ⭐ Starred [CristianOlivera1/Aura](https://github.com/CristianOlivera1/Aura)<br>
+8. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
+9. ⭐ Starred [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill)<br>
+10. ⭐ Starred [Noniv/snowflow_demo](https://github.com/Noniv/snowflow_demo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, August 29th, 2026, 3:59:50 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, August 29th, 2026, 6:32:32 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
