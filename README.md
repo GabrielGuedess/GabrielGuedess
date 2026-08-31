@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-2. ⭐ Starred [bruin-data/ingestr](https://github.com/bruin-data/ingestr)<br>
-3. ⭐ Starred [David-Crty/databasement](https://github.com/David-Crty/databasement)<br>
-4. ⭐ Starred [amasun/Pear-no](https://github.com/amasun/Pear-no)<br>
-5. ⭐ Starred [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid)<br>
-6. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-7. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-8. ⭐ Starred [CristianOlivera1/Aura](https://github.com/CristianOlivera1/Aura)<br>
-9. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
-10. ⭐ Starred [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill)<br>
+1. ⭐ Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)<br>
+2. ⭐ Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)<br>
+3. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+4. ⭐ Starred [bruin-data/ingestr](https://github.com/bruin-data/ingestr)<br>
+5. ⭐ Starred [David-Crty/databasement](https://github.com/David-Crty/databasement)<br>
+6. ⭐ Starred [amasun/Pear-no](https://github.com/amasun/Pear-no)<br>
+7. ⭐ Starred [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid)<br>
+8. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+9. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+10. ⭐ Starred [CristianOlivera1/Aura](https://github.com/CristianOlivera1/Aura)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, August 31st, 2026, 11:34:52 AM BRT</b>
+<p align="center">Last refresh: <b>Monday, August 31st, 2026, 5:28:06 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
