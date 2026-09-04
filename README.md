@@ -93,12 +93,12 @@
 6. ⭐ Starred [amasun/Pear-no](https://github.com/amasun/Pear-no)<br>
 7. ⭐ Starred [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid)<br>
 8. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-9. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-10. ⭐ Starred [CristianOlivera1/Aura](https://github.com/CristianOlivera1/Aura)<br>
+9. ⭐ Starred [CristianOlivera1/Aura](https://github.com/CristianOlivera1/Aura)<br>
+10. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, September 3rd, 2026, 9:30:58 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, September 4th, 2026, 2:13:34 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
