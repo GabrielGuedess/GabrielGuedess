@@ -86,18 +86,18 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-2. ⭐ Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)<br>
-3. ⭐ Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)<br>
-4. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-5. ⭐ Starred [bruin-data/ingestr](https://github.com/bruin-data/ingestr)<br>
-6. ⭐ Starred [David-Crty/databasement](https://github.com/David-Crty/databasement)<br>
-7. ⭐ Starred [amasun/Pear-no](https://github.com/amasun/Pear-no)<br>
-8. ⭐ Starred [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid)<br>
-9. ⭐ Starred [CristianOlivera1/Aura](https://github.com/CristianOlivera1/Aura)<br>
+2. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+3. ⭐ Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)<br>
+4. ⭐ Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)<br>
+5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+6. ⭐ Starred [bruin-data/ingestr](https://github.com/bruin-data/ingestr)<br>
+7. ⭐ Starred [David-Crty/databasement](https://github.com/David-Crty/databasement)<br>
+8. ⭐ Starred [amasun/Pear-no](https://github.com/amasun/Pear-no)<br>
+9. ⭐ Starred [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, September 13th, 2026, 10:17:03 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, September 14th, 2026, 3:34:14 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
