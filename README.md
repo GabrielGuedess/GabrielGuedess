@@ -94,11 +94,10 @@
 7. ⭐ Starred [amasun/Pear-no](https://github.com/amasun/Pear-no)<br>
 8. ⭐ Starred [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid)<br>
 9. ⭐ Starred [CristianOlivera1/Aura](https://github.com/CristianOlivera1/Aura)<br>
-10. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, September 13th, 2026, 8:21:40 PM BRT</b>
+<p align="center">Last refresh: <b>Sunday, September 13th, 2026, 10:17:03 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
