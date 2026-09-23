@@ -94,11 +94,10 @@
 7. ⭐ Starred [bruin-data/ingestr](https://github.com/bruin-data/ingestr)<br>
 8. ⭐ Starred [David-Crty/databasement](https://github.com/David-Crty/databasement)<br>
 9. ⭐ Starred [amasun/Pear-no](https://github.com/amasun/Pear-no)<br>
-10. ⭐ Starred [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, September 23rd, 2026, 2:33:56 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, September 23rd, 2026, 5:50:10 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
