@@ -93,11 +93,10 @@
 6. ⭐ Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)<br>
 7. ⭐ Starred [bruin-data/ingestr](https://github.com/bruin-data/ingestr)<br>
 8. ⭐ Starred [David-Crty/databasement](https://github.com/David-Crty/databasement)<br>
-9. ⭐ Starred [amasun/Pear-no](https://github.com/amasun/Pear-no)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, September 25th, 2026, 3:13:59 PM BRT</b>
+<p align="center">Last refresh: <b>Friday, September 25th, 2026, 6:42:26 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
