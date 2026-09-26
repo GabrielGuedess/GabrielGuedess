@@ -92,11 +92,10 @@
 5. ⭐ Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)<br>
 6. ⭐ Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)<br>
 7. ⭐ Starred [bruin-data/ingestr](https://github.com/bruin-data/ingestr)<br>
-8. ⭐ Starred [David-Crty/databasement](https://github.com/David-Crty/databasement)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, September 25th, 2026, 9:14:55 PM BRT</b>
+<p align="center">Last refresh: <b>Saturday, September 26th, 2026, 2:12:11 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
