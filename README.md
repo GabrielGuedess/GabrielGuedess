@@ -91,11 +91,10 @@
 4. ⭐ Starred [latent-spaces/brag](https://github.com/latent-spaces/brag)<br>
 5. ⭐ Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)<br>
 6. ⭐ Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)<br>
-7. ⭐ Starred [bruin-data/ingestr](https://github.com/bruin-data/ingestr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, September 28th, 2026, 11:06:27 PM BRT</b>
+<p align="center">Last refresh: <b>Tuesday, September 29th, 2026, 5:46:41 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
