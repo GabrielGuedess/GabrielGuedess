@@ -90,12 +90,10 @@
 3. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 4. ⭐ Starred [boraoztunc/skills](https://github.com/boraoztunc/skills)<br>
 5. ⭐ Starred [latent-spaces/brag](https://github.com/latent-spaces/brag)<br>
-6. ⭐ Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)<br>
-7. ⭐ Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, September 30th, 2026, 9:14:46 PM BRT</b>
+<p align="center">Last refresh: <b>Thursday, October 1st, 2026, 3:13:04 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
