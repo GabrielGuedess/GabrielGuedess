@@ -85,17 +85,17 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [audiocn/ui](https://github.com/audiocn/ui)<br>
-2. ⭐ Starred [kaventro/motion-designer](https://github.com/kaventro/motion-designer)<br>
-3. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-4. ⭐ Starred [vladmandic/human](https://github.com/vladmandic/human)<br>
-5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+1. ⭐ Starred [MisaDev4/bo1-zombies-decompiled](https://github.com/MisaDev4/bo1-zombies-decompiled)<br>
+2. ⭐ Starred [audiocn/ui](https://github.com/audiocn/ui)<br>
+3. ⭐ Starred [kaventro/motion-designer](https://github.com/kaventro/motion-designer)<br>
+4. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+5. ⭐ Starred [vladmandic/human](https://github.com/vladmandic/human)<br>
 6. ⭐ Starred [boraoztunc/skills](https://github.com/boraoztunc/skills)<br>
 7. ⭐ Starred [latent-spaces/brag](https://github.com/latent-spaces/brag)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, October 9th, 2026, 5:09:01 AM BRT</b>
+<p align="center">Last refresh: <b>Friday, October 9th, 2026, 12:23:20 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
