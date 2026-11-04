@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-2. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-3. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)<br>
-4. ⭐ Starred [ctresb/leis](https://github.com/ctresb/leis)<br>
-5. ⭐ Starred [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search)<br>
-6. 🔱 Forked [GabrielGuedess/ai-job-search](https://github.com/GabrielGuedess/ai-job-search) from [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search)<br>
+1. ⭐ Starred [shadcn-labs/transition-kit](https://github.com/shadcn-labs/transition-kit)<br>
+2. ⭐ Starred [shadcn-labs/editorcn](https://github.com/shadcn-labs/editorcn)<br>
+3. ⭐ Starred [AbdullahMukadam/tristack](https://github.com/AbdullahMukadam/tristack)<br>
+4. ⭐ Starred [scenario-labs/skills](https://github.com/scenario-labs/skills)<br>
+5. ⭐ Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)<br>
+6. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
 7. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-8. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
-9. ⭐ Starred [felipemenezes098/swiftui-flx](https://github.com/felipemenezes098/swiftui-flx)<br>
-10. ⭐ Starred [MisaDev4/bo1-zombies-decompiled](https://github.com/MisaDev4/bo1-zombies-decompiled)<br>
+8. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)<br>
+9. ⭐ Starred [ctresb/leis](https://github.com/ctresb/leis)<br>
+10. ⭐ Starred [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, November 4th, 2026, 3:45:53 AM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, November 4th, 2026, 11:56:54 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
