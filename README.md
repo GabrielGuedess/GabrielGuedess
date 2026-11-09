@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shadcn-labs/transition-kit](https://github.com/shadcn-labs/transition-kit)<br>
-2. ⭐ Starred [shadcn-labs/editorcn](https://github.com/shadcn-labs/editorcn)<br>
-3. ⭐ Starred [AbdullahMukadam/tristack](https://github.com/AbdullahMukadam/tristack)<br>
-4. ⭐ Starred [scenario-labs/skills](https://github.com/scenario-labs/skills)<br>
-5. ⭐ Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)<br>
-6. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+1. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+2. ⭐ Starred [shadcn-labs/transition-kit](https://github.com/shadcn-labs/transition-kit)<br>
+3. ⭐ Starred [shadcn-labs/editorcn](https://github.com/shadcn-labs/editorcn)<br>
+4. ⭐ Starred [AbdullahMukadam/tristack](https://github.com/AbdullahMukadam/tristack)<br>
+5. ⭐ Starred [scenario-labs/skills](https://github.com/scenario-labs/skills)<br>
+6. ⭐ Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)<br>
 7. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-8. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)<br>
-9. ⭐ Starred [ctresb/leis](https://github.com/ctresb/leis)<br>
-10. ⭐ Starred [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search)<br>
+8. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+9. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)<br>
+10. ⭐ Starred [ctresb/leis](https://github.com/ctresb/leis)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, November 8th, 2026, 9:17:35 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, November 9th, 2026, 3:56:44 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
