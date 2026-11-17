@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)<br>
-2. ⭐ Starred [we-promise/sure](https://github.com/we-promise/sure)<br>
-3. ⭐ Starred [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)<br>
-4. ⭐ Starred [codemure-official/ink-bleed-theme-changer](https://github.com/codemure-official/ink-bleed-theme-changer)<br>
-5. ⭐ Starred [atybdot/glimm-adapters](https://github.com/atybdot/glimm-adapters)<br>
-6. ⭐ Starred [oz9un/sshole](https://github.com/oz9un/sshole)<br>
-7. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-8. ⭐ Starred [shadcn-labs/transition-kit](https://github.com/shadcn-labs/transition-kit)<br>
-9. ⭐ Starred [shadcn-labs/editorcn](https://github.com/shadcn-labs/editorcn)<br>
-10. ⭐ Starred [AbdullahMukadam/tristack](https://github.com/AbdullahMukadam/tristack)<br>
+1. ⭐ Starred [INSANE0777/Awwwards-mcp](https://github.com/INSANE0777/Awwwards-mcp)<br>
+2. ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)<br>
+3. ⭐ Starred [we-promise/sure](https://github.com/we-promise/sure)<br>
+4. ⭐ Starred [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)<br>
+5. ⭐ Starred [codemure-official/ink-bleed-theme-changer](https://github.com/codemure-official/ink-bleed-theme-changer)<br>
+6. ⭐ Starred [atybdot/glimm-adapters](https://github.com/atybdot/glimm-adapters)<br>
+7. ⭐ Starred [oz9un/sshole](https://github.com/oz9un/sshole)<br>
+8. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+9. ⭐ Starred [shadcn-labs/transition-kit](https://github.com/shadcn-labs/transition-kit)<br>
+10. ⭐ Starred [shadcn-labs/editorcn](https://github.com/shadcn-labs/editorcn)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, November 16th, 2026, 1:37:13 PM BRT</b>
+<p align="center">Last refresh: <b>Monday, November 16th, 2026, 9:33:19 PM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
