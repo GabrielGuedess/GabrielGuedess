@@ -85,20 +85,20 @@
 <summary><h3>:zap: Recent GitHub Activity</h3></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>
-2. ⭐ Starred [PedroRochaFernandes/freelaflow](https://github.com/PedroRochaFernandes/freelaflow)<br>
-3. ⭐ Starred [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>
-4. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
-5. ⭐ Starred [INSANE0777/Awwwards-mcp](https://github.com/INSANE0777/Awwwards-mcp)<br>
-6. ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)<br>
-7. ⭐ Starred [we-promise/sure](https://github.com/we-promise/sure)<br>
-8. ⭐ Starred [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)<br>
-9. ⭐ Starred [codemure-official/ink-bleed-theme-changer](https://github.com/codemure-official/ink-bleed-theme-changer)<br>
-10. ⭐ Starred [atybdot/glimm-adapters](https://github.com/atybdot/glimm-adapters)<br>
+1. ⭐ Starred [ersinkoc/AI-Video-Factory](https://github.com/ersinkoc/AI-Video-Factory)<br>
+2. ⭐ Starred [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)<br>
+3. ⭐ Starred [PedroRochaFernandes/freelaflow](https://github.com/PedroRochaFernandes/freelaflow)<br>
+4. ⭐ Starred [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)<br>
+5. ⬆️ Pushed undefined commit(s) to [GabrielGuedess/CodeLeap](https://github.com/GabrielGuedess/CodeLeap)<br>
+6. ⭐ Starred [INSANE0777/Awwwards-mcp](https://github.com/INSANE0777/Awwwards-mcp)<br>
+7. ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)<br>
+8. ⭐ Starred [we-promise/sure](https://github.com/we-promise/sure)<br>
+9. ⭐ Starred [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)<br>
+10. ⭐ Starred [codemure-official/ink-bleed-theme-changer](https://github.com/codemure-official/ink-bleed-theme-changer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, November 24th, 2026, 11:39:11 PM BRT</b>
+<p align="center">Last refresh: <b>Wednesday, November 25th, 2026, 8:52:30 AM BRT</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
